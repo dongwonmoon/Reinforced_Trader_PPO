@@ -206,7 +206,7 @@ class Agent:
             float: 실행 후 손익률
         """
         action_prob = prob[0][action]
-        confidence = utils.min_max_scaling(action_prob).numpy()
+        confidence = utils.min_max_scaling(action_prob).cpu()
 
         # 선택한 행동이 유효하지 않으면 관망 행동으로 전환
         if not self.validate_action(action):

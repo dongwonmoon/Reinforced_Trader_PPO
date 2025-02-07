@@ -133,7 +133,7 @@ class PPO:
             # final loss of clipped objective PPO
             loss = (
                 -torch.min(surr1, surr2)
-                + 0.5 * self.MseLoss(state_values, rewards)
+                + 0.5 * self.mse_loss(state_values, rewards)
                 - 0.01 * dist_entropy
             )
 
