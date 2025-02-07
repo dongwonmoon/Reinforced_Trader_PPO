@@ -1,7 +1,7 @@
 # Reinforced_Trader_PPO
 Reinforced Trader using PPO
 
-제 코드에는 데이터 정규화가 없지만 반드시 정규화 해야합니다.
+Working ...
 
 @misc{pytorch_minimal_ppo,
     author = {Barhate, Nikhil},
