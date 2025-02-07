@@ -8,7 +8,7 @@ setting = {"PRICE_IDX": 3, "window": 50}  # 종가의 위치
 network_setting = {
     "actor_hidden_dim": 128,
     "critic_hidden_dim": 128,
-    "transformer_layers": 4,
+    "transformer_layers": 1,
     "nhead": 4,
     "dropout": 0.1,
 }
