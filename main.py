@@ -135,7 +135,7 @@ class TradingSystem:
             epoch_loss = sum(losses) / len(losses)
 
             # Save progress
-            self.trainer.memory.reset()
+            self.trainer.buffer.clear()
             self.logger.log_training_metrics(epoch, epoch_loss)
             if epoch % self.save_model_freq == 0:
                 self.trainer.save()
