@@ -59,6 +59,7 @@ class ActorCritic(nn.Module):
         self.transformer_encoder: nn.TransformerEncoder = nn.TransformerEncoder(
             encoder_layer, num_layers=transformer_layers
         )
+        self.norm: nn.LayerNorm = nn.LayerNorm(state_dim)
         self.dropout: nn.Dropout = nn.Dropout(dropout)
 
         # Actor 네트워크 구성: 상태와 에이전트 상태를 결합하여 행동 확률 산출
@@ -98,7 +99,8 @@ class ActorCritic(nn.Module):
         """
         # Transformer 인코더를 통해 sequence로부터 특성 추출
         trans_out: torch.Tensor = self.transformer_encoder(state)
-        feature: torch.Tensor = trans_out.mean(dim=1)  # 평균 풀링
+        norm_out: torch.Tensor = self.norm(trans_out)
+        feature: torch.Tensor = norm_out.mean(dim=1)  # 평균 풀링
         feature = torch.nan_to_num(feature, nan=0.0, posinf=1e6, neginf=-1e6)
         feature = self.dropout(feature)
 
