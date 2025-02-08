@@ -146,7 +146,7 @@ class Agent:
         trading_unit = self.decide_buy_unit(confidence)
         invest_cost = curr_price * (1 + self.TRADING_CHARGE) * trading_unit
 
-        assert invest_cost > 0
+        assert invest_cost >= 0
 
         self.balance -= invest_cost
 
