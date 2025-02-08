@@ -3,6 +3,9 @@ Reinforced Trader using PPO
 
 Working ...
 
+### Todo
+Refactoring, eval, analysis
+
 @misc{pytorch_minimal_ppo,
     author = {Barhate, Nikhil},
     title = {Minimal PyTorch Implementation of Proximal Policy Optimization},
