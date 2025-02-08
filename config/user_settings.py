@@ -6,10 +6,10 @@ trading = {
 setting = {"PRICE_IDX": -1, "window": 50}  # 종가의 위치
 
 network_setting = {
-    "d_model": 512,
+    "d_model": 256,
     "actor_hidden_dim": 256,
     "critic_hidden_dim": 128,
-    "transformer_layers": 1,
+    "transformer_layers": 4,
     "nhead": 4,
     "dropout": 0.1,
     "max_seq_length": 200,
@@ -21,6 +21,7 @@ trainer_setting = {
     "lr_critic": 1e-3,
     "gamma": 0.99,
     "K_epochs": 5,
+    "batch_size": 128,
     "eps_clip": 0.2,
-    "checkpoint_path": "./model/policy_weights.pt",
+    "checkpoint_path": "./weight/policy_weights.pt",
 }
