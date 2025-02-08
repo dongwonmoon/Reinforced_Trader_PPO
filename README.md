@@ -30,6 +30,13 @@ Analysis
 결과 데이터 분석 및 개선사항 도출
 
 References
-PPO Implementation:
-Barhate, Nikhil (2021). Minimal PyTorch Implementation of Proximal Policy Optimization.
-GitHub Repository
+```
+@misc{pytorch_minimal_ppo,
+    author = {Barhate, Nikhil},
+    title = {Minimal PyTorch Implementation of Proximal Policy Optimization},
+    year = {2021},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/nikhilbarhate99/PPO-PyTorch}},
+}
+```
