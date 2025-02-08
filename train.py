@@ -47,9 +47,7 @@ class Trainer:
         self.logger = TradingLogger()
         self.trainer = self._initialize_trainer()
 
-        self.train_model_freq = 4
-        self.load_model_freq = 4
-        self.save_model_freq = 4  #
+        self.save_model_freq = 4
         self.current_epoch = 0
 
     def _initialize_trainer(self) -> PPO:
@@ -145,19 +143,19 @@ class Trainer:
                 reward = agent.act(action.item(), action_probs)
 
                 # Record reward and termination status in trainer buffer
-                self.trainer.push(
-                    observation,
-                    agent_state,
-                    action,
-                    action_logprob,
-                    state_val,
-                    reward,
-                    env.done,
-                )
+            self.trainer.push(
+                observation,
+                agent_state,
+                action,
+                action_logprob,
+                state_val,
+                reward,
+                env.done,
+            )
 
-                # Update observation and state for next iteration
-                observation = env.observe().values
-                agent_state = list(agent.get_states())
+            # Update observation and state for next iteration
+            observation = env.observe().values
+            agent_state = list(agent.get_states())
 
         self.trainer.update()
 
