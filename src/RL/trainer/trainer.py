@@ -111,45 +111,59 @@ class PPO:
 
         losses = []
 
-        for _ in range(self.K_epochs):
+        batch_size = 32
+        num_samples = old_states.size(0)
 
-            # Evaluating old actions and values
-            logprobs, state_values, dist_entropy = self.policy.evaluate(
-                old_states, old_agent_states, old_actions
-            )
+        for epoch in range(self.K_epochs):
+            # Shuffle indices for the mini-batch
+            indices = torch.randperm(num_samples)
+            for start in range(0, num_samples, batch_size):
+                end = start + batch_size
+                mini_idx = indices[start:end]
 
-            # match state_values tensor dimensions with rewards tensor
-            state_values = torch.squeeze(state_values)
+                mini_old_states = old_states[mini_idx]
+                mini_old_agent_states = old_agent_states[mini_idx]
+                mini_old_actions = old_actions[mini_idx]
+                mini_old_logprobs = old_logprobs[mini_idx]
+                mini_rewards = rewards[mini_idx]
+                mini_advantages = advantages[mini_idx]
 
-            # Finding the ratio (pi_theta / pi_theta__old)
-            ratios = torch.exp(logprobs - old_logprobs.detach())
+                # Evaluate actions and values for the mini-batch
+                logprobs, state_values, dist_entropy = self.policy.evaluate(
+                    mini_old_states, mini_old_agent_states, mini_old_actions
+                )
+                state_values = torch.squeeze(state_values)
 
-            # Finding Surrogate Loss
-            surr1 = ratios * advantages
-            surr2 = (
-                torch.clamp(ratios, 1 - self.eps_clip, 1 + self.eps_clip) * advantages
-            )
+                # Calculate the ratio (pi_theta / pi_theta_old)
+                ratios = torch.exp(logprobs - mini_old_logprobs.detach())
 
-            # final loss of clipped objective PPO
-            loss = (
-                -torch.min(surr1, surr2)
-                + 0.5 * self.mse_loss(state_values, rewards)
-                - 0.01 * dist_entropy
-            )
+                # Calculate surrogate losses
+                surr1 = ratios * mini_advantages
+                surr2 = (
+                    torch.clamp(ratios, 1 - self.eps_clip, 1 + self.eps_clip)
+                    * mini_advantages
+                )
 
-            # take gradient step
-            self.optimizer.zero_grad()
-            loss.mean().backward()
-            self.optimizer.step()
+                # Final loss of clipped objective PPO
+                loss = (
+                    -torch.min(surr1, surr2)
+                    + 0.5 * self.mse_loss(state_values, mini_rewards)
+                    - 0.01 * dist_entropy
+                )
 
-            losses.append(loss.mean())
+                # Take gradient step
+                self.optimizer.zero_grad()
+                loss.mean().backward()
+                self.optimizer.step()
 
-        # Copy new weights into old policy
-        self.policy_old.load_state_dict(self.policy.state_dict())
+                losses.append(loss.mean())
 
-        # clear buffer
-        self.buffer.clear()
-        return sum(losses) / len(losses)
+            # Copy new weights into old policy
+            self.policy_old.load_state_dict(self.policy.state_dict())
+
+            # Clear buffer
+            self.buffer.clear()
+            return sum(losses) / len(losses)
 
     def save(self, checkpoint_path: str = trainer_setting["checkpoint_path"]):
         torch.save(self.policy_old.state_dict(), checkpoint_path)
