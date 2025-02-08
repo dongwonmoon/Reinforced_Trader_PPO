@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 import torch
 
 from config.companies import companies
-from logger import TradingLogger
+from config.logger import TradingLogger
 from src.agent import Agent
 from src.environment import Environment
 from src.model.trainer import PPO
@@ -131,8 +131,8 @@ class Trainer:
         agent_state = list(agent.get_states())
 
         # Simulation loop for the episode
-        with torch.no_grad:
-            while not env.done:
+        while not env.done:
+            with torch.no_grad():
                 observation = (
                     torch.FloatTensor(observation).unsqueeze(0).to(self.trainer.device)
                 )

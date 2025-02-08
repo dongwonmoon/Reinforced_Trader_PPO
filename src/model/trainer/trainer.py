@@ -36,7 +36,7 @@ class PPO:
         self.optimizer = torch.optim.Adam(
             [
                 {
-                    "params": self.policy.transformer_encoder.parameters(),
+                    "params": self.policy.encoder.parameters(),
                     "lr": lr_encoder,
                 },
                 {"params": self.policy.actor.parameters(), "lr": lr_actor},
