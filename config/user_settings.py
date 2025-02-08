@@ -20,7 +20,7 @@ trainer_setting = {
     "lr_actor": 3e-4,
     "lr_critic": 1e-3,
     "gamma": 0.99,
-    "K_epochs": 1,
+    "K_epochs": 5,
     "batch_size": 128,
     "eps_clip": 0.2,
     "checkpoint_path": "./weight/policy_weights.pt",
