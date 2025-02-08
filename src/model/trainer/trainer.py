@@ -1,11 +1,10 @@
-from typing import Any, List, Tuple
-
 import torch
 import torch.nn as nn
+from torch.utils.data import TensorDataset, DataLoader
+from typing import Any
 
-from ..RolloutBuffer import RolloutBuffer
+from .rollout_buffer import RolloutBuffer
 from ..Network import ActorCritic
-
 from config.user_settings import trainer_setting
 
 
@@ -20,18 +19,20 @@ class PPO:
         lr_critic: float = trainer_setting["lr_critic"],
         gamma: float = trainer_setting["gamma"],
         K_epochs: int = trainer_setting["K_epochs"],
+        batch_size: int = trainer_setting["batch_size"],
         eps_clip: float = trainer_setting["eps_clip"],
     ) -> None:
-        self.gamma = gamma
-        self.eps_clip = eps_clip
-        self.K_epochs = K_epochs
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.gamma: float = gamma
+        self.eps_clip: float = eps_clip
+        self.K_epochs: int = K_epochs
+        self.batch_size: int = batch_size
+        self.device: str = "cuda" if torch.cuda.is_available() else "cpu"
 
-        self.buffer = RolloutBuffer()
+        self.buffer: RolloutBuffer = RolloutBuffer()
 
-        self.policy = ActorCritic(state_dim, agent_state_dim, num_actions).to(
-            self.device
-        )
+        self.policy: ActorCritic = ActorCritic(
+            state_dim, agent_state_dim, num_actions
+        ).to(self.device)
         self.optimizer = torch.optim.Adam(
             [
                 {
@@ -43,44 +44,49 @@ class PPO:
             ]
         )
 
-        self.policy_old = ActorCritic(state_dim, agent_state_dim, num_actions).to(
-            self.device
-        )
+        self.policy_old: ActorCritic = ActorCritic(
+            state_dim, agent_state_dim, num_actions
+        ).to(self.device)
         self.policy_old.load_state_dict(self.policy.state_dict())
 
-        self.mse_loss = nn.MSELoss()
+        self.mse_loss: nn.Module = nn.MSELoss()
 
-    def select_action(self, state, agent_state) -> int:
-        with torch.no_grad():
-            state = torch.FloatTensor(state).unsqueeze(0).to(self.device)
-            agent_state = torch.FloatTensor(agent_state).unsqueeze(0).to(self.device)
-
-            action, action_probs, action_logprob, state_val = self.policy_old.act(
-                state, agent_state
-            )
-
+    def push(
+        self,
+        state: torch.Tensor,
+        agent_state: torch.Tensor,
+        action: torch.Tensor,
+        action_logprob: torch.Tensor,
+        state_val: torch.Tensor,
+        reward: float,
+        done: bool,
+    ) -> None:
+        # Ensure the inputs are proper data types before appending to the buffer.
         self.buffer.states.append(state)
         self.buffer.agent_states.append(agent_state)
         self.buffer.actions.append(action)
         self.buffer.logprobs.append(action_logprob)
         self.buffer.state_values.append(state_val)
+        self.buffer.rewards.append(float(reward))
+        self.buffer.dones.append(bool(done))
 
-        return action.item(), action_probs
-
-    def update(self):
-        rewards = []
-        discounted_reward = 0
+    def update(self) -> torch.Tensor:
+        # Compute discounted rewards with proper data types
+        rewards_list: list[float] = []
+        discounted_reward: float = 0.0
+        # Reverse traversing ensures proper discounting, convert done to bool if needed.
         for reward, done in zip(
             reversed(self.buffer.rewards), reversed(self.buffer.dones)
         ):
             if done:
-                discounted_reward = 0
-            discounted_reward = reward + (self.gamma * discounted_reward)
-            rewards.insert(0, discounted_reward)
+                discounted_reward = 0.0
+            discounted_reward = float(reward) + (self.gamma * discounted_reward)
+            rewards_list.insert(0, discounted_reward)
 
-        rewards = torch.tensor(rewards, dtype=torch.float32).to(self.device)
+        rewards = torch.tensor(rewards_list, dtype=torch.float32, device=self.device)
         rewards = (rewards - rewards.mean()) / (rewards.std() + 1e-7)
 
+        # Use torch.stack to create tensors from the stored list of tensors.
         old_states = (
             torch.squeeze(torch.stack(self.buffer.states, dim=0))
             .detach()
@@ -109,66 +115,60 @@ class PPO:
 
         advantages = rewards.detach() - old_state_values.detach()
 
-        losses = []
+        # Ensure that rewards and advantages are shaped correctly by using TensorDataset.
+        dataset = TensorDataset(
+            old_states, old_agent_states, old_actions, old_logprobs, rewards, advantages
+        )
+        dataloader = DataLoader(dataset, batch_size=self.batch_size, shuffle=True)
 
-        batch_size = 32
-        num_samples = old_states.size(0)
-
+        losses: list[torch.Tensor] = []
         for epoch in range(self.K_epochs):
-            # Shuffle indices for the mini-batch
-            indices = torch.randperm(num_samples)
-            for start in range(0, num_samples, batch_size):
-                end = start + batch_size
-                mini_idx = indices[start:end]
-
-                mini_old_states = old_states[mini_idx]
-                mini_old_agent_states = old_agent_states[mini_idx]
-                mini_old_actions = old_actions[mini_idx]
-                mini_old_logprobs = old_logprobs[mini_idx]
-                mini_rewards = rewards[mini_idx]
-                mini_advantages = advantages[mini_idx]
-
-                # Evaluate actions and values for the mini-batch
+            for (
+                mini_old_states,
+                mini_old_agent_states,
+                mini_old_actions,
+                mini_old_logprobs,
+                mini_rewards,
+                mini_advantages,
+            ) in dataloader:
+                # Evaluate the current policy on the mini-batch
                 logprobs, state_values, dist_entropy = self.policy.evaluate(
                     mini_old_states, mini_old_agent_states, mini_old_actions
                 )
                 state_values = torch.squeeze(state_values)
 
-                # Calculate the ratio (pi_theta / pi_theta_old)
+                # Calculate the probability ratio (pi_theta / pi_theta_old)
                 ratios = torch.exp(logprobs - mini_old_logprobs.detach())
 
-                # Calculate surrogate losses
+                # Compute surrogate losses via clipping strategy
                 surr1 = ratios * mini_advantages
                 surr2 = (
                     torch.clamp(ratios, 1 - self.eps_clip, 1 + self.eps_clip)
                     * mini_advantages
                 )
-
-                # Final loss of clipped objective PPO
                 loss = (
                     -torch.min(surr1, surr2)
                     + 0.5 * self.mse_loss(state_values, mini_rewards)
                     - 0.01 * dist_entropy
                 )
 
-                # Take gradient step
+                # Gradient descent step
                 self.optimizer.zero_grad()
                 loss.mean().backward()
                 self.optimizer.step()
-
                 losses.append(loss.mean())
-
-            # Copy new weights into old policy
+            # Update the old policy to the new policy after each epoch
             self.policy_old.load_state_dict(self.policy.state_dict())
 
-            # Clear buffer
-            self.buffer.clear()
-            return sum(losses) / len(losses)
+        # Clear the rollout buffer after update
+        self.buffer.clear()
 
-    def save(self, checkpoint_path: str = trainer_setting["checkpoint_path"]):
+        return sum(losses) / len(losses)
+
+    def save(self, checkpoint_path: str = trainer_setting["checkpoint_path"]) -> None:
         torch.save(self.policy_old.state_dict(), checkpoint_path)
 
-    def load(self, checkpoint_path: str = trainer_setting["checkpoint_path"]):
+    def load(self, checkpoint_path: str = trainer_setting["checkpoint_path"]) -> None:
         self.policy_old.load_state_dict(
             torch.load(checkpoint_path, map_location=lambda storage, loc: storage)
         )

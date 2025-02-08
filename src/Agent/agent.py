@@ -1,7 +1,6 @@
 from typing import Tuple
 import numpy as np
 import torch
-import math
 
 from config.user_settings import trading
 
@@ -21,7 +20,8 @@ class Agent:
     def __init__(self, environment, initial_balance: float) -> None:
         """
         에이전트를 초기화합니다.
-        매개변수:
+
+        Parameters:
             environment: 환경 정보 (예: reset, observe, get_price 메서드 포함)
             initial_balance (float): 초기 계좌 잔액
         """
@@ -56,7 +56,8 @@ class Agent:
     def get_states(self) -> Tuple[float, float, float, float]:
         """
         에이전트의 현재 상태를 반환합니다.
-        반환값:
+
+        return:
             (잔고, 포트폴리오 가치, 손익, 평균 매수 단가)
         """
         return (self.balance, self.portfolio_value, self.profitloss, self.avg_buy_price)
@@ -64,22 +65,25 @@ class Agent:
     def decide_action(self, pred_policy: np.ndarray) -> int:
         """
         예측된 정책을 기반으로 행동을 결정합니다.
-        매개변수:
+
+        parameters:
             pred_policy (np.ndarray): 행동 확률 배열
-        반환값:
-            int: 선택된 행동 인덱스
+        return:
+            int: Argmax policy
         """
         return int(np.argmax(pred_policy))
 
     def validate_action(self, action: int) -> bool:
         """
         현재 상태를 바탕으로 선택된 행동의 유효성을 확인합니다.
-        매개변수:
+
+        parameters:
             action (int): 행동 인덱스
-        반환값:
+        return:
             bool: 유효한 행동이면 True, 그렇지 않으면 False
         """
         curr_price = self.environment.get_price()
+
         if action == Agent.ACTION_BUY:
             # 잔고가 부족하면 매수 불가
             if self.balance < curr_price * (1 + self.TRADING_CHARGE):
@@ -93,38 +97,39 @@ class Agent:
     def decide_buy_unit(self, confidence: float) -> int:
         """
         매수 시 거래 단위를 결정합니다.
-        매개변수:
+
+        parameters:
             confidence (float): 정규화된 확률 값
-        반환값:
+        return:
             int: 매수할 주식 수
         """
         curr_price = self.environment.get_price()
         if self.balance <= 0:
             return 0
-        max_unit = torch.trunc(
-            torch.tensor(self.balance / (curr_price * (1 + self.TRADING_CHARGE)))
-        )
+        max_unit = np.trunc(self.balance / (curr_price * (1 + self.TRADING_CHARGE)))
         assert max_unit >= 0
 
-        return int(torch.trunc(confidence * max_unit).item())
+        return np.trunc(confidence * max_unit)
 
     def decide_sell_unit(self, confidence: float) -> int:
         """
         매도 시 거래 단위를 결정합니다.
-        매개변수:
-            confidence (float): 정규화된 확률 값
-        반환값:
+
+        parameters:
+            confidence (float): policy[action]
+        return:
             int: 매도할 주식 수
         """
-        trading_unit = int(torch.trunc(torch.tensor(confidence * self.num_stocks)))
-        if trading_unit < 0:
-            raise ValueError(f"잘못된 매도 단위: {trading_unit}")
+        trading_unit = np.trunc(confidence * self.num_stocks)
+
+        assert trading_unit >= 0
         return trading_unit
 
     def _update_portfolio_state(self, curr_price: float) -> None:
         """
         포트폴리오 가치 및 손익률을 업데이트합니다.
-        매개변수:
+
+        parameter:
             curr_price (float): 현재 주가
         """
         self.portfolio_value = self.balance + curr_price * self.num_stocks
@@ -133,14 +138,16 @@ class Agent:
     def _handle_buy(self, curr_price: float, confidence: float) -> None:
         """
         매수 행동을 처리합니다.
-        매개변수:
+
+        parameter:
             curr_price (float): 현재 주가
-            confidence (float): 정규화된 확률 값
+            confidence (float): policy[action]
         """
         trading_unit = self.decide_buy_unit(confidence)
         invest_cost = curr_price * (1 + self.TRADING_CHARGE) * trading_unit
-        if trading_unit <= 0 or invest_cost <= 0:
-            return
+
+        assert invest_cost > 0
+
         self.balance -= invest_cost
 
         # 평균 매수 단가 갱신
@@ -152,19 +159,17 @@ class Agent:
     def _handle_sell(self, curr_price: float, confidence: float) -> None:
         """
         매도 행동을 처리합니다.
-        매개변수:
+
+        parameters:
             curr_price (float): 현재 주가
             confidence (float): 정규화된 확률 값
         """
         trading_unit = self.decide_sell_unit(confidence)
-        if trading_unit <= 0:
-            return
 
         invest_gain = (
             curr_price * (1 - (self.TRADING_TAX + self.TRADING_CHARGE)) * trading_unit
         )
-        if invest_gain <= 0:
-            return
+        assert invest_gain >= 0
 
         if self.num_stocks > trading_unit:
             total_cost = (
@@ -189,15 +194,15 @@ class Agent:
     def act(self, action: int, prob: torch.Tensor) -> float:
         """
         선택된 행동을 실행하고 포트폴리오 상태를 업데이트합니다.
-        매개변수:
+
+        parameter:
             action (int): 선택된 행동 인덱스
             prob (torch.Tensor): 각 행동의 확률을 담은 텐서 (형태: (1, 행동 차원))
-        반환값:
+
+        return:
             float: 실행 후 손익률
         """
-        confidence = float(prob.squeeze().cpu()[action])
-        if confidence <= 0:
-            raise ValueError("신뢰도가 0 이하입니다.")
+        confidence = prob.squeeze()[action].item()
 
         # 선택한 행동이 유효하지 않으면 관망으로 전환
         if not self.validate_action(action):
