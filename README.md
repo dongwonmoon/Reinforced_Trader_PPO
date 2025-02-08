@@ -1,7 +1,5 @@
 # Reinforced Trader using PPO
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/reinforced_trader_ppo)
-
 ---
 
 ## 개요
