@@ -157,8 +157,6 @@ class Trainer:
             observation = env.observe().values
             agent_state = list(agent.get_states())
 
-        self.trainer.update()
-
         self.logger.metrics.returns.append(reward)
         self.logger.log_portfolio_performance(
             company, initial_balance, agent.portfolio_value
