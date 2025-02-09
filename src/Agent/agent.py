@@ -3,7 +3,7 @@ from typing import Tuple
 import numpy as np
 import torch
 
-from config.user_settings import trading
+from config.user_settings import trading, setting
 
 
 class Agent:
@@ -28,6 +28,7 @@ class Agent:
         """
         self.environment = environment
         self.initial_balance = initial_balance
+        self.gamma = setting["gamma"]
         self._reset_state()
 
         # 상태 차원: 잔고, 포트폴리오 가치, 손익, 평균 매수 단가
@@ -105,19 +106,17 @@ class Agent:
         매수 시 거래 단위를 결정합니다.
 
         parameters:
-            confidence (float): 정규화된 확률 값
+            confidence (float): 확률 값
         return:
             int: 매수할 주식 수
         """
         curr_price = self.environment.get_price()
         if self.balance <= 0:
             return 0
-        max_unit = np.trunc(
-            self.balance / (curr_price * (1 + self.TRADING_CHARGE))
-        )
+        max_unit = np.trunc(self.balance / (curr_price * (1 + self.TRADING_CHARGE)))
         assert max_unit >= 0
 
-        return np.trunc(confidence * max_unit)
+        return np.trunc((confidence**self.gamma) * max_unit)
 
     def decide_sell_unit(self, confidence: float) -> int:
         """
@@ -128,7 +127,7 @@ class Agent:
         return:
             int: 매도할 주식 수
         """
-        trading_unit = np.trunc(confidence * self.num_stocks)
+        trading_unit = np.trunc((confidence**self.gamma) * self.num_stocks)
 
         assert trading_unit >= 0
         return trading_unit
@@ -159,13 +158,9 @@ class Agent:
         self.balance -= invest_cost
 
         # 평균 매수 단가 갱신
-        total_cost = (
-            self.avg_buy_price * self.num_stocks + curr_price * trading_unit
-        )
+        total_cost = self.avg_buy_price * self.num_stocks + curr_price * trading_unit
         self.num_stocks += trading_unit
-        self.avg_buy_price = (
-            total_cost / self.num_stocks if self.num_stocks > 0 else 0
-        )
+        self.avg_buy_price = total_cost / self.num_stocks if self.num_stocks > 0 else 0
         self.num_buy += 1
 
     def _handle_sell(self, curr_price: float, confidence: float) -> None:
@@ -179,9 +174,7 @@ class Agent:
         trading_unit = self.decide_sell_unit(confidence)
 
         invest_gain = (
-            curr_price
-            * (1 - (self.TRADING_TAX + self.TRADING_CHARGE))
-            * trading_unit
+            curr_price * (1 - (self.TRADING_TAX + self.TRADING_CHARGE)) * trading_unit
         )
         assert invest_gain >= 0
 

@@ -37,6 +37,7 @@ class ActorCritic(nn.Module):
         state_dim: int,
         agent_state_dim: int,
         num_actions: int,
+        temperature: float,
         d_model: int = network_setting["d_model"],
         actor_hidden_dim: int = network_setting["actor_hidden_dim"],
         critic_hidden_dim: int = network_setting["critic_hidden_dim"],
@@ -44,10 +45,9 @@ class ActorCritic(nn.Module):
         nhead: int = network_setting["nhead"],
         dropout: float = network_setting["dropout"],
         max_seq_length: int = network_setting["max_seq_length"],
-        test: bool = False,
     ) -> None:
         super(ActorCritic, self).__init__()
-        self.test = test
+        self.temperature = temperature
 
         # Initialize encoder for processing state
         self.encoder = TransformerEncoder(
@@ -94,7 +94,7 @@ class ActorCritic(nn.Module):
         Returns a tuple of (logits, action_probs).
         """
         logits = self.actor(feature)
-        action_probs = F.softmax(logits, dim=-1)
+        action_probs = F.softmax(logits / self.temperature, dim=-1)
         return logits, action_probs
 
     def forward(
@@ -117,23 +117,15 @@ class ActorCritic(nn.Module):
         Returns a tuple of (action, action_probs, action_logprob, state_value) with detached tensors.
         """
         action_probs, state_value = self.forward(state, agent_state)
-        if self.test:
-            return (
-                torch.argmax(action_probs.squeeze()).detach(),
-                action_probs.detach(),
-                torch.log(action_probs.squeeze()).detach(),
-                state_value.detach(),
-            )
-        else:
-            distribution = torch.distributions.Categorical(action_probs)
-            action = distribution.sample()
-            action_logprob = distribution.log_prob(action)
-            return (
-                action.detach(),
-                action_probs.detach(),
-                action_logprob.detach(),
-                state_value.detach(),
-            )
+        distribution = torch.distributions.Categorical(action_probs)
+        action = distribution.sample()
+        action_logprob = distribution.log_prob(action)
+        return (
+            action.detach(),
+            action_probs.detach(),
+            action_logprob.detach(),
+            state_value.detach(),
+        )
 
     def evaluate(
         self,
