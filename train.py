@@ -1,13 +1,13 @@
-import os
 import logging
+import os
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict
 
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
 import torch
+from sklearn.preprocessing import StandardScaler
 
 from config.companies import companies
 from config.logger import TradingLogger
@@ -104,7 +104,9 @@ class Trainer:
 
         df = pd.read_csv(file_path)
         if "Close" not in df.columns:
-            raise ValueError(f"데이터 파일에 'Close' 열이 없습니다: {file_path}")
+            raise ValueError(
+                f"데이터 파일에 'Close' 열이 없습니다: {file_path}"
+            )
 
         # Separate features and target column
         X = df.drop(columns=["Close"])
@@ -118,24 +120,30 @@ class Trainer:
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(X)
         df_scaled = pd.concat(
-            [pd.DataFrame(X_scaled, columns=X.columns), y.reset_index(drop=True)],
+            [
+                pd.DataFrame(X_scaled, columns=X.columns),
+                y.reset_index(drop=True),
+            ],
             axis=1,
         )
 
         env = Environment(df_scaled)
         agent = Agent(env, initial_balance)
 
-        observation = env.observe().values
-        agent_state = list(agent.get_states())
-
         # Simulation loop for the episode
         while not env.done:
+            observation = env.observe().values
+            agent_state = list(agent.get_states())
             with torch.no_grad():
                 observation = (
-                    torch.FloatTensor(observation).unsqueeze(0).to(self.trainer.device)
+                    torch.FloatTensor(observation)
+                    .unsqueeze(0)
+                    .to(self.trainer.device)
                 )
                 agent_state = (
-                    torch.FloatTensor(agent_state).unsqueeze(0).to(self.trainer.device)
+                    torch.FloatTensor(agent_state)
+                    .unsqueeze(0)
+                    .to(self.trainer.device)
                 )
                 action, action_probs, action_logprob, state_val = (
                     self.trainer.policy.act(observation, agent_state)
@@ -143,7 +151,7 @@ class Trainer:
                 reward = agent.act(action.item(), action_probs)
 
                 # Record reward and termination status in trainer buffer
-            self.trainer.push(
+            self.trainer.buffer.push(
                 observation,
                 agent_state,
                 action,
@@ -152,10 +160,7 @@ class Trainer:
                 reward,
                 env.done,
             )
-
             # Update observation and state for next iteration
-            observation = env.observe().values
-            agent_state = list(agent.get_states())
 
         self.logger.metrics.returns.append(reward)
         self.logger.log_portfolio_performance(
@@ -184,7 +189,9 @@ class Trainer:
                     self.sim_config.max_initial_balance,
                 )
 
-                loss = self.simulate_episode(company, initial_balance, file_path)
+                loss = self.simulate_episode(
+                    company, initial_balance, file_path
+                )
                 losses.append(loss)
 
             epoch_loss = sum(losses) / len(losses)
