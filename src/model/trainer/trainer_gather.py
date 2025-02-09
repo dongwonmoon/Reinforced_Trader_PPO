@@ -54,49 +54,17 @@ class PPO:
         self.mse_loss: nn.Module = nn.MSELoss()
 
     def update(self) -> torch.Tensor:
-        # Compute discounted rewards with proper data types
-        rewards_list: list[float] = []
-        discounted_reward: float = 0.0
-        # Reverse traversing ensures proper discounting, convert done to bool if needed.
-        for reward, done in zip(
-            reversed(self.buffer.rewards), reversed(self.buffer.dones)
-        ):
-            if done:
-                discounted_reward = 0.0
-            discounted_reward = float(reward) + (self.gamma * discounted_reward)
-            rewards_list.insert(0, discounted_reward)
-
-        rewards = torch.tensor(
-            rewards_list, dtype=torch.float32, device=self.device
-        )
-        rewards = (rewards - rewards.mean()) / (rewards.std() + 1e-7)
-
         # Use torch.stack to create tensors from the stored list of tensors.
-        old_states = (
-            torch.squeeze(torch.stack(self.buffer.states, dim=0))
-            .detach()
-            .to(self.device)
-        )
+        old_states = torch.cat(self.buffer.states).detach().to(self.device)
         old_agent_states = (
-            torch.squeeze(torch.stack(self.buffer.agent_states, dim=0))
-            .detach()
-            .to(self.device)
+            torch.cat(self.buffer.agent_states).detach().to(self.device)
         )
-        old_actions = (
-            torch.squeeze(torch.stack(self.buffer.actions, dim=0))
-            .detach()
-            .to(self.device)
-        )
-        old_logprobs = (
-            torch.squeeze(torch.stack(self.buffer.logprobs, dim=0))
-            .detach()
-            .to(self.device)
-        )
+        old_actions = torch.cat(self.buffer.actions).detach().to(self.device)
+        old_logprobs = torch.cat(self.buffer.logprobs).detach().to(self.device)
         old_state_values = (
-            torch.squeeze(torch.stack(self.buffer.state_values, dim=0))
-            .detach()
-            .to(self.device)
+            torch.cat(self.buffer.state_values).detach().to(self.device)
         )
+        rewards = torch.cat(self.buffer.rewards).detach().to(self.device)
 
         advantages = rewards.detach() - old_state_values.detach()
 

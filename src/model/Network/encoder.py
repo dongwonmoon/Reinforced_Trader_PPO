@@ -4,7 +4,13 @@ from torch import nn
 
 class TransformerEncoder(nn.Module):
     def __init__(
-        self, state_dim, d_model, nhead, transformer_layers, max_seq_length, dropout
+        self,
+        state_dim,
+        d_model,
+        nhead,
+        transformer_layers,
+        max_seq_length,
+        dropout,
     ):
         super(TransformerEncoder, self).__init__()
 

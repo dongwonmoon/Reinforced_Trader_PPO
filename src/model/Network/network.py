@@ -1,8 +1,11 @@
+from typing import Tuple
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from typing import Tuple
+
 from config.user_settings import network_setting
+
 from .encoder import TransformerEncoder
 
 
@@ -41,11 +44,19 @@ class ActorCritic(nn.Module):
         nhead: int = network_setting["nhead"],
         dropout: float = network_setting["dropout"],
         max_seq_length: int = network_setting["max_seq_length"],
+        test: bool = False,
     ) -> None:
         super(ActorCritic, self).__init__()
+        self.test = test
+
         # Initialize encoder for processing state
         self.encoder = TransformerEncoder(
-            state_dim, d_model, nhead, transformer_layers, max_seq_length, dropout
+            state_dim,
+            d_model,
+            nhead,
+            transformer_layers,
+            max_seq_length,
+            dropout,
         )
 
         # Define the actor module that outputs logits for action selection.
@@ -106,18 +117,29 @@ class ActorCritic(nn.Module):
         Returns a tuple of (action, action_probs, action_logprob, state_value) with detached tensors.
         """
         action_probs, state_value = self.forward(state, agent_state)
-        distribution = torch.distributions.Categorical(action_probs)
-        action = distribution.sample()
-        action_logprob = distribution.log_prob(action)
-        return (
-            action.detach(),
-            action_probs.detach(),
-            action_logprob.detach(),
-            state_value.detach(),
-        )
+        if self.test:
+            return (
+                torch.argmax(action_probs.squeeze()).detach(),
+                action_probs.detach(),
+                torch.log(action_probs.squeeze()).detach(),
+                state_value.detach(),
+            )
+        else:
+            distribution = torch.distributions.Categorical(action_probs)
+            action = distribution.sample()
+            action_logprob = distribution.log_prob(action)
+            return (
+                action.detach(),
+                action_probs.detach(),
+                action_logprob.detach(),
+                state_value.detach(),
+            )
 
     def evaluate(
-        self, state: torch.Tensor, agent_state: torch.Tensor, action: torch.Tensor
+        self,
+        state: torch.Tensor,
+        agent_state: torch.Tensor,
+        action: torch.Tensor,
     ) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor]:
         """
         Evaluate the given action for specified state and agent_state.
