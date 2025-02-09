@@ -49,7 +49,9 @@ class TradingLogger:
         self.logger.handlers.clear()
 
         # Setup file handler
-        file_handler = logging.FileHandler(log_file_path, mode="w", encoding="utf-8")
+        file_handler = logging.FileHandler(
+            log_file_path, mode="w", encoding="utf-8"
+        )
         file_handler.setLevel(LogLevel.DEBUG.value)
         file_handler.setFormatter(
             logging.Formatter(
@@ -61,7 +63,9 @@ class TradingLogger:
         # Setup console handler
         console_handler = logging.StreamHandler()
         console_handler.setLevel(LogLevel.INFO.value)
-        console_handler.setFormatter(logging.Formatter("%(levelname)s - %(message)s"))
+        console_handler.setFormatter(
+            logging.Formatter("%(levelname)s - %(message)s")
+        )
 
         self.logger.addHandler(file_handler)
         self.logger.addHandler(console_handler)
@@ -151,7 +155,9 @@ class TradingLogger:
 
             if benchmark_return is not None:
                 excess_return = total_return - benchmark_return
-                self.logger.info(f"Excess Return vs Benchmark: {excess_return:.2f}%")
+                self.logger.info(
+                    f"Excess Return vs Benchmark: {excess_return:.2f}%"
+                )
 
     def log_trade(
         self,
