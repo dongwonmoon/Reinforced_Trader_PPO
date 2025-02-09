@@ -1,0 +1,3043 @@
+2025-02-08 22:39:18 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 22:39:18 - INFO - Initial Portfolio Value: 89,403,864.00
+2025-02-08 22:39:18 - INFO - Final Portfolio Value: 87,622,437.32
+2025-02-08 22:39:18 - INFO - Total Return: -1.99%
+2025-02-08 22:40:32 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 22:40:32 - INFO - Initial Portfolio Value: 67,538,675.00
+2025-02-08 22:40:32 - INFO - Final Portfolio Value: 73,675,550.37
+2025-02-08 22:40:32 - INFO - Total Return: 9.09%
+2025-02-08 22:41:37 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 22:41:37 - INFO - Initial Portfolio Value: 76,396,808.00
+2025-02-08 22:41:37 - INFO - Final Portfolio Value: 76,396,808.00
+2025-02-08 22:41:37 - INFO - Total Return: 0.00%
+2025-02-08 22:42:34 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 22:42:34 - INFO - Initial Portfolio Value: 63,162,378.00
+2025-02-08 22:42:34 - INFO - Final Portfolio Value: 63,162,378.00
+2025-02-08 22:42:34 - INFO - Total Return: 0.00%
+2025-02-08 22:43:42 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 22:43:42 - INFO - Initial Portfolio Value: 97,379,567.00
+2025-02-08 22:43:42 - INFO - Final Portfolio Value: 98,035,416.50
+2025-02-08 22:43:42 - INFO - Total Return: 0.67%
+2025-02-08 22:44:50 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 22:44:50 - INFO - Initial Portfolio Value: 21,143,586.00
+2025-02-08 22:44:50 - INFO - Final Portfolio Value: 21,143,586.00
+2025-02-08 22:44:50 - INFO - Total Return: 0.00%
+2025-02-08 22:45:58 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 22:45:58 - INFO - Initial Portfolio Value: 64,677,481.00
+2025-02-08 22:45:58 - INFO - Final Portfolio Value: 64,677,481.00
+2025-02-08 22:45:58 - INFO - Total Return: 0.00%
+2025-02-08 22:47:06 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 22:47:06 - INFO - Initial Portfolio Value: 34,773,465.00
+2025-02-08 22:47:06 - INFO - Final Portfolio Value: 34,773,465.00
+2025-02-08 22:47:06 - INFO - Total Return: 0.00%
+2025-02-08 22:48:15 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-08 22:48:15 - INFO - Initial Portfolio Value: 16,903,366.00
+2025-02-08 22:48:15 - INFO - Final Portfolio Value: 16,903,366.00
+2025-02-08 22:48:15 - INFO - Total Return: 0.00%
+2025-02-08 22:49:12 - INFO - 
+=== Training Metrics (Epoch 0) ===
+2025-02-08 22:49:12 - INFO - Loss: 0.126065
+2025-02-08 22:49:12 - INFO - Mean Return: 0.435837
+2025-02-08 22:49:24 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 22:49:24 - INFO - Initial Portfolio Value: 54,423,050.00
+2025-02-08 22:49:24 - INFO - Final Portfolio Value: 54,423,050.00
+2025-02-08 22:49:24 - INFO - Total Return: 0.00%
+2025-02-08 22:50:33 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 22:50:33 - INFO - Initial Portfolio Value: 25,814,325.00
+2025-02-08 22:50:33 - INFO - Final Portfolio Value: 25,939,815.41
+2025-02-08 22:50:33 - INFO - Total Return: 0.49%
+2025-02-08 22:51:39 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 22:51:39 - INFO - Initial Portfolio Value: 84,683,885.00
+2025-02-08 22:51:39 - INFO - Final Portfolio Value: 84,683,885.00
+2025-02-08 22:51:39 - INFO - Total Return: 0.00%
+2025-02-08 22:52:37 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 22:52:37 - INFO - Initial Portfolio Value: 91,900,525.00
+2025-02-08 22:52:37 - INFO - Final Portfolio Value: 91,900,525.00
+2025-02-08 22:52:37 - INFO - Total Return: 0.00%
+2025-02-08 22:53:46 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 22:53:46 - INFO - Initial Portfolio Value: 69,038,959.00
+2025-02-08 22:53:46 - INFO - Final Portfolio Value: 69,099,203.62
+2025-02-08 22:53:46 - INFO - Total Return: 0.09%
+2025-02-08 22:54:54 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 22:54:54 - INFO - Initial Portfolio Value: 35,846,321.00
+2025-02-08 22:54:54 - INFO - Final Portfolio Value: 35,846,321.00
+2025-02-08 22:54:54 - INFO - Total Return: 0.00%
+2025-02-08 22:56:02 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 22:56:02 - INFO - Initial Portfolio Value: 35,531,602.00
+2025-02-08 22:56:02 - INFO - Final Portfolio Value: 35,565,850.76
+2025-02-08 22:56:02 - INFO - Total Return: 0.10%
+2025-02-08 22:57:11 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 22:57:11 - INFO - Initial Portfolio Value: 42,080,860.00
+2025-02-08 22:57:11 - INFO - Final Portfolio Value: 42,080,860.00
+2025-02-08 22:57:11 - INFO - Total Return: 0.00%
+2025-02-08 22:58:19 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-08 22:58:19 - INFO - Initial Portfolio Value: 36,038,476.00
+2025-02-08 22:58:19 - INFO - Final Portfolio Value: 28,788,243.17
+2025-02-08 22:58:19 - INFO - Total Return: -20.12%
+2025-02-08 22:59:16 - INFO - 
+=== Training Metrics (Epoch 1) ===
+2025-02-08 22:59:16 - INFO - Loss: 0.413551
+2025-02-08 22:59:16 - INFO - Mean Return: -1.091263
+2025-02-08 22:59:28 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 22:59:28 - INFO - Initial Portfolio Value: 80,479,754.00
+2025-02-08 22:59:28 - INFO - Final Portfolio Value: 50,203,232.18
+2025-02-08 22:59:28 - INFO - Total Return: -37.62%
+2025-02-08 23:00:35 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 23:00:35 - INFO - Initial Portfolio Value: 18,424,706.00
+2025-02-08 23:00:35 - INFO - Final Portfolio Value: 22,420,028.30
+2025-02-08 23:00:35 - INFO - Total Return: 21.68%
+2025-02-08 23:01:41 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 23:01:41 - INFO - Initial Portfolio Value: 11,339,971.00
+2025-02-08 23:01:41 - INFO - Final Portfolio Value: 15,076,264.61
+2025-02-08 23:01:41 - INFO - Total Return: 32.95%
+2025-02-08 23:02:38 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 23:02:38 - INFO - Initial Portfolio Value: 88,962,452.00
+2025-02-08 23:02:38 - INFO - Final Portfolio Value: 93,617,785.70
+2025-02-08 23:02:38 - INFO - Total Return: 5.23%
+2025-02-08 23:03:47 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 23:03:47 - INFO - Initial Portfolio Value: 23,245,897.00
+2025-02-08 23:03:47 - INFO - Final Portfolio Value: 23,160,625.47
+2025-02-08 23:03:47 - INFO - Total Return: -0.37%
+2025-02-08 23:04:55 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 23:04:55 - INFO - Initial Portfolio Value: 15,152,057.00
+2025-02-08 23:04:55 - INFO - Final Portfolio Value: 15,610,655.46
+2025-02-08 23:04:55 - INFO - Total Return: 3.03%
+2025-02-08 23:06:03 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 23:06:03 - INFO - Initial Portfolio Value: 69,779,964.00
+2025-02-08 23:06:03 - INFO - Final Portfolio Value: 69,936,238.76
+2025-02-08 23:06:03 - INFO - Total Return: 0.22%
+2025-02-08 23:07:12 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 23:07:12 - INFO - Initial Portfolio Value: 79,059,051.00
+2025-02-08 23:07:12 - INFO - Final Portfolio Value: 79,422,891.33
+2025-02-08 23:07:12 - INFO - Total Return: 0.46%
+2025-02-08 23:08:33 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-08 23:08:33 - INFO - Initial Portfolio Value: 79,600,284.00
+2025-02-08 23:08:33 - INFO - Final Portfolio Value: 79,373,354.77
+2025-02-08 23:08:33 - INFO - Total Return: -0.29%
+2025-02-08 23:09:39 - INFO - 
+=== Training Metrics (Epoch 2) ===
+2025-02-08 23:09:39 - INFO - Loss: 0.257487
+2025-02-08 23:09:39 - INFO - Mean Return: 1.419856
+2025-02-08 23:09:54 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 23:09:54 - INFO - Initial Portfolio Value: 66,747,433.00
+2025-02-08 23:09:54 - INFO - Final Portfolio Value: 66,694,758.58
+2025-02-08 23:09:54 - INFO - Total Return: -0.08%
+2025-02-08 23:11:21 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 23:11:21 - INFO - Initial Portfolio Value: 37,732,904.00
+2025-02-08 23:11:21 - INFO - Final Portfolio Value: 38,707,887.45
+2025-02-08 23:11:21 - INFO - Total Return: 2.58%
+2025-02-08 23:12:44 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 23:12:44 - INFO - Initial Portfolio Value: 46,041,799.00
+2025-02-08 23:12:44 - INFO - Final Portfolio Value: 46,041,799.00
+2025-02-08 23:12:44 - INFO - Total Return: 0.00%
+2025-02-08 23:13:49 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 23:13:49 - INFO - Initial Portfolio Value: 18,479,625.00
+2025-02-08 23:13:49 - INFO - Final Portfolio Value: 18,672,949.11
+2025-02-08 23:13:49 - INFO - Total Return: 1.05%
+2025-02-08 23:14:59 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 23:14:59 - INFO - Initial Portfolio Value: 87,154,510.00
+2025-02-08 23:14:59 - INFO - Final Portfolio Value: 87,154,510.00
+2025-02-08 23:14:59 - INFO - Total Return: 0.00%
+2025-02-08 23:16:07 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 23:16:07 - INFO - Initial Portfolio Value: 33,110,901.00
+2025-02-08 23:16:07 - INFO - Final Portfolio Value: 33,110,901.00
+2025-02-08 23:16:07 - INFO - Total Return: 0.00%
+2025-02-08 23:17:16 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 23:17:16 - INFO - Initial Portfolio Value: 68,250,444.00
+2025-02-08 23:17:16 - INFO - Final Portfolio Value: 68,250,444.00
+2025-02-08 23:17:16 - INFO - Total Return: 0.00%
+2025-02-08 23:18:25 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 23:18:25 - INFO - Initial Portfolio Value: 30,581,876.00
+2025-02-08 23:18:25 - INFO - Final Portfolio Value: 30,581,876.00
+2025-02-08 23:18:25 - INFO - Total Return: 0.00%
+2025-02-08 23:19:35 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-08 23:19:35 - INFO - Initial Portfolio Value: 52,890,555.00
+2025-02-08 23:19:35 - INFO - Final Portfolio Value: 52,890,555.00
+2025-02-08 23:19:35 - INFO - Total Return: 0.00%
+2025-02-08 23:20:33 - INFO - 
+=== Training Metrics (Epoch 3) ===
+2025-02-08 23:20:33 - INFO - Loss: 0.122766
+2025-02-08 23:20:33 - INFO - Mean Return: 0.199258
+2025-02-08 23:20:45 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 23:20:45 - INFO - Initial Portfolio Value: 18,204,142.00
+2025-02-08 23:20:45 - INFO - Final Portfolio Value: 18,204,142.00
+2025-02-08 23:20:45 - INFO - Total Return: 0.00%
+2025-02-08 23:21:56 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 23:21:56 - INFO - Initial Portfolio Value: 39,284,484.00
+2025-02-08 23:21:56 - INFO - Final Portfolio Value: 39,284,484.00
+2025-02-08 23:21:56 - INFO - Total Return: 0.00%
+2025-02-08 23:23:05 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 23:23:05 - INFO - Initial Portfolio Value: 98,452,595.00
+2025-02-08 23:23:05 - INFO - Final Portfolio Value: 98,452,595.00
+2025-02-08 23:23:05 - INFO - Total Return: 0.00%
+2025-02-08 23:24:04 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 23:24:04 - INFO - Initial Portfolio Value: 99,477,681.00
+2025-02-08 23:24:04 - INFO - Final Portfolio Value: 99,477,681.00
+2025-02-08 23:24:04 - INFO - Total Return: 0.00%
+2025-02-08 23:25:14 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 23:25:14 - INFO - Initial Portfolio Value: 45,417,489.00
+2025-02-08 23:25:14 - INFO - Final Portfolio Value: 45,482,584.35
+2025-02-08 23:25:14 - INFO - Total Return: 0.14%
+2025-02-08 23:26:23 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 23:26:23 - INFO - Initial Portfolio Value: 56,411,415.00
+2025-02-08 23:26:23 - INFO - Final Portfolio Value: 56,505,815.76
+2025-02-08 23:26:23 - INFO - Total Return: 0.17%
+2025-02-08 23:27:33 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 23:27:33 - INFO - Initial Portfolio Value: 44,318,531.00
+2025-02-08 23:27:33 - INFO - Final Portfolio Value: 44,375,526.23
+2025-02-08 23:27:33 - INFO - Total Return: 0.13%
+2025-02-08 23:28:43 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 23:28:43 - INFO - Initial Portfolio Value: 65,798,663.00
+2025-02-08 23:28:43 - INFO - Final Portfolio Value: 65,798,663.00
+2025-02-08 23:28:43 - INFO - Total Return: 0.00%
+2025-02-08 23:29:55 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-08 23:29:55 - INFO - Initial Portfolio Value: 93,689,695.00
+2025-02-08 23:29:55 - INFO - Final Portfolio Value: 93,689,695.00
+2025-02-08 23:29:55 - INFO - Total Return: 0.00%
+2025-02-08 23:30:52 - INFO - 
+=== Training Metrics (Epoch 4) ===
+2025-02-08 23:30:52 - INFO - Loss: 0.119970
+2025-02-08 23:30:52 - INFO - Mean Return: 0.024648
+2025-02-08 23:31:04 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 23:31:04 - INFO - Initial Portfolio Value: 11,939,918.00
+2025-02-08 23:31:04 - INFO - Final Portfolio Value: 11,939,918.00
+2025-02-08 23:31:04 - INFO - Total Return: 0.00%
+2025-02-08 23:32:14 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 23:32:14 - INFO - Initial Portfolio Value: 88,909,877.00
+2025-02-08 23:32:14 - INFO - Final Portfolio Value: 88,909,877.00
+2025-02-08 23:32:14 - INFO - Total Return: 0.00%
+2025-02-08 23:33:22 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 23:33:22 - INFO - Initial Portfolio Value: 65,592,815.00
+2025-02-08 23:33:22 - INFO - Final Portfolio Value: 65,592,815.00
+2025-02-08 23:33:22 - INFO - Total Return: 0.00%
+2025-02-08 23:34:21 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 23:34:21 - INFO - Initial Portfolio Value: 41,758,652.00
+2025-02-08 23:34:21 - INFO - Final Portfolio Value: 41,758,652.00
+2025-02-08 23:34:21 - INFO - Total Return: 0.00%
+2025-02-08 23:35:31 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 23:35:31 - INFO - Initial Portfolio Value: 56,578,627.00
+2025-02-08 23:35:31 - INFO - Final Portfolio Value: 56,684,492.83
+2025-02-08 23:35:31 - INFO - Total Return: 0.19%
+2025-02-08 23:36:40 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 23:36:40 - INFO - Initial Portfolio Value: 72,930,932.00
+2025-02-08 23:36:40 - INFO - Final Portfolio Value: 73,056,930.50
+2025-02-08 23:36:40 - INFO - Total Return: 0.17%
+2025-02-08 23:37:50 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 23:37:50 - INFO - Initial Portfolio Value: 54,270,754.00
+2025-02-08 23:37:50 - INFO - Final Portfolio Value: 54,270,754.00
+2025-02-08 23:37:50 - INFO - Total Return: 0.00%
+2025-02-08 23:39:01 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 23:39:01 - INFO - Initial Portfolio Value: 43,861,452.00
+2025-02-08 23:39:01 - INFO - Final Portfolio Value: 43,861,452.00
+2025-02-08 23:39:01 - INFO - Total Return: 0.00%
+2025-02-08 23:40:10 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-08 23:40:10 - INFO - Initial Portfolio Value: 63,170,475.00
+2025-02-08 23:40:10 - INFO - Final Portfolio Value: 63,170,475.00
+2025-02-08 23:40:10 - INFO - Total Return: 0.00%
+2025-02-08 23:41:08 - INFO - 
+=== Training Metrics (Epoch 5) ===
+2025-02-08 23:41:08 - INFO - Loss: 0.160749
+2025-02-08 23:41:08 - INFO - Mean Return: 0.020193
+2025-02-08 23:41:20 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 23:41:20 - INFO - Initial Portfolio Value: 26,587,559.00
+2025-02-08 23:41:20 - INFO - Final Portfolio Value: 26,587,559.00
+2025-02-08 23:41:20 - INFO - Total Return: 0.00%
+2025-02-08 23:42:29 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 23:42:29 - INFO - Initial Portfolio Value: 38,169,840.00
+2025-02-08 23:42:29 - INFO - Final Portfolio Value: 38,450,841.27
+2025-02-08 23:42:29 - INFO - Total Return: 0.74%
+2025-02-08 23:43:38 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 23:43:38 - INFO - Initial Portfolio Value: 67,534,983.00
+2025-02-08 23:43:38 - INFO - Final Portfolio Value: 67,534,983.00
+2025-02-08 23:43:38 - INFO - Total Return: 0.00%
+2025-02-08 23:44:37 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 23:44:37 - INFO - Initial Portfolio Value: 95,679,012.00
+2025-02-08 23:44:37 - INFO - Final Portfolio Value: 95,742,228.58
+2025-02-08 23:44:37 - INFO - Total Return: 0.07%
+2025-02-08 23:45:47 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 23:45:47 - INFO - Initial Portfolio Value: 96,014,074.00
+2025-02-08 23:45:47 - INFO - Final Portfolio Value: 96,023,060.94
+2025-02-08 23:45:47 - INFO - Total Return: 0.01%
+2025-02-08 23:46:56 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 23:46:56 - INFO - Initial Portfolio Value: 12,377,427.00
+2025-02-08 23:46:56 - INFO - Final Portfolio Value: 12,534,148.56
+2025-02-08 23:46:56 - INFO - Total Return: 1.27%
+2025-02-08 23:48:06 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 23:48:06 - INFO - Initial Portfolio Value: 19,313,203.00
+2025-02-08 23:48:06 - INFO - Final Portfolio Value: 19,313,203.00
+2025-02-08 23:48:06 - INFO - Total Return: 0.00%
+2025-02-08 23:49:24 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 23:49:24 - INFO - Initial Portfolio Value: 65,310,205.00
+2025-02-08 23:49:24 - INFO - Final Portfolio Value: 65,310,205.00
+2025-02-08 23:49:24 - INFO - Total Return: 0.00%
+2025-02-08 23:50:42 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-08 23:50:42 - INFO - Initial Portfolio Value: 91,782,244.00
+2025-02-08 23:50:42 - INFO - Final Portfolio Value: 91,782,244.00
+2025-02-08 23:50:42 - INFO - Total Return: 0.00%
+2025-02-08 23:51:40 - INFO - 
+=== Training Metrics (Epoch 6) ===
+2025-02-08 23:51:40 - INFO - Loss: 0.273649
+2025-02-08 23:51:40 - INFO - Mean Return: 0.116588
+2025-02-08 23:51:52 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-08 23:51:52 - INFO - Initial Portfolio Value: 93,659,572.00
+2025-02-08 23:51:52 - INFO - Final Portfolio Value: 93,659,572.00
+2025-02-08 23:51:52 - INFO - Total Return: 0.00%
+2025-02-08 23:53:02 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-08 23:53:02 - INFO - Initial Portfolio Value: 90,029,739.00
+2025-02-08 23:53:02 - INFO - Final Portfolio Value: 90,029,739.00
+2025-02-08 23:53:02 - INFO - Total Return: 0.00%
+2025-02-08 23:54:11 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-08 23:54:11 - INFO - Initial Portfolio Value: 59,256,012.00
+2025-02-08 23:54:11 - INFO - Final Portfolio Value: 59,256,012.00
+2025-02-08 23:54:11 - INFO - Total Return: 0.00%
+2025-02-08 23:55:10 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-08 23:55:10 - INFO - Initial Portfolio Value: 46,695,706.00
+2025-02-08 23:55:10 - INFO - Final Portfolio Value: 46,695,706.00
+2025-02-08 23:55:10 - INFO - Total Return: 0.00%
+2025-02-08 23:56:19 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-08 23:56:19 - INFO - Initial Portfolio Value: 70,667,200.00
+2025-02-08 23:56:19 - INFO - Final Portfolio Value: 70,667,200.00
+2025-02-08 23:56:19 - INFO - Total Return: 0.00%
+2025-02-08 23:57:29 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-08 23:57:29 - INFO - Initial Portfolio Value: 18,106,690.00
+2025-02-08 23:57:29 - INFO - Final Portfolio Value: 18,106,690.00
+2025-02-08 23:57:29 - INFO - Total Return: 0.00%
+2025-02-08 23:58:39 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-08 23:58:39 - INFO - Initial Portfolio Value: 85,301,408.00
+2025-02-08 23:58:39 - INFO - Final Portfolio Value: 85,301,408.00
+2025-02-08 23:58:39 - INFO - Total Return: 0.00%
+2025-02-08 23:59:48 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-08 23:59:48 - INFO - Initial Portfolio Value: 98,896,292.00
+2025-02-08 23:59:48 - INFO - Final Portfolio Value: 98,896,292.00
+2025-02-08 23:59:48 - INFO - Total Return: 0.00%
+2025-02-09 00:00:59 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 00:00:59 - INFO - Initial Portfolio Value: 69,969,947.00
+2025-02-09 00:00:59 - INFO - Final Portfolio Value: 69,969,947.00
+2025-02-09 00:00:59 - INFO - Total Return: 0.00%
+2025-02-09 00:01:57 - INFO - 
+=== Training Metrics (Epoch 7) ===
+2025-02-09 00:01:57 - INFO - Loss: -0.006932
+2025-02-09 00:01:57 - INFO - Mean Return: 0.000000
+2025-02-09 00:02:09 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 00:02:09 - INFO - Initial Portfolio Value: 64,045,981.00
+2025-02-09 00:02:09 - INFO - Final Portfolio Value: 64,045,981.00
+2025-02-09 00:02:09 - INFO - Total Return: 0.00%
+2025-02-09 00:03:19 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 00:03:19 - INFO - Initial Portfolio Value: 16,982,329.00
+2025-02-09 00:03:19 - INFO - Final Portfolio Value: 16,982,329.00
+2025-02-09 00:03:19 - INFO - Total Return: 0.00%
+2025-02-09 00:04:28 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 00:04:28 - INFO - Initial Portfolio Value: 81,409,070.00
+2025-02-09 00:04:28 - INFO - Final Portfolio Value: 81,409,070.00
+2025-02-09 00:04:28 - INFO - Total Return: 0.00%
+2025-02-09 00:05:27 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 00:05:27 - INFO - Initial Portfolio Value: 91,035,474.00
+2025-02-09 00:05:27 - INFO - Final Portfolio Value: 91,035,474.00
+2025-02-09 00:05:27 - INFO - Total Return: 0.00%
+2025-02-09 00:06:36 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 00:06:36 - INFO - Initial Portfolio Value: 10,402,264.00
+2025-02-09 00:06:36 - INFO - Final Portfolio Value: 10,402,264.00
+2025-02-09 00:06:36 - INFO - Total Return: 0.00%
+2025-02-09 00:07:46 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 00:07:46 - INFO - Initial Portfolio Value: 91,700,152.00
+2025-02-09 00:07:46 - INFO - Final Portfolio Value: 91,700,152.00
+2025-02-09 00:07:46 - INFO - Total Return: 0.00%
+2025-02-09 00:08:56 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 00:08:56 - INFO - Initial Portfolio Value: 29,431,906.00
+2025-02-09 00:08:56 - INFO - Final Portfolio Value: 29,431,906.00
+2025-02-09 00:08:56 - INFO - Total Return: 0.00%
+2025-02-09 00:10:06 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 00:10:06 - INFO - Initial Portfolio Value: 89,582,605.00
+2025-02-09 00:10:06 - INFO - Final Portfolio Value: 89,582,605.00
+2025-02-09 00:10:06 - INFO - Total Return: 0.00%
+2025-02-09 00:11:15 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 00:11:15 - INFO - Initial Portfolio Value: 27,547,672.00
+2025-02-09 00:11:15 - INFO - Final Portfolio Value: 27,547,672.00
+2025-02-09 00:11:15 - INFO - Total Return: 0.00%
+2025-02-09 00:12:13 - INFO - 
+=== Training Metrics (Epoch 8) ===
+2025-02-09 00:12:13 - INFO - Loss: -0.006932
+2025-02-09 00:12:13 - INFO - Mean Return: 0.000000
+2025-02-09 00:12:25 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 00:12:25 - INFO - Initial Portfolio Value: 93,556,090.00
+2025-02-09 00:12:25 - INFO - Final Portfolio Value: 93,556,090.00
+2025-02-09 00:12:25 - INFO - Total Return: 0.00%
+2025-02-09 00:13:35 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 00:13:35 - INFO - Initial Portfolio Value: 21,375,381.00
+2025-02-09 00:13:35 - INFO - Final Portfolio Value: 21,375,381.00
+2025-02-09 00:13:35 - INFO - Total Return: 0.00%
+2025-02-09 00:14:43 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 00:14:43 - INFO - Initial Portfolio Value: 26,217,797.00
+2025-02-09 00:14:43 - INFO - Final Portfolio Value: 26,217,797.00
+2025-02-09 00:14:43 - INFO - Total Return: 0.00%
+2025-02-09 00:15:41 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 00:15:41 - INFO - Initial Portfolio Value: 50,839,567.00
+2025-02-09 00:15:41 - INFO - Final Portfolio Value: 50,839,567.00
+2025-02-09 00:15:41 - INFO - Total Return: 0.00%
+2025-02-09 00:16:51 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 00:16:51 - INFO - Initial Portfolio Value: 89,950,182.00
+2025-02-09 00:16:51 - INFO - Final Portfolio Value: 89,950,182.00
+2025-02-09 00:16:51 - INFO - Total Return: 0.00%
+2025-02-09 00:18:01 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 00:18:01 - INFO - Initial Portfolio Value: 11,097,945.00
+2025-02-09 00:18:01 - INFO - Final Portfolio Value: 11,097,945.00
+2025-02-09 00:18:01 - INFO - Total Return: 0.00%
+2025-02-09 00:19:12 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 00:19:12 - INFO - Initial Portfolio Value: 37,986,433.00
+2025-02-09 00:19:12 - INFO - Final Portfolio Value: 37,986,433.00
+2025-02-09 00:19:12 - INFO - Total Return: 0.00%
+2025-02-09 00:20:21 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 00:20:21 - INFO - Initial Portfolio Value: 49,616,548.00
+2025-02-09 00:20:21 - INFO - Final Portfolio Value: 49,616,548.00
+2025-02-09 00:20:21 - INFO - Total Return: 0.00%
+2025-02-09 00:21:30 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 00:21:30 - INFO - Initial Portfolio Value: 72,489,865.00
+2025-02-09 00:21:30 - INFO - Final Portfolio Value: 72,489,865.00
+2025-02-09 00:21:30 - INFO - Total Return: 0.00%
+2025-02-09 00:22:29 - INFO - 
+=== Training Metrics (Epoch 9) ===
+2025-02-09 00:22:29 - INFO - Loss: -0.006932
+2025-02-09 00:22:29 - INFO - Mean Return: 0.000000
+2025-02-09 00:22:41 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 00:22:41 - INFO - Initial Portfolio Value: 83,293,044.00
+2025-02-09 00:22:41 - INFO - Final Portfolio Value: 83,293,044.00
+2025-02-09 00:22:41 - INFO - Total Return: 0.00%
+2025-02-09 00:23:51 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 00:23:51 - INFO - Initial Portfolio Value: 98,997,347.00
+2025-02-09 00:23:51 - INFO - Final Portfolio Value: 98,997,347.00
+2025-02-09 00:23:51 - INFO - Total Return: 0.00%
+2025-02-09 00:24:59 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 00:24:59 - INFO - Initial Portfolio Value: 91,261,450.00
+2025-02-09 00:24:59 - INFO - Final Portfolio Value: 91,261,450.00
+2025-02-09 00:24:59 - INFO - Total Return: 0.00%
+2025-02-09 00:25:58 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 00:25:58 - INFO - Initial Portfolio Value: 57,443,832.00
+2025-02-09 00:25:58 - INFO - Final Portfolio Value: 57,443,832.00
+2025-02-09 00:25:58 - INFO - Total Return: 0.00%
+2025-02-09 00:27:07 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 00:27:07 - INFO - Initial Portfolio Value: 32,745,301.00
+2025-02-09 00:27:07 - INFO - Final Portfolio Value: 32,745,301.00
+2025-02-09 00:27:07 - INFO - Total Return: 0.00%
+2025-02-09 00:28:17 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 00:28:17 - INFO - Initial Portfolio Value: 32,850,536.00
+2025-02-09 00:28:17 - INFO - Final Portfolio Value: 32,850,536.00
+2025-02-09 00:28:17 - INFO - Total Return: 0.00%
+2025-02-09 00:29:27 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 00:29:27 - INFO - Initial Portfolio Value: 64,139,878.00
+2025-02-09 00:29:27 - INFO - Final Portfolio Value: 64,139,878.00
+2025-02-09 00:29:27 - INFO - Total Return: 0.00%
+2025-02-09 00:30:37 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 00:30:37 - INFO - Initial Portfolio Value: 27,788,104.00
+2025-02-09 00:30:37 - INFO - Final Portfolio Value: 27,788,104.00
+2025-02-09 00:30:37 - INFO - Total Return: 0.00%
+2025-02-09 00:31:46 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 00:31:46 - INFO - Initial Portfolio Value: 24,051,046.00
+2025-02-09 00:31:46 - INFO - Final Portfolio Value: 24,051,046.00
+2025-02-09 00:31:46 - INFO - Total Return: 0.00%
+2025-02-09 00:32:44 - INFO - 
+=== Training Metrics (Epoch 10) ===
+2025-02-09 00:32:44 - INFO - Loss: -0.006932
+2025-02-09 00:32:44 - INFO - Mean Return: 0.000000
+2025-02-09 00:32:55 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 00:32:55 - INFO - Initial Portfolio Value: 67,452,705.00
+2025-02-09 00:32:55 - INFO - Final Portfolio Value: 67,452,705.00
+2025-02-09 00:32:55 - INFO - Total Return: 0.00%
+2025-02-09 00:34:06 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 00:34:06 - INFO - Initial Portfolio Value: 84,871,178.00
+2025-02-09 00:34:06 - INFO - Final Portfolio Value: 84,871,178.00
+2025-02-09 00:34:06 - INFO - Total Return: 0.00%
+2025-02-09 00:35:14 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 00:35:14 - INFO - Initial Portfolio Value: 26,583,268.00
+2025-02-09 00:35:14 - INFO - Final Portfolio Value: 26,583,268.00
+2025-02-09 00:35:14 - INFO - Total Return: 0.00%
+2025-02-09 00:36:13 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 00:36:13 - INFO - Initial Portfolio Value: 68,245,387.00
+2025-02-09 00:36:13 - INFO - Final Portfolio Value: 68,245,387.00
+2025-02-09 00:36:13 - INFO - Total Return: 0.00%
+2025-02-09 00:37:23 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 00:37:23 - INFO - Initial Portfolio Value: 57,119,341.00
+2025-02-09 00:37:23 - INFO - Final Portfolio Value: 57,119,341.00
+2025-02-09 00:37:23 - INFO - Total Return: 0.00%
+2025-02-09 00:38:34 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 00:38:34 - INFO - Initial Portfolio Value: 61,183,794.00
+2025-02-09 00:38:34 - INFO - Final Portfolio Value: 61,183,794.00
+2025-02-09 00:38:34 - INFO - Total Return: 0.00%
+2025-02-09 00:39:44 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 00:39:44 - INFO - Initial Portfolio Value: 68,153,537.00
+2025-02-09 00:39:44 - INFO - Final Portfolio Value: 68,153,537.00
+2025-02-09 00:39:44 - INFO - Total Return: 0.00%
+2025-02-09 00:40:54 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 00:40:54 - INFO - Initial Portfolio Value: 53,580,477.00
+2025-02-09 00:40:54 - INFO - Final Portfolio Value: 53,580,477.00
+2025-02-09 00:40:54 - INFO - Total Return: 0.00%
+2025-02-09 00:42:03 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 00:42:03 - INFO - Initial Portfolio Value: 40,701,506.00
+2025-02-09 00:42:03 - INFO - Final Portfolio Value: 40,701,506.00
+2025-02-09 00:42:03 - INFO - Total Return: 0.00%
+2025-02-09 00:43:02 - INFO - 
+=== Training Metrics (Epoch 11) ===
+2025-02-09 00:43:02 - INFO - Loss: 0.019302
+2025-02-09 00:43:02 - INFO - Mean Return: 0.000000
+2025-02-09 00:43:14 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 00:43:14 - INFO - Initial Portfolio Value: 44,408,978.00
+2025-02-09 00:43:14 - INFO - Final Portfolio Value: 44,408,978.00
+2025-02-09 00:43:14 - INFO - Total Return: 0.00%
+2025-02-09 00:44:24 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 00:44:24 - INFO - Initial Portfolio Value: 42,150,503.00
+2025-02-09 00:44:24 - INFO - Final Portfolio Value: 42,150,503.00
+2025-02-09 00:44:24 - INFO - Total Return: 0.00%
+2025-02-09 00:45:31 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 00:45:31 - INFO - Initial Portfolio Value: 32,811,716.00
+2025-02-09 00:45:31 - INFO - Final Portfolio Value: 32,811,716.00
+2025-02-09 00:45:31 - INFO - Total Return: 0.00%
+2025-02-09 00:46:30 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 00:46:30 - INFO - Initial Portfolio Value: 44,380,035.00
+2025-02-09 00:46:30 - INFO - Final Portfolio Value: 44,380,035.00
+2025-02-09 00:46:30 - INFO - Total Return: 0.00%
+2025-02-09 00:47:40 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 00:47:40 - INFO - Initial Portfolio Value: 20,031,478.00
+2025-02-09 00:47:40 - INFO - Final Portfolio Value: 20,031,478.00
+2025-02-09 00:47:40 - INFO - Total Return: 0.00%
+2025-02-09 00:48:51 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 00:48:51 - INFO - Initial Portfolio Value: 40,001,489.00
+2025-02-09 00:48:51 - INFO - Final Portfolio Value: 40,001,489.00
+2025-02-09 00:48:51 - INFO - Total Return: 0.00%
+2025-02-09 00:50:02 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 00:50:02 - INFO - Initial Portfolio Value: 21,870,344.00
+2025-02-09 00:50:02 - INFO - Final Portfolio Value: 21,870,344.00
+2025-02-09 00:50:02 - INFO - Total Return: 0.00%
+2025-02-09 00:51:12 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 00:51:12 - INFO - Initial Portfolio Value: 88,655,866.00
+2025-02-09 00:51:12 - INFO - Final Portfolio Value: 88,655,866.00
+2025-02-09 00:51:12 - INFO - Total Return: 0.00%
+2025-02-09 00:52:22 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 00:52:22 - INFO - Initial Portfolio Value: 60,344,994.00
+2025-02-09 00:52:22 - INFO - Final Portfolio Value: 60,344,994.00
+2025-02-09 00:52:22 - INFO - Total Return: 0.00%
+2025-02-09 00:53:21 - INFO - 
+=== Training Metrics (Epoch 12) ===
+2025-02-09 00:53:21 - INFO - Loss: -0.006932
+2025-02-09 00:53:21 - INFO - Mean Return: 0.000000
+2025-02-09 00:53:33 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 00:53:33 - INFO - Initial Portfolio Value: 90,676,562.00
+2025-02-09 00:53:33 - INFO - Final Portfolio Value: 90,676,562.00
+2025-02-09 00:53:33 - INFO - Total Return: 0.00%
+2025-02-09 00:54:43 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 00:54:43 - INFO - Initial Portfolio Value: 76,249,608.00
+2025-02-09 00:54:43 - INFO - Final Portfolio Value: 76,249,608.00
+2025-02-09 00:54:43 - INFO - Total Return: 0.00%
+2025-02-09 00:55:52 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 00:55:52 - INFO - Initial Portfolio Value: 11,463,288.00
+2025-02-09 00:55:52 - INFO - Final Portfolio Value: 11,463,288.00
+2025-02-09 00:55:52 - INFO - Total Return: 0.00%
+2025-02-09 00:56:50 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 00:56:50 - INFO - Initial Portfolio Value: 77,788,746.00
+2025-02-09 00:56:50 - INFO - Final Portfolio Value: 77,788,746.00
+2025-02-09 00:56:50 - INFO - Total Return: 0.00%
+2025-02-09 00:58:00 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 00:58:00 - INFO - Initial Portfolio Value: 69,853,761.00
+2025-02-09 00:58:00 - INFO - Final Portfolio Value: 69,853,761.00
+2025-02-09 00:58:00 - INFO - Total Return: 0.00%
+2025-02-09 00:59:11 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 00:59:11 - INFO - Initial Portfolio Value: 86,778,420.00
+2025-02-09 00:59:11 - INFO - Final Portfolio Value: 86,778,420.00
+2025-02-09 00:59:11 - INFO - Total Return: 0.00%
+2025-02-09 01:00:21 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 01:00:21 - INFO - Initial Portfolio Value: 68,729,496.00
+2025-02-09 01:00:21 - INFO - Final Portfolio Value: 68,729,496.00
+2025-02-09 01:00:21 - INFO - Total Return: 0.00%
+2025-02-09 01:01:31 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 01:01:31 - INFO - Initial Portfolio Value: 44,358,366.00
+2025-02-09 01:01:31 - INFO - Final Portfolio Value: 44,358,366.00
+2025-02-09 01:01:31 - INFO - Total Return: 0.00%
+2025-02-09 01:02:40 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 01:02:40 - INFO - Initial Portfolio Value: 99,874,985.00
+2025-02-09 01:02:40 - INFO - Final Portfolio Value: 99,874,985.00
+2025-02-09 01:02:40 - INFO - Total Return: 0.00%
+2025-02-09 01:03:40 - INFO - 
+=== Training Metrics (Epoch 13) ===
+2025-02-09 01:03:40 - INFO - Loss: -0.006933
+2025-02-09 01:03:40 - INFO - Mean Return: 0.000000
+2025-02-09 01:03:51 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 01:03:51 - INFO - Initial Portfolio Value: 61,001,385.00
+2025-02-09 01:03:51 - INFO - Final Portfolio Value: 61,001,385.00
+2025-02-09 01:03:51 - INFO - Total Return: 0.00%
+2025-02-09 01:05:02 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 01:05:02 - INFO - Initial Portfolio Value: 17,661,309.00
+2025-02-09 01:05:02 - INFO - Final Portfolio Value: 17,661,309.00
+2025-02-09 01:05:02 - INFO - Total Return: 0.00%
+2025-02-09 01:06:10 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 01:06:10 - INFO - Initial Portfolio Value: 10,593,307.00
+2025-02-09 01:06:10 - INFO - Final Portfolio Value: 10,593,307.00
+2025-02-09 01:06:10 - INFO - Total Return: 0.00%
+2025-02-09 01:07:09 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 01:07:09 - INFO - Initial Portfolio Value: 24,013,473.00
+2025-02-09 01:07:09 - INFO - Final Portfolio Value: 24,013,473.00
+2025-02-09 01:07:09 - INFO - Total Return: 0.00%
+2025-02-09 01:08:20 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 01:08:20 - INFO - Initial Portfolio Value: 75,984,985.00
+2025-02-09 01:08:20 - INFO - Final Portfolio Value: 86,022,970.43
+2025-02-09 01:08:20 - INFO - Total Return: 13.21%
+2025-02-09 01:09:29 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 01:09:29 - INFO - Initial Portfolio Value: 27,356,334.00
+2025-02-09 01:09:29 - INFO - Final Portfolio Value: 27,356,334.00
+2025-02-09 01:09:29 - INFO - Total Return: 0.00%
+2025-02-09 01:10:37 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 01:10:37 - INFO - Initial Portfolio Value: 21,970,068.00
+2025-02-09 01:10:37 - INFO - Final Portfolio Value: 21,970,068.00
+2025-02-09 01:10:37 - INFO - Total Return: 0.00%
+2025-02-09 01:11:46 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 01:11:46 - INFO - Initial Portfolio Value: 48,494,783.00
+2025-02-09 01:11:46 - INFO - Final Portfolio Value: 48,494,783.00
+2025-02-09 01:11:46 - INFO - Total Return: 0.00%
+2025-02-09 01:12:54 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 01:12:54 - INFO - Initial Portfolio Value: 92,107,572.00
+2025-02-09 01:12:54 - INFO - Final Portfolio Value: 92,107,572.00
+2025-02-09 01:12:54 - INFO - Total Return: 0.00%
+2025-02-09 01:13:52 - INFO - 
+=== Training Metrics (Epoch 14) ===
+2025-02-09 01:13:52 - INFO - Loss: 0.183822
+2025-02-09 01:13:52 - INFO - Mean Return: 0.741255
+2025-02-09 01:14:04 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 01:14:04 - INFO - Initial Portfolio Value: 29,786,907.00
+2025-02-09 01:14:04 - INFO - Final Portfolio Value: 29,786,907.00
+2025-02-09 01:14:04 - INFO - Total Return: 0.00%
+2025-02-09 01:15:14 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 01:15:14 - INFO - Initial Portfolio Value: 27,193,408.00
+2025-02-09 01:15:14 - INFO - Final Portfolio Value: 27,193,408.00
+2025-02-09 01:15:14 - INFO - Total Return: 0.00%
+2025-02-09 01:16:22 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 01:16:22 - INFO - Initial Portfolio Value: 76,831,009.00
+2025-02-09 01:16:22 - INFO - Final Portfolio Value: 76,831,009.00
+2025-02-09 01:16:22 - INFO - Total Return: 0.00%
+2025-02-09 01:17:21 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 01:17:21 - INFO - Initial Portfolio Value: 77,655,029.00
+2025-02-09 01:17:21 - INFO - Final Portfolio Value: 77,655,029.00
+2025-02-09 01:17:21 - INFO - Total Return: 0.00%
+2025-02-09 01:18:32 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 01:18:32 - INFO - Initial Portfolio Value: 76,855,766.00
+2025-02-09 01:18:32 - INFO - Final Portfolio Value: 76,855,766.00
+2025-02-09 01:18:32 - INFO - Total Return: 0.00%
+2025-02-09 01:19:42 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 01:19:42 - INFO - Initial Portfolio Value: 51,086,566.00
+2025-02-09 01:19:42 - INFO - Final Portfolio Value: 51,086,566.00
+2025-02-09 01:19:42 - INFO - Total Return: 0.00%
+2025-02-09 01:20:51 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 01:20:51 - INFO - Initial Portfolio Value: 26,023,054.00
+2025-02-09 01:20:51 - INFO - Final Portfolio Value: 26,023,054.00
+2025-02-09 01:20:51 - INFO - Total Return: 0.00%
+2025-02-09 01:22:01 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 01:22:01 - INFO - Initial Portfolio Value: 64,214,901.00
+2025-02-09 01:22:01 - INFO - Final Portfolio Value: 64,214,901.00
+2025-02-09 01:22:01 - INFO - Total Return: 0.00%
+2025-02-09 01:23:11 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 01:23:11 - INFO - Initial Portfolio Value: 85,402,072.00
+2025-02-09 01:23:11 - INFO - Final Portfolio Value: 85,402,072.00
+2025-02-09 01:23:11 - INFO - Total Return: 0.00%
+2025-02-09 01:24:09 - INFO - 
+=== Training Metrics (Epoch 15) ===
+2025-02-09 01:24:09 - INFO - Loss: 0.000000
+2025-02-09 01:24:09 - INFO - Mean Return: 0.000000
+2025-02-09 01:24:21 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 01:24:21 - INFO - Initial Portfolio Value: 94,938,804.00
+2025-02-09 01:24:21 - INFO - Final Portfolio Value: 94,938,804.00
+2025-02-09 01:24:21 - INFO - Total Return: 0.00%
+2025-02-09 01:25:31 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 01:25:31 - INFO - Initial Portfolio Value: 49,533,198.00
+2025-02-09 01:25:31 - INFO - Final Portfolio Value: 49,533,198.00
+2025-02-09 01:25:31 - INFO - Total Return: 0.00%
+2025-02-09 01:26:39 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 01:26:39 - INFO - Initial Portfolio Value: 67,865,541.00
+2025-02-09 01:26:39 - INFO - Final Portfolio Value: 67,865,541.00
+2025-02-09 01:26:39 - INFO - Total Return: 0.00%
+2025-02-09 01:27:37 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 01:27:37 - INFO - Initial Portfolio Value: 37,682,917.00
+2025-02-09 01:27:37 - INFO - Final Portfolio Value: 37,682,917.00
+2025-02-09 01:27:37 - INFO - Total Return: 0.00%
+2025-02-09 01:28:48 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 01:28:48 - INFO - Initial Portfolio Value: 55,625,203.00
+2025-02-09 01:28:48 - INFO - Final Portfolio Value: 55,625,203.00
+2025-02-09 01:28:48 - INFO - Total Return: 0.00%
+2025-02-09 01:29:58 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 01:29:58 - INFO - Initial Portfolio Value: 35,753,278.00
+2025-02-09 01:29:58 - INFO - Final Portfolio Value: 35,753,278.00
+2025-02-09 01:29:58 - INFO - Total Return: 0.00%
+2025-02-09 01:31:08 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 01:31:08 - INFO - Initial Portfolio Value: 43,088,113.00
+2025-02-09 01:31:08 - INFO - Final Portfolio Value: 43,088,113.00
+2025-02-09 01:31:08 - INFO - Total Return: 0.00%
+2025-02-09 01:32:18 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 01:32:18 - INFO - Initial Portfolio Value: 63,628,117.00
+2025-02-09 01:32:18 - INFO - Final Portfolio Value: 63,628,117.00
+2025-02-09 01:32:18 - INFO - Total Return: 0.00%
+2025-02-09 01:33:28 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 01:33:28 - INFO - Initial Portfolio Value: 95,187,773.00
+2025-02-09 01:33:28 - INFO - Final Portfolio Value: 95,187,773.00
+2025-02-09 01:33:28 - INFO - Total Return: 0.00%
+2025-02-09 01:34:27 - INFO - 
+=== Training Metrics (Epoch 16) ===
+2025-02-09 01:34:27 - INFO - Loss: 0.000000
+2025-02-09 01:34:27 - INFO - Mean Return: 0.000000
+2025-02-09 01:34:39 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 01:34:39 - INFO - Initial Portfolio Value: 52,951,651.00
+2025-02-09 01:34:39 - INFO - Final Portfolio Value: 52,951,651.00
+2025-02-09 01:34:39 - INFO - Total Return: 0.00%
+2025-02-09 01:35:48 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 01:35:48 - INFO - Initial Portfolio Value: 30,499,136.00
+2025-02-09 01:35:48 - INFO - Final Portfolio Value: 30,499,136.00
+2025-02-09 01:35:48 - INFO - Total Return: 0.00%
+2025-02-09 01:36:55 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 01:36:55 - INFO - Initial Portfolio Value: 78,825,923.00
+2025-02-09 01:36:55 - INFO - Final Portfolio Value: 78,825,923.00
+2025-02-09 01:36:55 - INFO - Total Return: 0.00%
+2025-02-09 01:37:54 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 01:37:54 - INFO - Initial Portfolio Value: 80,253,769.00
+2025-02-09 01:37:54 - INFO - Final Portfolio Value: 80,253,769.00
+2025-02-09 01:37:54 - INFO - Total Return: 0.00%
+2025-02-09 01:39:05 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 01:39:05 - INFO - Initial Portfolio Value: 62,819,563.00
+2025-02-09 01:39:05 - INFO - Final Portfolio Value: 62,819,563.00
+2025-02-09 01:39:05 - INFO - Total Return: 0.00%
+2025-02-09 01:40:14 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 01:40:14 - INFO - Initial Portfolio Value: 37,047,479.00
+2025-02-09 01:40:14 - INFO - Final Portfolio Value: 37,047,479.00
+2025-02-09 01:40:14 - INFO - Total Return: 0.00%
+2025-02-09 01:41:24 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 01:41:24 - INFO - Initial Portfolio Value: 65,515,142.00
+2025-02-09 01:41:24 - INFO - Final Portfolio Value: 65,515,142.00
+2025-02-09 01:41:24 - INFO - Total Return: 0.00%
+2025-02-09 01:42:33 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 01:42:33 - INFO - Initial Portfolio Value: 58,677,704.00
+2025-02-09 01:42:33 - INFO - Final Portfolio Value: 58,677,704.00
+2025-02-09 01:42:33 - INFO - Total Return: 0.00%
+2025-02-09 01:43:44 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 01:43:44 - INFO - Initial Portfolio Value: 90,712,292.00
+2025-02-09 01:43:44 - INFO - Final Portfolio Value: 90,712,292.00
+2025-02-09 01:43:44 - INFO - Total Return: 0.00%
+2025-02-09 01:44:42 - INFO - 
+=== Training Metrics (Epoch 17) ===
+2025-02-09 01:44:42 - INFO - Loss: -0.000000
+2025-02-09 01:44:42 - INFO - Mean Return: 0.000000
+2025-02-09 01:44:54 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 01:44:54 - INFO - Initial Portfolio Value: 14,319,171.00
+2025-02-09 01:44:54 - INFO - Final Portfolio Value: 14,319,171.00
+2025-02-09 01:44:54 - INFO - Total Return: 0.00%
+2025-02-09 01:46:04 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 01:46:04 - INFO - Initial Portfolio Value: 97,210,774.00
+2025-02-09 01:46:04 - INFO - Final Portfolio Value: 97,210,774.00
+2025-02-09 01:46:04 - INFO - Total Return: 0.00%
+2025-02-09 01:47:11 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 01:47:11 - INFO - Initial Portfolio Value: 95,531,836.00
+2025-02-09 01:47:11 - INFO - Final Portfolio Value: 95,531,836.00
+2025-02-09 01:47:11 - INFO - Total Return: 0.00%
+2025-02-09 01:48:10 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 01:48:10 - INFO - Initial Portfolio Value: 95,792,227.00
+2025-02-09 01:48:10 - INFO - Final Portfolio Value: 95,792,227.00
+2025-02-09 01:48:10 - INFO - Total Return: 0.00%
+2025-02-09 01:49:21 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 01:49:21 - INFO - Initial Portfolio Value: 61,181,011.00
+2025-02-09 01:49:21 - INFO - Final Portfolio Value: 61,181,011.00
+2025-02-09 01:49:21 - INFO - Total Return: 0.00%
+2025-02-09 01:50:30 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 01:50:30 - INFO - Initial Portfolio Value: 29,065,734.00
+2025-02-09 01:50:30 - INFO - Final Portfolio Value: 29,065,734.00
+2025-02-09 01:50:30 - INFO - Total Return: 0.00%
+2025-02-09 01:51:39 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 01:51:39 - INFO - Initial Portfolio Value: 15,005,497.00
+2025-02-09 01:51:39 - INFO - Final Portfolio Value: 15,005,497.00
+2025-02-09 01:51:39 - INFO - Total Return: 0.00%
+2025-02-09 01:52:49 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 01:52:49 - INFO - Initial Portfolio Value: 32,007,459.00
+2025-02-09 01:52:49 - INFO - Final Portfolio Value: 32,007,459.00
+2025-02-09 01:52:49 - INFO - Total Return: 0.00%
+2025-02-09 01:54:01 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 01:54:01 - INFO - Initial Portfolio Value: 33,111,632.00
+2025-02-09 01:54:01 - INFO - Final Portfolio Value: 33,111,632.00
+2025-02-09 01:54:01 - INFO - Total Return: 0.00%
+2025-02-09 01:54:59 - INFO - 
+=== Training Metrics (Epoch 18) ===
+2025-02-09 01:54:59 - INFO - Loss: 0.010182
+2025-02-09 01:54:59 - INFO - Mean Return: 0.000000
+2025-02-09 01:55:10 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 01:55:10 - INFO - Initial Portfolio Value: 16,272,159.00
+2025-02-09 01:55:10 - INFO - Final Portfolio Value: 16,272,159.00
+2025-02-09 01:55:10 - INFO - Total Return: 0.00%
+2025-02-09 01:56:20 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 01:56:20 - INFO - Initial Portfolio Value: 36,930,168.00
+2025-02-09 01:56:20 - INFO - Final Portfolio Value: 36,930,168.00
+2025-02-09 01:56:20 - INFO - Total Return: 0.00%
+2025-02-09 01:57:28 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 01:57:28 - INFO - Initial Portfolio Value: 47,282,713.00
+2025-02-09 01:57:28 - INFO - Final Portfolio Value: 47,282,713.00
+2025-02-09 01:57:28 - INFO - Total Return: 0.00%
+2025-02-09 01:58:27 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 01:58:27 - INFO - Initial Portfolio Value: 85,063,521.00
+2025-02-09 01:58:27 - INFO - Final Portfolio Value: 85,063,521.00
+2025-02-09 01:58:27 - INFO - Total Return: 0.00%
+2025-02-09 01:59:38 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 01:59:38 - INFO - Initial Portfolio Value: 34,920,106.00
+2025-02-09 01:59:38 - INFO - Final Portfolio Value: 34,920,106.00
+2025-02-09 01:59:38 - INFO - Total Return: 0.00%
+2025-02-09 02:00:47 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 02:00:47 - INFO - Initial Portfolio Value: 14,630,707.00
+2025-02-09 02:00:47 - INFO - Final Portfolio Value: 14,630,707.00
+2025-02-09 02:00:47 - INFO - Total Return: 0.00%
+2025-02-09 02:01:56 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 02:01:56 - INFO - Initial Portfolio Value: 99,328,551.00
+2025-02-09 02:01:56 - INFO - Final Portfolio Value: 99,328,551.00
+2025-02-09 02:01:56 - INFO - Total Return: 0.00%
+2025-02-09 02:03:07 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 02:03:07 - INFO - Initial Portfolio Value: 57,897,652.00
+2025-02-09 02:03:07 - INFO - Final Portfolio Value: 57,897,652.00
+2025-02-09 02:03:07 - INFO - Total Return: 0.00%
+2025-02-09 02:04:17 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 02:04:17 - INFO - Initial Portfolio Value: 83,067,780.00
+2025-02-09 02:04:17 - INFO - Final Portfolio Value: 83,067,780.00
+2025-02-09 02:04:17 - INFO - Total Return: 0.00%
+2025-02-09 02:05:15 - INFO - 
+=== Training Metrics (Epoch 19) ===
+2025-02-09 02:05:15 - INFO - Loss: -0.000000
+2025-02-09 02:05:15 - INFO - Mean Return: 0.000000
+2025-02-09 02:05:26 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 02:05:26 - INFO - Initial Portfolio Value: 84,758,490.00
+2025-02-09 02:05:26 - INFO - Final Portfolio Value: 84,758,490.00
+2025-02-09 02:05:26 - INFO - Total Return: 0.00%
+2025-02-09 02:06:36 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 02:06:36 - INFO - Initial Portfolio Value: 15,097,627.00
+2025-02-09 02:06:36 - INFO - Final Portfolio Value: 15,097,627.00
+2025-02-09 02:06:36 - INFO - Total Return: 0.00%
+2025-02-09 02:07:44 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 02:07:44 - INFO - Initial Portfolio Value: 63,243,077.00
+2025-02-09 02:07:44 - INFO - Final Portfolio Value: 63,243,077.00
+2025-02-09 02:07:44 - INFO - Total Return: 0.00%
+2025-02-09 02:08:43 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 02:08:43 - INFO - Initial Portfolio Value: 82,913,809.00
+2025-02-09 02:08:43 - INFO - Final Portfolio Value: 82,913,809.00
+2025-02-09 02:08:43 - INFO - Total Return: 0.00%
+2025-02-09 02:09:54 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 02:09:54 - INFO - Initial Portfolio Value: 51,942,138.00
+2025-02-09 02:09:54 - INFO - Final Portfolio Value: 51,942,138.00
+2025-02-09 02:09:54 - INFO - Total Return: 0.00%
+2025-02-09 02:11:05 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 02:11:05 - INFO - Initial Portfolio Value: 52,787,512.00
+2025-02-09 02:11:05 - INFO - Final Portfolio Value: 52,787,512.00
+2025-02-09 02:11:05 - INFO - Total Return: 0.00%
+2025-02-09 02:12:15 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 02:12:15 - INFO - Initial Portfolio Value: 45,932,251.00
+2025-02-09 02:12:15 - INFO - Final Portfolio Value: 45,932,251.00
+2025-02-09 02:12:15 - INFO - Total Return: 0.00%
+2025-02-09 02:13:26 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 02:13:26 - INFO - Initial Portfolio Value: 24,913,312.00
+2025-02-09 02:13:26 - INFO - Final Portfolio Value: 24,913,312.00
+2025-02-09 02:13:26 - INFO - Total Return: 0.00%
+2025-02-09 02:14:36 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 02:14:36 - INFO - Initial Portfolio Value: 25,879,206.00
+2025-02-09 02:14:36 - INFO - Final Portfolio Value: 25,879,206.00
+2025-02-09 02:14:36 - INFO - Total Return: 0.00%
+2025-02-09 02:15:33 - INFO - 
+=== Training Metrics (Epoch 20) ===
+2025-02-09 02:15:33 - INFO - Loss: -0.000000
+2025-02-09 02:15:33 - INFO - Mean Return: 0.000000
+2025-02-09 02:15:45 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 02:15:45 - INFO - Initial Portfolio Value: 48,147,810.00
+2025-02-09 02:15:45 - INFO - Final Portfolio Value: 48,147,810.00
+2025-02-09 02:15:45 - INFO - Total Return: 0.00%
+2025-02-09 02:16:54 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 02:16:54 - INFO - Initial Portfolio Value: 99,392,659.00
+2025-02-09 02:16:54 - INFO - Final Portfolio Value: 99,392,659.00
+2025-02-09 02:16:54 - INFO - Total Return: 0.00%
+2025-02-09 02:18:02 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 02:18:02 - INFO - Initial Portfolio Value: 41,937,253.00
+2025-02-09 02:18:02 - INFO - Final Portfolio Value: 41,937,253.00
+2025-02-09 02:18:02 - INFO - Total Return: 0.00%
+2025-02-09 02:19:02 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 02:19:02 - INFO - Initial Portfolio Value: 64,329,488.00
+2025-02-09 02:19:02 - INFO - Final Portfolio Value: 64,329,488.00
+2025-02-09 02:19:02 - INFO - Total Return: 0.00%
+2025-02-09 02:20:11 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 02:20:11 - INFO - Initial Portfolio Value: 39,372,261.00
+2025-02-09 02:20:11 - INFO - Final Portfolio Value: 39,372,261.00
+2025-02-09 02:20:11 - INFO - Total Return: 0.00%
+2025-02-09 02:21:21 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 02:21:21 - INFO - Initial Portfolio Value: 63,466,722.00
+2025-02-09 02:21:21 - INFO - Final Portfolio Value: 63,466,722.00
+2025-02-09 02:21:21 - INFO - Total Return: 0.00%
+2025-02-09 02:22:31 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 02:22:31 - INFO - Initial Portfolio Value: 74,798,697.00
+2025-02-09 02:22:31 - INFO - Final Portfolio Value: 74,798,697.00
+2025-02-09 02:22:31 - INFO - Total Return: 0.00%
+2025-02-09 02:23:42 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 02:23:42 - INFO - Initial Portfolio Value: 96,386,258.00
+2025-02-09 02:23:42 - INFO - Final Portfolio Value: 96,386,258.00
+2025-02-09 02:23:42 - INFO - Total Return: 0.00%
+2025-02-09 02:24:52 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 02:24:52 - INFO - Initial Portfolio Value: 72,269,955.00
+2025-02-09 02:24:52 - INFO - Final Portfolio Value: 72,269,955.00
+2025-02-09 02:24:52 - INFO - Total Return: 0.00%
+2025-02-09 02:25:50 - INFO - 
+=== Training Metrics (Epoch 21) ===
+2025-02-09 02:25:50 - INFO - Loss: 0.029495
+2025-02-09 02:25:50 - INFO - Mean Return: 0.000000
+2025-02-09 02:26:02 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 02:26:02 - INFO - Initial Portfolio Value: 89,638,636.00
+2025-02-09 02:26:02 - INFO - Final Portfolio Value: 89,638,636.00
+2025-02-09 02:26:02 - INFO - Total Return: 0.00%
+2025-02-09 02:27:11 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 02:27:11 - INFO - Initial Portfolio Value: 16,117,227.00
+2025-02-09 02:27:11 - INFO - Final Portfolio Value: 16,117,227.00
+2025-02-09 02:27:11 - INFO - Total Return: 0.00%
+2025-02-09 02:28:19 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 02:28:19 - INFO - Initial Portfolio Value: 80,289,290.00
+2025-02-09 02:28:19 - INFO - Final Portfolio Value: 80,289,290.00
+2025-02-09 02:28:19 - INFO - Total Return: 0.00%
+2025-02-09 02:29:19 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 02:29:19 - INFO - Initial Portfolio Value: 56,252,240.00
+2025-02-09 02:29:19 - INFO - Final Portfolio Value: 56,252,240.00
+2025-02-09 02:29:19 - INFO - Total Return: 0.00%
+2025-02-09 02:30:29 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 02:30:29 - INFO - Initial Portfolio Value: 78,326,859.00
+2025-02-09 02:30:29 - INFO - Final Portfolio Value: 78,326,859.00
+2025-02-09 02:30:29 - INFO - Total Return: 0.00%
+2025-02-09 02:31:38 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 02:31:38 - INFO - Initial Portfolio Value: 85,781,490.00
+2025-02-09 02:31:38 - INFO - Final Portfolio Value: 85,781,490.00
+2025-02-09 02:31:38 - INFO - Total Return: 0.00%
+2025-02-09 02:32:48 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 02:32:48 - INFO - Initial Portfolio Value: 27,255,460.00
+2025-02-09 02:32:48 - INFO - Final Portfolio Value: 27,255,460.00
+2025-02-09 02:32:48 - INFO - Total Return: 0.00%
+2025-02-09 02:33:59 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 02:33:59 - INFO - Initial Portfolio Value: 17,036,506.00
+2025-02-09 02:33:59 - INFO - Final Portfolio Value: 17,036,506.00
+2025-02-09 02:33:59 - INFO - Total Return: 0.00%
+2025-02-09 02:35:09 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 02:35:09 - INFO - Initial Portfolio Value: 98,012,337.00
+2025-02-09 02:35:09 - INFO - Final Portfolio Value: 98,012,337.00
+2025-02-09 02:35:09 - INFO - Total Return: 0.00%
+2025-02-09 02:36:13 - INFO - 
+=== Training Metrics (Epoch 22) ===
+2025-02-09 02:36:13 - INFO - Loss: -0.046324
+2025-02-09 02:36:13 - INFO - Mean Return: 0.000000
+2025-02-09 02:36:24 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 02:36:24 - INFO - Initial Portfolio Value: 40,798,702.00
+2025-02-09 02:36:24 - INFO - Final Portfolio Value: 40,798,702.00
+2025-02-09 02:36:24 - INFO - Total Return: 0.00%
+2025-02-09 02:37:33 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 02:37:33 - INFO - Initial Portfolio Value: 79,361,594.00
+2025-02-09 02:37:33 - INFO - Final Portfolio Value: 79,361,594.00
+2025-02-09 02:37:33 - INFO - Total Return: 0.00%
+2025-02-09 02:38:41 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 02:38:41 - INFO - Initial Portfolio Value: 70,191,713.00
+2025-02-09 02:38:41 - INFO - Final Portfolio Value: 70,191,713.00
+2025-02-09 02:38:41 - INFO - Total Return: 0.00%
+2025-02-09 02:39:40 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 02:39:40 - INFO - Initial Portfolio Value: 66,587,445.00
+2025-02-09 02:39:40 - INFO - Final Portfolio Value: 66,587,445.00
+2025-02-09 02:39:40 - INFO - Total Return: 0.00%
+2025-02-09 02:40:50 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 02:40:50 - INFO - Initial Portfolio Value: 50,438,620.00
+2025-02-09 02:40:50 - INFO - Final Portfolio Value: 50,438,620.00
+2025-02-09 02:40:50 - INFO - Total Return: 0.00%
+2025-02-09 02:41:59 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 02:41:59 - INFO - Initial Portfolio Value: 36,296,223.00
+2025-02-09 02:41:59 - INFO - Final Portfolio Value: 36,296,223.00
+2025-02-09 02:41:59 - INFO - Total Return: 0.00%
+2025-02-09 02:43:10 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 02:43:10 - INFO - Initial Portfolio Value: 41,369,088.00
+2025-02-09 02:43:10 - INFO - Final Portfolio Value: 41,369,088.00
+2025-02-09 02:43:10 - INFO - Total Return: 0.00%
+2025-02-09 02:44:20 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 02:44:20 - INFO - Initial Portfolio Value: 62,740,091.00
+2025-02-09 02:44:20 - INFO - Final Portfolio Value: 62,740,091.00
+2025-02-09 02:44:20 - INFO - Total Return: 0.00%
+2025-02-09 02:45:30 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 02:45:30 - INFO - Initial Portfolio Value: 64,916,854.00
+2025-02-09 02:45:30 - INFO - Final Portfolio Value: 64,916,854.00
+2025-02-09 02:45:30 - INFO - Total Return: 0.00%
+2025-02-09 02:46:28 - INFO - 
+=== Training Metrics (Epoch 23) ===
+2025-02-09 02:46:28 - INFO - Loss: 0.000000
+2025-02-09 02:46:28 - INFO - Mean Return: 0.000000
+2025-02-09 02:46:39 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 02:46:39 - INFO - Initial Portfolio Value: 34,642,303.00
+2025-02-09 02:46:39 - INFO - Final Portfolio Value: 34,642,303.00
+2025-02-09 02:46:39 - INFO - Total Return: 0.00%
+2025-02-09 02:47:49 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 02:47:49 - INFO - Initial Portfolio Value: 84,412,816.00
+2025-02-09 02:47:49 - INFO - Final Portfolio Value: 84,412,816.00
+2025-02-09 02:47:49 - INFO - Total Return: 0.00%
+2025-02-09 02:48:57 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 02:48:57 - INFO - Initial Portfolio Value: 53,292,869.00
+2025-02-09 02:48:57 - INFO - Final Portfolio Value: 53,292,869.00
+2025-02-09 02:48:57 - INFO - Total Return: 0.00%
+2025-02-09 02:49:56 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 02:49:56 - INFO - Initial Portfolio Value: 77,645,033.00
+2025-02-09 02:49:56 - INFO - Final Portfolio Value: 77,645,033.00
+2025-02-09 02:49:56 - INFO - Total Return: 0.00%
+2025-02-09 02:51:06 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 02:51:06 - INFO - Initial Portfolio Value: 56,293,873.00
+2025-02-09 02:51:06 - INFO - Final Portfolio Value: 56,293,873.00
+2025-02-09 02:51:06 - INFO - Total Return: 0.00%
+2025-02-09 02:52:16 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 02:52:16 - INFO - Initial Portfolio Value: 25,970,619.00
+2025-02-09 02:52:16 - INFO - Final Portfolio Value: 25,970,619.00
+2025-02-09 02:52:16 - INFO - Total Return: 0.00%
+2025-02-09 02:53:27 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 02:53:27 - INFO - Initial Portfolio Value: 98,599,229.00
+2025-02-09 02:53:27 - INFO - Final Portfolio Value: 98,599,229.00
+2025-02-09 02:53:27 - INFO - Total Return: 0.00%
+2025-02-09 02:54:38 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 02:54:38 - INFO - Initial Portfolio Value: 68,089,250.00
+2025-02-09 02:54:38 - INFO - Final Portfolio Value: 68,089,250.00
+2025-02-09 02:54:38 - INFO - Total Return: 0.00%
+2025-02-09 02:55:48 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 02:55:48 - INFO - Initial Portfolio Value: 29,657,619.00
+2025-02-09 02:55:48 - INFO - Final Portfolio Value: 29,657,619.00
+2025-02-09 02:55:48 - INFO - Total Return: 0.00%
+2025-02-09 02:56:46 - INFO - 
+=== Training Metrics (Epoch 24) ===
+2025-02-09 02:56:46 - INFO - Loss: -0.000000
+2025-02-09 02:56:46 - INFO - Mean Return: 0.000000
+2025-02-09 02:56:57 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 02:56:57 - INFO - Initial Portfolio Value: 10,259,108.00
+2025-02-09 02:56:57 - INFO - Final Portfolio Value: 10,259,108.00
+2025-02-09 02:56:57 - INFO - Total Return: 0.00%
+2025-02-09 02:58:07 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 02:58:07 - INFO - Initial Portfolio Value: 70,539,123.00
+2025-02-09 02:58:07 - INFO - Final Portfolio Value: 70,539,123.00
+2025-02-09 02:58:07 - INFO - Total Return: 0.00%
+2025-02-09 02:59:15 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 02:59:15 - INFO - Initial Portfolio Value: 56,769,455.00
+2025-02-09 02:59:15 - INFO - Final Portfolio Value: 56,769,455.00
+2025-02-09 02:59:15 - INFO - Total Return: 0.00%
+2025-02-09 03:00:13 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 03:00:13 - INFO - Initial Portfolio Value: 56,275,251.00
+2025-02-09 03:00:13 - INFO - Final Portfolio Value: 56,275,251.00
+2025-02-09 03:00:13 - INFO - Total Return: 0.00%
+2025-02-09 03:01:23 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 03:01:23 - INFO - Initial Portfolio Value: 96,888,225.00
+2025-02-09 03:01:23 - INFO - Final Portfolio Value: 96,888,225.00
+2025-02-09 03:01:23 - INFO - Total Return: 0.00%
+2025-02-09 03:02:33 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 03:02:33 - INFO - Initial Portfolio Value: 32,894,460.00
+2025-02-09 03:02:33 - INFO - Final Portfolio Value: 32,894,460.00
+2025-02-09 03:02:33 - INFO - Total Return: 0.00%
+2025-02-09 03:03:44 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 03:03:44 - INFO - Initial Portfolio Value: 89,892,845.00
+2025-02-09 03:03:44 - INFO - Final Portfolio Value: 89,892,845.00
+2025-02-09 03:03:44 - INFO - Total Return: 0.00%
+2025-02-09 03:04:54 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 03:04:54 - INFO - Initial Portfolio Value: 63,046,926.00
+2025-02-09 03:04:54 - INFO - Final Portfolio Value: 63,046,926.00
+2025-02-09 03:04:54 - INFO - Total Return: 0.00%
+2025-02-09 03:06:04 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 03:06:04 - INFO - Initial Portfolio Value: 81,728,378.00
+2025-02-09 03:06:04 - INFO - Final Portfolio Value: 81,728,378.00
+2025-02-09 03:06:04 - INFO - Total Return: 0.00%
+2025-02-09 03:07:02 - INFO - 
+=== Training Metrics (Epoch 25) ===
+2025-02-09 03:07:02 - INFO - Loss: 0.014862
+2025-02-09 03:07:02 - INFO - Mean Return: 0.000000
+2025-02-09 03:07:14 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 03:07:14 - INFO - Initial Portfolio Value: 75,855,092.00
+2025-02-09 03:07:14 - INFO - Final Portfolio Value: 75,855,092.00
+2025-02-09 03:07:14 - INFO - Total Return: 0.00%
+2025-02-09 03:08:25 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 03:08:25 - INFO - Initial Portfolio Value: 14,849,027.00
+2025-02-09 03:08:25 - INFO - Final Portfolio Value: 14,849,027.00
+2025-02-09 03:08:25 - INFO - Total Return: 0.00%
+2025-02-09 03:09:33 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 03:09:33 - INFO - Initial Portfolio Value: 94,488,397.00
+2025-02-09 03:09:33 - INFO - Final Portfolio Value: 94,488,397.00
+2025-02-09 03:09:33 - INFO - Total Return: 0.00%
+2025-02-09 03:10:31 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 03:10:31 - INFO - Initial Portfolio Value: 26,267,812.00
+2025-02-09 03:10:31 - INFO - Final Portfolio Value: 26,267,812.00
+2025-02-09 03:10:31 - INFO - Total Return: 0.00%
+2025-02-09 03:11:41 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 03:11:41 - INFO - Initial Portfolio Value: 58,470,985.00
+2025-02-09 03:11:41 - INFO - Final Portfolio Value: 58,470,985.00
+2025-02-09 03:11:41 - INFO - Total Return: 0.00%
+2025-02-09 03:12:50 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 03:12:50 - INFO - Initial Portfolio Value: 89,868,535.00
+2025-02-09 03:12:50 - INFO - Final Portfolio Value: 89,868,535.00
+2025-02-09 03:12:50 - INFO - Total Return: 0.00%
+2025-02-09 03:14:01 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 03:14:01 - INFO - Initial Portfolio Value: 10,305,644.00
+2025-02-09 03:14:01 - INFO - Final Portfolio Value: 10,305,644.00
+2025-02-09 03:14:01 - INFO - Total Return: 0.00%
+2025-02-09 03:15:11 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 03:15:11 - INFO - Initial Portfolio Value: 24,637,921.00
+2025-02-09 03:15:11 - INFO - Final Portfolio Value: 24,637,921.00
+2025-02-09 03:15:11 - INFO - Total Return: 0.00%
+2025-02-09 03:16:21 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 03:16:21 - INFO - Initial Portfolio Value: 66,717,208.00
+2025-02-09 03:16:21 - INFO - Final Portfolio Value: 66,717,208.00
+2025-02-09 03:16:21 - INFO - Total Return: 0.00%
+2025-02-09 03:17:19 - INFO - 
+=== Training Metrics (Epoch 26) ===
+2025-02-09 03:17:19 - INFO - Loss: -0.000000
+2025-02-09 03:17:19 - INFO - Mean Return: 0.000000
+2025-02-09 03:17:31 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 03:17:31 - INFO - Initial Portfolio Value: 15,796,981.00
+2025-02-09 03:17:31 - INFO - Final Portfolio Value: 15,796,981.00
+2025-02-09 03:17:31 - INFO - Total Return: 0.00%
+2025-02-09 03:18:42 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 03:18:42 - INFO - Initial Portfolio Value: 49,775,136.00
+2025-02-09 03:18:42 - INFO - Final Portfolio Value: 49,775,136.00
+2025-02-09 03:18:42 - INFO - Total Return: 0.00%
+2025-02-09 03:19:49 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 03:19:49 - INFO - Initial Portfolio Value: 14,112,562.00
+2025-02-09 03:19:49 - INFO - Final Portfolio Value: 14,112,562.00
+2025-02-09 03:19:49 - INFO - Total Return: 0.00%
+2025-02-09 03:20:48 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 03:20:48 - INFO - Initial Portfolio Value: 19,232,247.00
+2025-02-09 03:20:48 - INFO - Final Portfolio Value: 19,232,247.00
+2025-02-09 03:20:48 - INFO - Total Return: 0.00%
+2025-02-09 03:21:58 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 03:21:58 - INFO - Initial Portfolio Value: 16,211,681.00
+2025-02-09 03:21:58 - INFO - Final Portfolio Value: 16,211,681.00
+2025-02-09 03:21:58 - INFO - Total Return: 0.00%
+2025-02-09 03:23:09 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 03:23:09 - INFO - Initial Portfolio Value: 67,522,163.00
+2025-02-09 03:23:09 - INFO - Final Portfolio Value: 67,522,163.00
+2025-02-09 03:23:09 - INFO - Total Return: 0.00%
+2025-02-09 03:24:19 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 03:24:19 - INFO - Initial Portfolio Value: 30,505,453.00
+2025-02-09 03:24:19 - INFO - Final Portfolio Value: 30,505,453.00
+2025-02-09 03:24:19 - INFO - Total Return: 0.00%
+2025-02-09 03:25:28 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 03:25:28 - INFO - Initial Portfolio Value: 20,013,935.00
+2025-02-09 03:25:28 - INFO - Final Portfolio Value: 20,013,935.00
+2025-02-09 03:25:28 - INFO - Total Return: 0.00%
+2025-02-09 03:26:38 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 03:26:38 - INFO - Initial Portfolio Value: 12,037,744.00
+2025-02-09 03:26:38 - INFO - Final Portfolio Value: 12,037,744.00
+2025-02-09 03:26:38 - INFO - Total Return: 0.00%
+2025-02-09 03:27:36 - INFO - 
+=== Training Metrics (Epoch 27) ===
+2025-02-09 03:27:36 - INFO - Loss: -0.002853
+2025-02-09 03:27:36 - INFO - Mean Return: 0.000000
+2025-02-09 03:27:48 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 03:27:48 - INFO - Initial Portfolio Value: 44,850,073.00
+2025-02-09 03:27:48 - INFO - Final Portfolio Value: 44,850,073.00
+2025-02-09 03:27:48 - INFO - Total Return: 0.00%
+2025-02-09 03:28:58 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 03:28:58 - INFO - Initial Portfolio Value: 52,639,366.00
+2025-02-09 03:28:58 - INFO - Final Portfolio Value: 52,639,366.00
+2025-02-09 03:28:58 - INFO - Total Return: 0.00%
+2025-02-09 03:30:06 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 03:30:06 - INFO - Initial Portfolio Value: 90,625,814.00
+2025-02-09 03:30:06 - INFO - Final Portfolio Value: 90,625,814.00
+2025-02-09 03:30:06 - INFO - Total Return: 0.00%
+2025-02-09 03:31:05 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 03:31:05 - INFO - Initial Portfolio Value: 99,148,973.00
+2025-02-09 03:31:05 - INFO - Final Portfolio Value: 99,148,973.00
+2025-02-09 03:31:05 - INFO - Total Return: 0.00%
+2025-02-09 03:32:14 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 03:32:14 - INFO - Initial Portfolio Value: 15,961,303.00
+2025-02-09 03:32:14 - INFO - Final Portfolio Value: 15,961,303.00
+2025-02-09 03:32:14 - INFO - Total Return: 0.00%
+2025-02-09 03:33:25 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 03:33:25 - INFO - Initial Portfolio Value: 24,950,889.00
+2025-02-09 03:33:25 - INFO - Final Portfolio Value: 24,950,889.00
+2025-02-09 03:33:25 - INFO - Total Return: 0.00%
+2025-02-09 03:34:35 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 03:34:35 - INFO - Initial Portfolio Value: 50,530,302.00
+2025-02-09 03:34:35 - INFO - Final Portfolio Value: 50,530,302.00
+2025-02-09 03:34:35 - INFO - Total Return: 0.00%
+2025-02-09 03:35:45 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 03:35:45 - INFO - Initial Portfolio Value: 23,140,870.00
+2025-02-09 03:35:45 - INFO - Final Portfolio Value: 23,140,870.00
+2025-02-09 03:35:45 - INFO - Total Return: 0.00%
+2025-02-09 03:36:55 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 03:36:55 - INFO - Initial Portfolio Value: 84,068,920.00
+2025-02-09 03:36:55 - INFO - Final Portfolio Value: 84,068,920.00
+2025-02-09 03:36:55 - INFO - Total Return: 0.00%
+2025-02-09 03:37:53 - INFO - 
+=== Training Metrics (Epoch 28) ===
+2025-02-09 03:37:53 - INFO - Loss: -0.012377
+2025-02-09 03:37:53 - INFO - Mean Return: 0.000000
+2025-02-09 03:38:06 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 03:38:06 - INFO - Initial Portfolio Value: 30,971,283.00
+2025-02-09 03:38:06 - INFO - Final Portfolio Value: 30,971,283.00
+2025-02-09 03:38:06 - INFO - Total Return: 0.00%
+2025-02-09 03:39:16 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 03:39:16 - INFO - Initial Portfolio Value: 13,389,611.00
+2025-02-09 03:39:16 - INFO - Final Portfolio Value: 13,389,611.00
+2025-02-09 03:39:16 - INFO - Total Return: 0.00%
+2025-02-09 03:40:23 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 03:40:23 - INFO - Initial Portfolio Value: 68,822,992.00
+2025-02-09 03:40:23 - INFO - Final Portfolio Value: 68,822,992.00
+2025-02-09 03:40:23 - INFO - Total Return: 0.00%
+2025-02-09 03:41:22 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 03:41:22 - INFO - Initial Portfolio Value: 99,153,319.00
+2025-02-09 03:41:22 - INFO - Final Portfolio Value: 99,153,319.00
+2025-02-09 03:41:22 - INFO - Total Return: 0.00%
+2025-02-09 03:42:32 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 03:42:32 - INFO - Initial Portfolio Value: 94,164,976.00
+2025-02-09 03:42:32 - INFO - Final Portfolio Value: 94,164,976.00
+2025-02-09 03:42:32 - INFO - Total Return: 0.00%
+2025-02-09 03:43:42 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 03:43:42 - INFO - Initial Portfolio Value: 36,909,643.00
+2025-02-09 03:43:42 - INFO - Final Portfolio Value: 36,909,643.00
+2025-02-09 03:43:42 - INFO - Total Return: 0.00%
+2025-02-09 03:44:53 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 03:44:53 - INFO - Initial Portfolio Value: 17,786,911.00
+2025-02-09 03:44:53 - INFO - Final Portfolio Value: 17,786,911.00
+2025-02-09 03:44:53 - INFO - Total Return: 0.00%
+2025-02-09 03:46:02 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 03:46:02 - INFO - Initial Portfolio Value: 84,068,771.00
+2025-02-09 03:46:02 - INFO - Final Portfolio Value: 84,068,771.00
+2025-02-09 03:46:02 - INFO - Total Return: 0.00%
+2025-02-09 03:47:12 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 03:47:12 - INFO - Initial Portfolio Value: 33,187,439.00
+2025-02-09 03:47:12 - INFO - Final Portfolio Value: 33,187,439.00
+2025-02-09 03:47:12 - INFO - Total Return: 0.00%
+2025-02-09 03:48:11 - INFO - 
+=== Training Metrics (Epoch 29) ===
+2025-02-09 03:48:11 - INFO - Loss: -0.005790
+2025-02-09 03:48:11 - INFO - Mean Return: 0.000000
+2025-02-09 03:48:23 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 03:48:23 - INFO - Initial Portfolio Value: 10,044,730.00
+2025-02-09 03:48:23 - INFO - Final Portfolio Value: 10,044,730.00
+2025-02-09 03:48:23 - INFO - Total Return: 0.00%
+2025-02-09 03:49:33 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 03:49:33 - INFO - Initial Portfolio Value: 58,332,496.00
+2025-02-09 03:49:33 - INFO - Final Portfolio Value: 58,332,496.00
+2025-02-09 03:49:33 - INFO - Total Return: 0.00%
+2025-02-09 03:50:41 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 03:50:41 - INFO - Initial Portfolio Value: 53,906,308.00
+2025-02-09 03:50:41 - INFO - Final Portfolio Value: 53,906,308.00
+2025-02-09 03:50:41 - INFO - Total Return: 0.00%
+2025-02-09 03:51:40 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 03:51:40 - INFO - Initial Portfolio Value: 74,703,991.00
+2025-02-09 03:51:40 - INFO - Final Portfolio Value: 74,703,991.00
+2025-02-09 03:51:40 - INFO - Total Return: 0.00%
+2025-02-09 03:52:49 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 03:52:49 - INFO - Initial Portfolio Value: 80,578,665.00
+2025-02-09 03:52:49 - INFO - Final Portfolio Value: 80,578,665.00
+2025-02-09 03:52:49 - INFO - Total Return: 0.00%
+2025-02-09 03:54:01 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 03:54:01 - INFO - Initial Portfolio Value: 32,876,416.00
+2025-02-09 03:54:01 - INFO - Final Portfolio Value: 32,876,416.00
+2025-02-09 03:54:01 - INFO - Total Return: 0.00%
+2025-02-09 03:55:11 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 03:55:11 - INFO - Initial Portfolio Value: 71,490,831.00
+2025-02-09 03:55:11 - INFO - Final Portfolio Value: 71,490,831.00
+2025-02-09 03:55:11 - INFO - Total Return: 0.00%
+2025-02-09 03:56:21 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 03:56:21 - INFO - Initial Portfolio Value: 97,000,430.00
+2025-02-09 03:56:21 - INFO - Final Portfolio Value: 97,000,430.00
+2025-02-09 03:56:21 - INFO - Total Return: 0.00%
+2025-02-09 03:57:31 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 03:57:31 - INFO - Initial Portfolio Value: 59,073,338.00
+2025-02-09 03:57:31 - INFO - Final Portfolio Value: 59,073,338.00
+2025-02-09 03:57:31 - INFO - Total Return: 0.00%
+2025-02-09 03:58:30 - INFO - 
+=== Training Metrics (Epoch 30) ===
+2025-02-09 03:58:30 - INFO - Loss: 0.007546
+2025-02-09 03:58:30 - INFO - Mean Return: 0.000000
+2025-02-09 03:58:42 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 03:58:42 - INFO - Initial Portfolio Value: 18,923,749.00
+2025-02-09 03:58:42 - INFO - Final Portfolio Value: 18,923,749.00
+2025-02-09 03:58:42 - INFO - Total Return: 0.00%
+2025-02-09 03:59:52 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 03:59:52 - INFO - Initial Portfolio Value: 52,205,807.00
+2025-02-09 03:59:52 - INFO - Final Portfolio Value: 52,205,807.00
+2025-02-09 03:59:52 - INFO - Total Return: 0.00%
+2025-02-09 04:01:00 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 04:01:00 - INFO - Initial Portfolio Value: 82,459,577.00
+2025-02-09 04:01:00 - INFO - Final Portfolio Value: 82,459,577.00
+2025-02-09 04:01:00 - INFO - Total Return: 0.00%
+2025-02-09 04:02:00 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 04:02:00 - INFO - Initial Portfolio Value: 46,262,117.00
+2025-02-09 04:02:00 - INFO - Final Portfolio Value: 46,262,117.00
+2025-02-09 04:02:00 - INFO - Total Return: 0.00%
+2025-02-09 04:03:10 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 04:03:10 - INFO - Initial Portfolio Value: 63,714,029.00
+2025-02-09 04:03:10 - INFO - Final Portfolio Value: 63,714,029.00
+2025-02-09 04:03:10 - INFO - Total Return: 0.00%
+2025-02-09 04:04:22 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 04:04:22 - INFO - Initial Portfolio Value: 86,090,781.00
+2025-02-09 04:04:22 - INFO - Final Portfolio Value: 86,090,781.00
+2025-02-09 04:04:22 - INFO - Total Return: 0.00%
+2025-02-09 04:05:31 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 04:05:31 - INFO - Initial Portfolio Value: 39,407,316.00
+2025-02-09 04:05:31 - INFO - Final Portfolio Value: 39,407,316.00
+2025-02-09 04:05:31 - INFO - Total Return: 0.00%
+2025-02-09 04:06:42 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 04:06:42 - INFO - Initial Portfolio Value: 29,353,934.00
+2025-02-09 04:06:42 - INFO - Final Portfolio Value: 29,353,934.00
+2025-02-09 04:06:42 - INFO - Total Return: 0.00%
+2025-02-09 04:07:52 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 04:07:52 - INFO - Initial Portfolio Value: 63,952,310.00
+2025-02-09 04:07:52 - INFO - Final Portfolio Value: 63,952,310.00
+2025-02-09 04:07:52 - INFO - Total Return: 0.00%
+2025-02-09 04:08:51 - INFO - 
+=== Training Metrics (Epoch 31) ===
+2025-02-09 04:08:51 - INFO - Loss: 0.001367
+2025-02-09 04:08:51 - INFO - Mean Return: 0.000000
+2025-02-09 04:09:03 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 04:09:03 - INFO - Initial Portfolio Value: 16,624,616.00
+2025-02-09 04:09:03 - INFO - Final Portfolio Value: 16,624,616.00
+2025-02-09 04:09:03 - INFO - Total Return: 0.00%
+2025-02-09 04:10:13 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 04:10:13 - INFO - Initial Portfolio Value: 11,916,583.00
+2025-02-09 04:10:13 - INFO - Final Portfolio Value: 11,916,583.00
+2025-02-09 04:10:13 - INFO - Total Return: 0.00%
+2025-02-09 04:11:21 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 04:11:21 - INFO - Initial Portfolio Value: 32,111,714.00
+2025-02-09 04:11:21 - INFO - Final Portfolio Value: 32,111,714.00
+2025-02-09 04:11:21 - INFO - Total Return: 0.00%
+2025-02-09 04:12:19 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 04:12:19 - INFO - Initial Portfolio Value: 48,104,449.00
+2025-02-09 04:12:19 - INFO - Final Portfolio Value: 48,104,449.00
+2025-02-09 04:12:19 - INFO - Total Return: 0.00%
+2025-02-09 04:13:31 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 04:13:31 - INFO - Initial Portfolio Value: 41,459,732.00
+2025-02-09 04:13:31 - INFO - Final Portfolio Value: 41,459,732.00
+2025-02-09 04:13:31 - INFO - Total Return: 0.00%
+2025-02-09 04:14:41 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 04:14:41 - INFO - Initial Portfolio Value: 49,549,405.00
+2025-02-09 04:14:41 - INFO - Final Portfolio Value: 49,549,405.00
+2025-02-09 04:14:41 - INFO - Total Return: 0.00%
+2025-02-09 04:15:51 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 04:15:51 - INFO - Initial Portfolio Value: 92,094,690.00
+2025-02-09 04:15:51 - INFO - Final Portfolio Value: 92,094,690.00
+2025-02-09 04:15:51 - INFO - Total Return: 0.00%
+2025-02-09 04:17:01 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 04:17:01 - INFO - Initial Portfolio Value: 54,947,987.00
+2025-02-09 04:17:01 - INFO - Final Portfolio Value: 54,947,987.00
+2025-02-09 04:17:01 - INFO - Total Return: 0.00%
+2025-02-09 04:18:12 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 04:18:12 - INFO - Initial Portfolio Value: 89,964,516.00
+2025-02-09 04:18:12 - INFO - Final Portfolio Value: 89,964,516.00
+2025-02-09 04:18:12 - INFO - Total Return: 0.00%
+2025-02-09 04:19:11 - INFO - 
+=== Training Metrics (Epoch 32) ===
+2025-02-09 04:19:11 - INFO - Loss: -0.025917
+2025-02-09 04:19:11 - INFO - Mean Return: 0.000000
+2025-02-09 04:19:23 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 04:19:23 - INFO - Initial Portfolio Value: 76,858,414.00
+2025-02-09 04:19:23 - INFO - Final Portfolio Value: 76,858,414.00
+2025-02-09 04:19:23 - INFO - Total Return: 0.00%
+2025-02-09 04:20:33 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 04:20:33 - INFO - Initial Portfolio Value: 43,611,323.00
+2025-02-09 04:20:33 - INFO - Final Portfolio Value: 43,611,323.00
+2025-02-09 04:20:33 - INFO - Total Return: 0.00%
+2025-02-09 04:21:41 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 04:21:41 - INFO - Initial Portfolio Value: 89,761,036.00
+2025-02-09 04:21:41 - INFO - Final Portfolio Value: 89,761,036.00
+2025-02-09 04:21:41 - INFO - Total Return: 0.00%
+2025-02-09 04:22:40 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 04:22:40 - INFO - Initial Portfolio Value: 27,655,370.00
+2025-02-09 04:22:40 - INFO - Final Portfolio Value: 27,655,370.00
+2025-02-09 04:22:40 - INFO - Total Return: 0.00%
+2025-02-09 04:23:52 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 04:23:52 - INFO - Initial Portfolio Value: 16,604,352.00
+2025-02-09 04:23:52 - INFO - Final Portfolio Value: 16,604,352.00
+2025-02-09 04:23:52 - INFO - Total Return: 0.00%
+2025-02-09 04:25:02 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 04:25:02 - INFO - Initial Portfolio Value: 32,430,131.00
+2025-02-09 04:25:02 - INFO - Final Portfolio Value: 32,430,131.00
+2025-02-09 04:25:02 - INFO - Total Return: 0.00%
+2025-02-09 04:26:13 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 04:26:13 - INFO - Initial Portfolio Value: 80,103,243.00
+2025-02-09 04:26:13 - INFO - Final Portfolio Value: 80,103,243.00
+2025-02-09 04:26:13 - INFO - Total Return: 0.00%
+2025-02-09 04:27:24 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 04:27:24 - INFO - Initial Portfolio Value: 74,846,461.00
+2025-02-09 04:27:24 - INFO - Final Portfolio Value: 74,846,461.00
+2025-02-09 04:27:24 - INFO - Total Return: 0.00%
+2025-02-09 04:28:35 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 04:28:35 - INFO - Initial Portfolio Value: 61,938,387.00
+2025-02-09 04:28:35 - INFO - Final Portfolio Value: 61,938,387.00
+2025-02-09 04:28:35 - INFO - Total Return: 0.00%
+2025-02-09 04:29:34 - INFO - 
+=== Training Metrics (Epoch 33) ===
+2025-02-09 04:29:34 - INFO - Loss: 0.002158
+2025-02-09 04:29:34 - INFO - Mean Return: 0.000000
+2025-02-09 04:29:46 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 04:29:46 - INFO - Initial Portfolio Value: 17,883,883.00
+2025-02-09 04:29:46 - INFO - Final Portfolio Value: 17,883,883.00
+2025-02-09 04:29:46 - INFO - Total Return: 0.00%
+2025-02-09 04:30:56 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 04:30:56 - INFO - Initial Portfolio Value: 16,997,925.00
+2025-02-09 04:30:56 - INFO - Final Portfolio Value: 16,997,925.00
+2025-02-09 04:30:56 - INFO - Total Return: 0.00%
+2025-02-09 04:32:03 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 04:32:03 - INFO - Initial Portfolio Value: 76,174,415.00
+2025-02-09 04:32:03 - INFO - Final Portfolio Value: 76,174,415.00
+2025-02-09 04:32:03 - INFO - Total Return: 0.00%
+2025-02-09 04:33:03 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 04:33:03 - INFO - Initial Portfolio Value: 67,837,926.00
+2025-02-09 04:33:03 - INFO - Final Portfolio Value: 67,837,926.00
+2025-02-09 04:33:03 - INFO - Total Return: 0.00%
+2025-02-09 04:34:15 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 04:34:15 - INFO - Initial Portfolio Value: 89,986,536.00
+2025-02-09 04:34:15 - INFO - Final Portfolio Value: 89,986,536.00
+2025-02-09 04:34:15 - INFO - Total Return: 0.00%
+2025-02-09 04:35:25 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 04:35:25 - INFO - Initial Portfolio Value: 59,601,055.00
+2025-02-09 04:35:25 - INFO - Final Portfolio Value: 59,601,055.00
+2025-02-09 04:35:25 - INFO - Total Return: 0.00%
+2025-02-09 04:36:35 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 04:36:35 - INFO - Initial Portfolio Value: 73,313,945.00
+2025-02-09 04:36:35 - INFO - Final Portfolio Value: 73,313,945.00
+2025-02-09 04:36:35 - INFO - Total Return: 0.00%
+2025-02-09 04:37:45 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 04:37:45 - INFO - Initial Portfolio Value: 68,301,941.00
+2025-02-09 04:37:45 - INFO - Final Portfolio Value: 68,301,941.00
+2025-02-09 04:37:45 - INFO - Total Return: 0.00%
+2025-02-09 04:38:57 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 04:38:57 - INFO - Initial Portfolio Value: 43,149,693.00
+2025-02-09 04:38:57 - INFO - Final Portfolio Value: 43,149,693.00
+2025-02-09 04:38:57 - INFO - Total Return: 0.00%
+2025-02-09 04:39:56 - INFO - 
+=== Training Metrics (Epoch 34) ===
+2025-02-09 04:39:56 - INFO - Loss: -0.001133
+2025-02-09 04:39:56 - INFO - Mean Return: 0.000000
+2025-02-09 04:40:08 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 04:40:08 - INFO - Initial Portfolio Value: 98,023,302.00
+2025-02-09 04:40:08 - INFO - Final Portfolio Value: 98,023,302.00
+2025-02-09 04:40:08 - INFO - Total Return: 0.00%
+2025-02-09 04:41:18 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 04:41:18 - INFO - Initial Portfolio Value: 71,920,117.00
+2025-02-09 04:41:18 - INFO - Final Portfolio Value: 71,920,117.00
+2025-02-09 04:41:18 - INFO - Total Return: 0.00%
+2025-02-09 04:42:25 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 04:42:25 - INFO - Initial Portfolio Value: 52,259,003.00
+2025-02-09 04:42:25 - INFO - Final Portfolio Value: 52,259,003.00
+2025-02-09 04:42:25 - INFO - Total Return: 0.00%
+2025-02-09 04:43:25 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 04:43:25 - INFO - Initial Portfolio Value: 58,179,575.00
+2025-02-09 04:43:25 - INFO - Final Portfolio Value: 58,179,575.00
+2025-02-09 04:43:25 - INFO - Total Return: 0.00%
+2025-02-09 04:44:36 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 04:44:36 - INFO - Initial Portfolio Value: 67,557,220.00
+2025-02-09 04:44:36 - INFO - Final Portfolio Value: 67,557,220.00
+2025-02-09 04:44:36 - INFO - Total Return: 0.00%
+2025-02-09 04:45:46 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 04:45:46 - INFO - Initial Portfolio Value: 32,824,455.00
+2025-02-09 04:45:46 - INFO - Final Portfolio Value: 32,824,455.00
+2025-02-09 04:45:46 - INFO - Total Return: 0.00%
+2025-02-09 04:46:56 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 04:46:56 - INFO - Initial Portfolio Value: 75,686,282.00
+2025-02-09 04:46:56 - INFO - Final Portfolio Value: 75,686,282.00
+2025-02-09 04:46:56 - INFO - Total Return: 0.00%
+2025-02-09 04:48:08 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 04:48:08 - INFO - Initial Portfolio Value: 45,081,004.00
+2025-02-09 04:48:08 - INFO - Final Portfolio Value: 45,081,004.00
+2025-02-09 04:48:08 - INFO - Total Return: 0.00%
+2025-02-09 04:49:19 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 04:49:19 - INFO - Initial Portfolio Value: 89,918,009.00
+2025-02-09 04:49:19 - INFO - Final Portfolio Value: 89,918,009.00
+2025-02-09 04:49:19 - INFO - Total Return: 0.00%
+2025-02-09 04:50:17 - INFO - 
+=== Training Metrics (Epoch 35) ===
+2025-02-09 04:50:17 - INFO - Loss: 0.003090
+2025-02-09 04:50:17 - INFO - Mean Return: 0.000000
+2025-02-09 04:50:29 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 04:50:29 - INFO - Initial Portfolio Value: 23,051,640.00
+2025-02-09 04:50:29 - INFO - Final Portfolio Value: 23,051,640.00
+2025-02-09 04:50:29 - INFO - Total Return: 0.00%
+2025-02-09 04:51:39 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 04:51:39 - INFO - Initial Portfolio Value: 66,689,206.00
+2025-02-09 04:51:39 - INFO - Final Portfolio Value: 66,689,206.00
+2025-02-09 04:51:39 - INFO - Total Return: 0.00%
+2025-02-09 04:52:47 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 04:52:47 - INFO - Initial Portfolio Value: 32,269,839.00
+2025-02-09 04:52:47 - INFO - Final Portfolio Value: 32,269,839.00
+2025-02-09 04:52:47 - INFO - Total Return: 0.00%
+2025-02-09 04:53:47 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 04:53:47 - INFO - Initial Portfolio Value: 47,866,896.00
+2025-02-09 04:53:47 - INFO - Final Portfolio Value: 47,866,896.00
+2025-02-09 04:53:47 - INFO - Total Return: 0.00%
+2025-02-09 04:54:58 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 04:54:58 - INFO - Initial Portfolio Value: 53,021,990.00
+2025-02-09 04:54:58 - INFO - Final Portfolio Value: 53,021,990.00
+2025-02-09 04:54:58 - INFO - Total Return: 0.00%
+2025-02-09 04:56:09 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 04:56:09 - INFO - Initial Portfolio Value: 58,988,164.00
+2025-02-09 04:56:09 - INFO - Final Portfolio Value: 58,988,164.00
+2025-02-09 04:56:09 - INFO - Total Return: 0.00%
+2025-02-09 04:57:20 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 04:57:20 - INFO - Initial Portfolio Value: 63,742,339.00
+2025-02-09 04:57:20 - INFO - Final Portfolio Value: 63,742,339.00
+2025-02-09 04:57:20 - INFO - Total Return: 0.00%
+2025-02-09 04:58:31 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 04:58:31 - INFO - Initial Portfolio Value: 23,049,938.00
+2025-02-09 04:58:31 - INFO - Final Portfolio Value: 23,049,938.00
+2025-02-09 04:58:31 - INFO - Total Return: 0.00%
+2025-02-09 04:59:42 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 04:59:42 - INFO - Initial Portfolio Value: 98,001,605.00
+2025-02-09 04:59:42 - INFO - Final Portfolio Value: 98,001,605.00
+2025-02-09 04:59:42 - INFO - Total Return: 0.00%
+2025-02-09 05:00:41 - INFO - 
+=== Training Metrics (Epoch 36) ===
+2025-02-09 05:00:41 - INFO - Loss: 0.001029
+2025-02-09 05:00:41 - INFO - Mean Return: 0.000000
+2025-02-09 05:00:52 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 05:00:52 - INFO - Initial Portfolio Value: 96,364,082.00
+2025-02-09 05:00:52 - INFO - Final Portfolio Value: 96,364,082.00
+2025-02-09 05:00:52 - INFO - Total Return: 0.00%
+2025-02-09 05:02:02 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 05:02:02 - INFO - Initial Portfolio Value: 65,178,661.00
+2025-02-09 05:02:02 - INFO - Final Portfolio Value: 65,178,661.00
+2025-02-09 05:02:02 - INFO - Total Return: 0.00%
+2025-02-09 05:03:11 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 05:03:11 - INFO - Initial Portfolio Value: 84,878,577.00
+2025-02-09 05:03:11 - INFO - Final Portfolio Value: 84,878,577.00
+2025-02-09 05:03:11 - INFO - Total Return: 0.00%
+2025-02-09 05:04:11 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 05:04:11 - INFO - Initial Portfolio Value: 92,206,097.00
+2025-02-09 05:04:11 - INFO - Final Portfolio Value: 92,206,097.00
+2025-02-09 05:04:11 - INFO - Total Return: 0.00%
+2025-02-09 05:05:21 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 05:05:21 - INFO - Initial Portfolio Value: 25,361,193.00
+2025-02-09 05:05:21 - INFO - Final Portfolio Value: 25,361,193.00
+2025-02-09 05:05:21 - INFO - Total Return: 0.00%
+2025-02-09 05:06:32 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 05:06:32 - INFO - Initial Portfolio Value: 26,389,305.00
+2025-02-09 05:06:32 - INFO - Final Portfolio Value: 26,389,305.00
+2025-02-09 05:06:32 - INFO - Total Return: 0.00%
+2025-02-09 05:07:42 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 05:07:42 - INFO - Initial Portfolio Value: 28,615,092.00
+2025-02-09 05:07:42 - INFO - Final Portfolio Value: 28,615,092.00
+2025-02-09 05:07:42 - INFO - Total Return: 0.00%
+2025-02-09 05:08:53 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 05:08:53 - INFO - Initial Portfolio Value: 61,426,149.00
+2025-02-09 05:08:53 - INFO - Final Portfolio Value: 61,426,149.00
+2025-02-09 05:08:53 - INFO - Total Return: 0.00%
+2025-02-09 05:10:05 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 05:10:05 - INFO - Initial Portfolio Value: 74,923,221.00
+2025-02-09 05:10:05 - INFO - Final Portfolio Value: 74,923,221.00
+2025-02-09 05:10:05 - INFO - Total Return: 0.00%
+2025-02-09 05:11:06 - INFO - 
+=== Training Metrics (Epoch 37) ===
+2025-02-09 05:11:06 - INFO - Loss: 0.000000
+2025-02-09 05:11:06 - INFO - Mean Return: 0.000000
+2025-02-09 05:11:18 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 05:11:18 - INFO - Initial Portfolio Value: 67,716,595.00
+2025-02-09 05:11:18 - INFO - Final Portfolio Value: 67,716,595.00
+2025-02-09 05:11:18 - INFO - Total Return: 0.00%
+2025-02-09 05:12:29 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 05:12:29 - INFO - Initial Portfolio Value: 18,415,576.00
+2025-02-09 05:12:29 - INFO - Final Portfolio Value: 18,415,576.00
+2025-02-09 05:12:29 - INFO - Total Return: 0.00%
+2025-02-09 05:13:38 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 05:13:38 - INFO - Initial Portfolio Value: 39,984,121.00
+2025-02-09 05:13:38 - INFO - Final Portfolio Value: 39,984,121.00
+2025-02-09 05:13:38 - INFO - Total Return: 0.00%
+2025-02-09 05:14:37 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 05:14:37 - INFO - Initial Portfolio Value: 88,903,456.00
+2025-02-09 05:14:37 - INFO - Final Portfolio Value: 88,903,456.00
+2025-02-09 05:14:37 - INFO - Total Return: 0.00%
+2025-02-09 05:15:48 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 05:15:48 - INFO - Initial Portfolio Value: 47,940,759.00
+2025-02-09 05:15:48 - INFO - Final Portfolio Value: 47,940,759.00
+2025-02-09 05:15:48 - INFO - Total Return: 0.00%
+2025-02-09 05:16:58 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 05:16:58 - INFO - Initial Portfolio Value: 51,374,282.00
+2025-02-09 05:16:58 - INFO - Final Portfolio Value: 51,374,282.00
+2025-02-09 05:16:58 - INFO - Total Return: 0.00%
+2025-02-09 05:18:10 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 05:18:10 - INFO - Initial Portfolio Value: 22,246,586.00
+2025-02-09 05:18:10 - INFO - Final Portfolio Value: 22,246,586.00
+2025-02-09 05:18:10 - INFO - Total Return: 0.00%
+2025-02-09 05:19:21 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 05:19:21 - INFO - Initial Portfolio Value: 35,513,174.00
+2025-02-09 05:19:21 - INFO - Final Portfolio Value: 35,513,174.00
+2025-02-09 05:19:21 - INFO - Total Return: 0.00%
+2025-02-09 05:20:31 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 05:20:31 - INFO - Initial Portfolio Value: 88,228,012.00
+2025-02-09 05:20:31 - INFO - Final Portfolio Value: 88,228,012.00
+2025-02-09 05:20:31 - INFO - Total Return: 0.00%
+2025-02-09 05:21:30 - INFO - 
+=== Training Metrics (Epoch 38) ===
+2025-02-09 05:21:30 - INFO - Loss: 0.171567
+2025-02-09 05:21:30 - INFO - Mean Return: 0.000000
+2025-02-09 05:21:42 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 05:21:42 - INFO - Initial Portfolio Value: 63,830,346.00
+2025-02-09 05:21:42 - INFO - Final Portfolio Value: 63,830,346.00
+2025-02-09 05:21:42 - INFO - Total Return: 0.00%
+2025-02-09 05:22:52 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 05:22:52 - INFO - Initial Portfolio Value: 70,146,731.00
+2025-02-09 05:22:52 - INFO - Final Portfolio Value: 70,146,731.00
+2025-02-09 05:22:52 - INFO - Total Return: 0.00%
+2025-02-09 05:24:02 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 05:24:02 - INFO - Initial Portfolio Value: 74,258,232.00
+2025-02-09 05:24:02 - INFO - Final Portfolio Value: 74,258,232.00
+2025-02-09 05:24:02 - INFO - Total Return: 0.00%
+2025-02-09 05:25:02 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 05:25:02 - INFO - Initial Portfolio Value: 57,680,831.00
+2025-02-09 05:25:02 - INFO - Final Portfolio Value: 57,680,831.00
+2025-02-09 05:25:02 - INFO - Total Return: 0.00%
+2025-02-09 05:26:12 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 05:26:12 - INFO - Initial Portfolio Value: 79,704,901.00
+2025-02-09 05:26:12 - INFO - Final Portfolio Value: 79,704,901.00
+2025-02-09 05:26:12 - INFO - Total Return: 0.00%
+2025-02-09 05:27:23 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 05:27:23 - INFO - Initial Portfolio Value: 34,945,955.00
+2025-02-09 05:27:23 - INFO - Final Portfolio Value: 34,945,955.00
+2025-02-09 05:27:23 - INFO - Total Return: 0.00%
+2025-02-09 05:28:34 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 05:28:34 - INFO - Initial Portfolio Value: 93,175,656.00
+2025-02-09 05:28:34 - INFO - Final Portfolio Value: 93,175,656.00
+2025-02-09 05:28:34 - INFO - Total Return: 0.00%
+2025-02-09 05:29:45 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 05:29:45 - INFO - Initial Portfolio Value: 81,500,862.00
+2025-02-09 05:29:45 - INFO - Final Portfolio Value: 81,500,862.00
+2025-02-09 05:29:45 - INFO - Total Return: 0.00%
+2025-02-09 05:30:55 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 05:30:55 - INFO - Initial Portfolio Value: 76,769,773.00
+2025-02-09 05:30:55 - INFO - Final Portfolio Value: 76,769,773.00
+2025-02-09 05:30:55 - INFO - Total Return: 0.00%
+2025-02-09 05:31:54 - INFO - 
+=== Training Metrics (Epoch 39) ===
+2025-02-09 05:31:54 - INFO - Loss: -0.000000
+2025-02-09 05:31:54 - INFO - Mean Return: 0.000000
+2025-02-09 05:32:06 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 05:32:06 - INFO - Initial Portfolio Value: 13,809,237.00
+2025-02-09 05:32:06 - INFO - Final Portfolio Value: 13,809,237.00
+2025-02-09 05:32:06 - INFO - Total Return: 0.00%
+2025-02-09 05:33:17 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 05:33:17 - INFO - Initial Portfolio Value: 87,247,081.00
+2025-02-09 05:33:17 - INFO - Final Portfolio Value: 87,247,081.00
+2025-02-09 05:33:17 - INFO - Total Return: 0.00%
+2025-02-09 05:34:27 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 05:34:27 - INFO - Initial Portfolio Value: 59,649,198.00
+2025-02-09 05:34:27 - INFO - Final Portfolio Value: 59,649,198.00
+2025-02-09 05:34:27 - INFO - Total Return: 0.00%
+2025-02-09 05:35:26 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 05:35:26 - INFO - Initial Portfolio Value: 43,361,504.00
+2025-02-09 05:35:26 - INFO - Final Portfolio Value: 43,361,504.00
+2025-02-09 05:35:26 - INFO - Total Return: 0.00%
+2025-02-09 05:36:37 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 05:36:37 - INFO - Initial Portfolio Value: 82,445,380.00
+2025-02-09 05:36:37 - INFO - Final Portfolio Value: 82,445,380.00
+2025-02-09 05:36:37 - INFO - Total Return: 0.00%
+2025-02-09 05:37:48 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 05:37:48 - INFO - Initial Portfolio Value: 13,263,812.00
+2025-02-09 05:37:48 - INFO - Final Portfolio Value: 13,263,812.00
+2025-02-09 05:37:48 - INFO - Total Return: 0.00%
+2025-02-09 05:39:00 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 05:39:00 - INFO - Initial Portfolio Value: 76,391,556.00
+2025-02-09 05:39:00 - INFO - Final Portfolio Value: 76,391,556.00
+2025-02-09 05:39:00 - INFO - Total Return: 0.00%
+2025-02-09 05:40:11 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 05:40:11 - INFO - Initial Portfolio Value: 48,080,131.00
+2025-02-09 05:40:11 - INFO - Final Portfolio Value: 48,080,131.00
+2025-02-09 05:40:11 - INFO - Total Return: 0.00%
+2025-02-09 05:41:21 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 05:41:21 - INFO - Initial Portfolio Value: 67,770,261.00
+2025-02-09 05:41:21 - INFO - Final Portfolio Value: 67,770,261.00
+2025-02-09 05:41:21 - INFO - Total Return: 0.00%
+2025-02-09 05:42:20 - INFO - 
+=== Training Metrics (Epoch 40) ===
+2025-02-09 05:42:20 - INFO - Loss: 0.000000
+2025-02-09 05:42:20 - INFO - Mean Return: 0.000000
+2025-02-09 05:42:32 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 05:42:32 - INFO - Initial Portfolio Value: 76,527,503.00
+2025-02-09 05:42:32 - INFO - Final Portfolio Value: 76,527,503.00
+2025-02-09 05:42:32 - INFO - Total Return: 0.00%
+2025-02-09 05:43:43 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 05:43:43 - INFO - Initial Portfolio Value: 30,779,170.00
+2025-02-09 05:43:43 - INFO - Final Portfolio Value: 30,779,170.00
+2025-02-09 05:43:43 - INFO - Total Return: 0.00%
+2025-02-09 05:44:52 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 05:44:52 - INFO - Initial Portfolio Value: 37,636,699.00
+2025-02-09 05:44:52 - INFO - Final Portfolio Value: 37,636,699.00
+2025-02-09 05:44:52 - INFO - Total Return: 0.00%
+2025-02-09 05:45:52 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 05:45:52 - INFO - Initial Portfolio Value: 64,578,125.00
+2025-02-09 05:45:52 - INFO - Final Portfolio Value: 64,578,125.00
+2025-02-09 05:45:52 - INFO - Total Return: 0.00%
+2025-02-09 05:47:03 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 05:47:03 - INFO - Initial Portfolio Value: 58,153,061.00
+2025-02-09 05:47:03 - INFO - Final Portfolio Value: 58,153,061.00
+2025-02-09 05:47:03 - INFO - Total Return: 0.00%
+2025-02-09 05:48:14 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 05:48:14 - INFO - Initial Portfolio Value: 80,066,799.00
+2025-02-09 05:48:14 - INFO - Final Portfolio Value: 80,066,799.00
+2025-02-09 05:48:14 - INFO - Total Return: 0.00%
+2025-02-09 05:49:26 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 05:49:26 - INFO - Initial Portfolio Value: 51,568,347.00
+2025-02-09 05:49:26 - INFO - Final Portfolio Value: 51,568,347.00
+2025-02-09 05:49:26 - INFO - Total Return: 0.00%
+2025-02-09 05:50:37 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 05:50:37 - INFO - Initial Portfolio Value: 12,867,942.00
+2025-02-09 05:50:37 - INFO - Final Portfolio Value: 12,867,942.00
+2025-02-09 05:50:37 - INFO - Total Return: 0.00%
+2025-02-09 05:51:47 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 05:51:47 - INFO - Initial Portfolio Value: 81,232,717.00
+2025-02-09 05:51:47 - INFO - Final Portfolio Value: 81,232,717.00
+2025-02-09 05:51:47 - INFO - Total Return: 0.00%
+2025-02-09 05:52:46 - INFO - 
+=== Training Metrics (Epoch 41) ===
+2025-02-09 05:52:46 - INFO - Loss: 0.000000
+2025-02-09 05:52:46 - INFO - Mean Return: 0.000000
+2025-02-09 05:52:58 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 05:52:58 - INFO - Initial Portfolio Value: 63,643,130.00
+2025-02-09 05:52:58 - INFO - Final Portfolio Value: 63,643,130.00
+2025-02-09 05:52:58 - INFO - Total Return: 0.00%
+2025-02-09 05:54:11 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 05:54:11 - INFO - Initial Portfolio Value: 98,578,525.00
+2025-02-09 05:54:11 - INFO - Final Portfolio Value: 98,578,525.00
+2025-02-09 05:54:11 - INFO - Total Return: 0.00%
+2025-02-09 05:55:20 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 05:55:20 - INFO - Initial Portfolio Value: 96,298,085.00
+2025-02-09 05:55:20 - INFO - Final Portfolio Value: 96,298,085.00
+2025-02-09 05:55:20 - INFO - Total Return: 0.00%
+2025-02-09 05:56:20 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 05:56:20 - INFO - Initial Portfolio Value: 27,107,970.00
+2025-02-09 05:56:20 - INFO - Final Portfolio Value: 27,107,970.00
+2025-02-09 05:56:20 - INFO - Total Return: 0.00%
+2025-02-09 05:57:30 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 05:57:30 - INFO - Initial Portfolio Value: 48,276,777.00
+2025-02-09 05:57:30 - INFO - Final Portfolio Value: 48,276,777.00
+2025-02-09 05:57:30 - INFO - Total Return: 0.00%
+2025-02-09 05:58:42 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 05:58:42 - INFO - Initial Portfolio Value: 11,939,387.00
+2025-02-09 05:58:42 - INFO - Final Portfolio Value: 11,939,387.00
+2025-02-09 05:58:42 - INFO - Total Return: 0.00%
+2025-02-09 05:59:53 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 05:59:53 - INFO - Initial Portfolio Value: 29,592,755.00
+2025-02-09 05:59:53 - INFO - Final Portfolio Value: 29,592,755.00
+2025-02-09 05:59:53 - INFO - Total Return: 0.00%
+2025-02-09 06:01:04 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 06:01:04 - INFO - Initial Portfolio Value: 60,923,154.00
+2025-02-09 06:01:04 - INFO - Final Portfolio Value: 60,923,154.00
+2025-02-09 06:01:04 - INFO - Total Return: 0.00%
+2025-02-09 06:02:14 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 06:02:14 - INFO - Initial Portfolio Value: 63,889,886.00
+2025-02-09 06:02:14 - INFO - Final Portfolio Value: 63,889,886.00
+2025-02-09 06:02:14 - INFO - Total Return: 0.00%
+2025-02-09 06:03:14 - INFO - 
+=== Training Metrics (Epoch 42) ===
+2025-02-09 06:03:14 - INFO - Loss: -0.001074
+2025-02-09 06:03:14 - INFO - Mean Return: 0.000000
+2025-02-09 06:03:26 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 06:03:26 - INFO - Initial Portfolio Value: 22,846,416.00
+2025-02-09 06:03:26 - INFO - Final Portfolio Value: 22,846,416.00
+2025-02-09 06:03:26 - INFO - Total Return: 0.00%
+2025-02-09 06:04:38 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 06:04:38 - INFO - Initial Portfolio Value: 91,439,817.00
+2025-02-09 06:04:38 - INFO - Final Portfolio Value: 91,439,817.00
+2025-02-09 06:04:38 - INFO - Total Return: 0.00%
+2025-02-09 06:05:47 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 06:05:47 - INFO - Initial Portfolio Value: 27,137,823.00
+2025-02-09 06:05:47 - INFO - Final Portfolio Value: 77,916,590.19
+2025-02-09 06:05:47 - INFO - Total Return: 187.11%
+2025-02-09 06:06:45 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 06:06:45 - INFO - Initial Portfolio Value: 76,768,870.00
+2025-02-09 06:06:45 - INFO - Final Portfolio Value: 93,389,366.20
+2025-02-09 06:06:45 - INFO - Total Return: 21.65%
+2025-02-09 06:07:54 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 06:07:54 - INFO - Initial Portfolio Value: 88,803,043.00
+2025-02-09 06:07:54 - INFO - Final Portfolio Value: 188,165,474.79
+2025-02-09 06:07:54 - INFO - Total Return: 111.89%
+2025-02-09 06:09:04 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 06:09:04 - INFO - Initial Portfolio Value: 88,129,703.00
+2025-02-09 06:09:04 - INFO - Final Portfolio Value: 484,205,469.95
+2025-02-09 06:09:04 - INFO - Total Return: 449.42%
+2025-02-09 06:10:12 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 06:10:12 - INFO - Initial Portfolio Value: 91,972,543.00
+2025-02-09 06:10:12 - INFO - Final Portfolio Value: 224,664,249.22
+2025-02-09 06:10:12 - INFO - Total Return: 144.27%
+2025-02-09 06:11:21 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 06:11:21 - INFO - Initial Portfolio Value: 43,594,376.00
+2025-02-09 06:11:21 - INFO - Final Portfolio Value: 66,402,895.96
+2025-02-09 06:11:21 - INFO - Total Return: 52.32%
+2025-02-09 06:12:30 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 06:12:30 - INFO - Initial Portfolio Value: 48,563,135.00
+2025-02-09 06:12:30 - INFO - Final Portfolio Value: 42,379,752.20
+2025-02-09 06:12:30 - INFO - Total Return: -12.73%
+2025-02-09 06:13:28 - INFO - 
+=== Training Metrics (Epoch 43) ===
+2025-02-09 06:13:28 - INFO - Loss: 0.773572
+2025-02-09 06:13:28 - INFO - Mean Return: 53.526593
+2025-02-09 06:13:40 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 06:13:40 - INFO - Initial Portfolio Value: 74,062,707.00
+2025-02-09 06:13:40 - INFO - Final Portfolio Value: 64,640,409.40
+2025-02-09 06:13:40 - INFO - Total Return: -12.72%
+2025-02-09 06:14:49 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 06:14:49 - INFO - Initial Portfolio Value: 76,632,583.00
+2025-02-09 06:14:49 - INFO - Final Portfolio Value: 310,214,840.19
+2025-02-09 06:14:49 - INFO - Total Return: 304.81%
+2025-02-09 06:15:56 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 06:15:56 - INFO - Initial Portfolio Value: 98,253,105.00
+2025-02-09 06:15:56 - INFO - Final Portfolio Value: 757,838,251.98
+2025-02-09 06:15:56 - INFO - Total Return: 671.31%
+2025-02-09 06:16:56 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 06:16:56 - INFO - Initial Portfolio Value: 23,921,895.00
+2025-02-09 06:16:56 - INFO - Final Portfolio Value: 29,102,309.40
+2025-02-09 06:16:56 - INFO - Total Return: 21.66%
+2025-02-09 06:18:06 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 06:18:06 - INFO - Initial Portfolio Value: 79,932,573.00
+2025-02-09 06:18:06 - INFO - Final Portfolio Value: 169,342,087.00
+2025-02-09 06:18:06 - INFO - Total Return: 111.86%
+2025-02-09 06:19:16 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 06:19:16 - INFO - Initial Portfolio Value: 13,486,257.00
+2025-02-09 06:19:16 - INFO - Final Portfolio Value: 74,099,814.94
+2025-02-09 06:19:16 - INFO - Total Return: 449.45%
+2025-02-09 06:20:24 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 06:20:24 - INFO - Initial Portfolio Value: 11,018,297.00
+2025-02-09 06:20:24 - INFO - Final Portfolio Value: 26,908,994.89
+2025-02-09 06:20:24 - INFO - Total Return: 144.22%
+2025-02-09 06:21:34 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 06:21:34 - INFO - Initial Portfolio Value: 66,598,901.00
+2025-02-09 06:21:34 - INFO - Final Portfolio Value: 101,345,597.65
+2025-02-09 06:21:34 - INFO - Total Return: 52.17%
+2025-02-09 06:22:42 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 06:22:42 - INFO - Initial Portfolio Value: 60,143,644.00
+2025-02-09 06:22:42 - INFO - Final Portfolio Value: 52,488,027.20
+2025-02-09 06:22:42 - INFO - Total Return: -12.73%
+2025-02-09 06:23:40 - INFO - 
+=== Training Metrics (Epoch 44) ===
+2025-02-09 06:23:40 - INFO - Loss: 0.618573
+2025-02-09 06:23:40 - INFO - Mean Return: 97.073455
+2025-02-09 06:23:52 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 06:23:52 - INFO - Initial Portfolio Value: 12,797,456.00
+2025-02-09 06:23:52 - INFO - Final Portfolio Value: 11,169,338.40
+2025-02-09 06:23:52 - INFO - Total Return: -12.72%
+2025-02-09 06:25:02 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 06:25:02 - INFO - Initial Portfolio Value: 78,963,237.00
+2025-02-09 06:25:02 - INFO - Final Portfolio Value: 319,588,897.63
+2025-02-09 06:25:02 - INFO - Total Return: 304.73%
+2025-02-09 06:26:08 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 06:26:08 - INFO - Initial Portfolio Value: 95,260,305.00
+2025-02-09 06:26:08 - INFO - Final Portfolio Value: 734,829,139.72
+2025-02-09 06:26:08 - INFO - Total Return: 671.39%
+2025-02-09 06:27:07 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 06:27:07 - INFO - Initial Portfolio Value: 52,631,608.00
+2025-02-09 06:27:07 - INFO - Final Portfolio Value: 64,035,714.70
+2025-02-09 06:27:07 - INFO - Total Return: 21.67%
+2025-02-09 06:28:16 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 06:28:16 - INFO - Initial Portfolio Value: 48,830,529.00
+2025-02-09 06:28:16 - INFO - Final Portfolio Value: 103,500,955.71
+2025-02-09 06:28:16 - INFO - Total Return: 111.96%
+2025-02-09 06:29:26 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 06:29:26 - INFO - Initial Portfolio Value: 67,204,330.00
+2025-02-09 06:29:26 - INFO - Final Portfolio Value: 369,264,293.31
+2025-02-09 06:29:26 - INFO - Total Return: 449.47%
+2025-02-09 06:30:35 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 06:30:35 - INFO - Initial Portfolio Value: 50,497,853.00
+2025-02-09 06:30:35 - INFO - Final Portfolio Value: 123,343,329.48
+2025-02-09 06:30:35 - INFO - Total Return: 144.25%
+2025-02-09 06:31:44 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 06:31:44 - INFO - Initial Portfolio Value: 10,519,537.00
+2025-02-09 06:31:44 - INFO - Final Portfolio Value: 16,062,266.95
+2025-02-09 06:31:44 - INFO - Total Return: 52.69%
+2025-02-09 06:32:53 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 06:32:53 - INFO - Initial Portfolio Value: 10,934,667.00
+2025-02-09 06:32:53 - INFO - Final Portfolio Value: 9,549,035.00
+2025-02-09 06:32:53 - INFO - Total Return: -12.67%
+2025-02-09 06:33:51 - INFO - 
+=== Training Metrics (Epoch 45) ===
+2025-02-09 06:33:51 - INFO - Loss: 0.396874
+2025-02-09 06:33:51 - INFO - Mean Return: 97.115128
+2025-02-09 06:34:03 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 06:34:03 - INFO - Initial Portfolio Value: 41,972,201.00
+2025-02-09 06:34:03 - INFO - Final Portfolio Value: 36,679,806.34
+2025-02-09 06:34:03 - INFO - Total Return: -12.61%
+2025-02-09 06:35:12 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 06:35:12 - INFO - Initial Portfolio Value: 16,461,162.00
+2025-02-09 06:35:12 - INFO - Final Portfolio Value: 66,627,443.70
+2025-02-09 06:35:12 - INFO - Total Return: 304.76%
+2025-02-09 06:36:20 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 06:36:20 - INFO - Initial Portfolio Value: 31,804,699.00
+2025-02-09 06:36:20 - INFO - Final Portfolio Value: 245,312,029.81
+2025-02-09 06:36:20 - INFO - Total Return: 671.31%
+2025-02-09 06:37:18 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 06:37:18 - INFO - Initial Portfolio Value: 78,384,693.00
+2025-02-09 06:37:18 - INFO - Final Portfolio Value: 95,364,940.20
+2025-02-09 06:37:18 - INFO - Total Return: 21.66%
+2025-02-09 06:38:28 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 06:38:28 - INFO - Initial Portfolio Value: 78,267,345.00
+2025-02-09 06:38:28 - INFO - Final Portfolio Value: 165,870,106.88
+2025-02-09 06:38:28 - INFO - Total Return: 111.93%
+2025-02-09 06:39:39 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 06:39:39 - INFO - Initial Portfolio Value: 77,909,246.00
+2025-02-09 06:39:39 - INFO - Final Portfolio Value: 428,056,925.10
+2025-02-09 06:39:39 - INFO - Total Return: 449.43%
+2025-02-09 06:40:48 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 06:40:48 - INFO - Initial Portfolio Value: 39,516,767.00
+2025-02-09 06:40:48 - INFO - Final Portfolio Value: 96,525,640.38
+2025-02-09 06:40:48 - INFO - Total Return: 144.27%
+2025-02-09 06:41:59 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 06:41:59 - INFO - Initial Portfolio Value: 18,107,555.00
+2025-02-09 06:41:59 - INFO - Final Portfolio Value: 27,559,594.36
+2025-02-09 06:41:59 - INFO - Total Return: 52.20%
+2025-02-09 06:43:09 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 06:43:09 - INFO - Initial Portfolio Value: 30,822,787.00
+2025-02-09 06:43:09 - INFO - Final Portfolio Value: 26,950,665.14
+2025-02-09 06:43:09 - INFO - Total Return: -12.56%
+2025-02-09 06:44:07 - INFO - 
+=== Training Metrics (Epoch 46) ===
+2025-02-09 06:44:07 - INFO - Loss: 0.535483
+2025-02-09 06:44:07 - INFO - Mean Return: 97.093323
+2025-02-09 06:44:18 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 06:44:18 - INFO - Initial Portfolio Value: 51,627,643.00
+2025-02-09 06:44:18 - INFO - Final Portfolio Value: 45,107,400.22
+2025-02-09 06:44:18 - INFO - Total Return: -12.63%
+2025-02-09 06:45:27 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 06:45:27 - INFO - Initial Portfolio Value: 17,048,657.00
+2025-02-09 06:45:27 - INFO - Final Portfolio Value: 68,939,853.83
+2025-02-09 06:45:27 - INFO - Total Return: 304.37%
+2025-02-09 06:46:34 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 06:46:34 - INFO - Initial Portfolio Value: 91,384,217.00
+2025-02-09 06:46:34 - INFO - Final Portfolio Value: 705,217,793.09
+2025-02-09 06:46:34 - INFO - Total Return: 671.71%
+2025-02-09 06:47:34 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 06:47:34 - INFO - Initial Portfolio Value: 73,673,931.00
+2025-02-09 06:47:34 - INFO - Final Portfolio Value: 89,688,881.70
+2025-02-09 06:47:34 - INFO - Total Return: 21.74%
+2025-02-09 06:48:46 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 06:48:46 - INFO - Initial Portfolio Value: 49,515,348.00
+2025-02-09 06:48:46 - INFO - Final Portfolio Value: 104,942,021.94
+2025-02-09 06:48:46 - INFO - Total Return: 111.94%
+2025-02-09 06:49:57 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 06:49:57 - INFO - Initial Portfolio Value: 36,557,327.00
+2025-02-09 06:49:57 - INFO - Final Portfolio Value: 200,833,026.78
+2025-02-09 06:49:57 - INFO - Total Return: 449.36%
+2025-02-09 06:51:06 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 06:51:06 - INFO - Initial Portfolio Value: 73,127,812.00
+2025-02-09 06:51:06 - INFO - Final Portfolio Value: 178,593,797.02
+2025-02-09 06:51:06 - INFO - Total Return: 144.22%
+2025-02-09 06:52:15 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 06:52:15 - INFO - Initial Portfolio Value: 62,156,912.00
+2025-02-09 06:52:15 - INFO - Final Portfolio Value: 94,614,560.25
+2025-02-09 06:52:15 - INFO - Total Return: 52.22%
+2025-02-09 06:53:26 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 06:53:26 - INFO - Initial Portfolio Value: 35,732,913.00
+2025-02-09 06:53:26 - INFO - Final Portfolio Value: 31,219,154.02
+2025-02-09 06:53:26 - INFO - Total Return: -12.63%
+2025-02-09 06:54:25 - INFO - 
+=== Training Metrics (Epoch 47) ===
+2025-02-09 06:54:25 - INFO - Loss: 0.483985
+2025-02-09 06:54:25 - INFO - Mean Return: 97.088896
+2025-02-09 06:54:37 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 06:54:37 - INFO - Initial Portfolio Value: 13,315,497.00
+2025-02-09 06:54:37 - INFO - Final Portfolio Value: 11,637,100.65
+2025-02-09 06:54:37 - INFO - Total Return: -12.60%
+2025-02-09 06:55:46 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 06:55:46 - INFO - Initial Portfolio Value: 38,799,987.00
+2025-02-09 06:55:46 - INFO - Final Portfolio Value: 157,113,068.23
+2025-02-09 06:55:46 - INFO - Total Return: 304.93%
+2025-02-09 06:56:53 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 06:56:53 - INFO - Initial Portfolio Value: 54,395,058.00
+2025-02-09 06:56:53 - INFO - Final Portfolio Value: 419,454,467.38
+2025-02-09 06:56:53 - INFO - Total Return: 671.13%
+2025-02-09 06:57:52 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 06:57:52 - INFO - Initial Portfolio Value: 18,006,429.00
+2025-02-09 06:57:52 - INFO - Final Portfolio Value: 22,020,228.77
+2025-02-09 06:57:52 - INFO - Total Return: 22.29%
+2025-02-09 06:59:03 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 06:59:03 - INFO - Initial Portfolio Value: 76,063,631.00
+2025-02-09 06:59:03 - INFO - Final Portfolio Value: 161,159,973.21
+2025-02-09 06:59:03 - INFO - Total Return: 111.88%
+2025-02-09 07:00:12 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 07:00:12 - INFO - Initial Portfolio Value: 71,141,797.00
+2025-02-09 07:00:12 - INFO - Final Portfolio Value: 390,910,709.54
+2025-02-09 07:00:12 - INFO - Total Return: 449.48%
+2025-02-09 07:01:22 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 07:01:22 - INFO - Initial Portfolio Value: 10,744,732.00
+2025-02-09 07:01:22 - INFO - Final Portfolio Value: 26,215,873.51
+2025-02-09 07:01:22 - INFO - Total Return: 143.99%
+2025-02-09 07:02:33 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 07:02:33 - INFO - Initial Portfolio Value: 74,795,918.00
+2025-02-09 07:02:33 - INFO - Final Portfolio Value: 113,769,261.48
+2025-02-09 07:02:33 - INFO - Total Return: 52.11%
+2025-02-09 07:03:45 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 07:03:45 - INFO - Initial Portfolio Value: 39,576,164.00
+2025-02-09 07:03:45 - INFO - Final Portfolio Value: 34,543,928.80
+2025-02-09 07:03:45 - INFO - Total Return: -12.72%
+2025-02-09 07:04:44 - INFO - 
+=== Training Metrics (Epoch 48) ===
+2025-02-09 07:04:44 - INFO - Loss: 0.434291
+2025-02-09 07:04:44 - INFO - Mean Return: 97.099056
+2025-02-09 07:04:55 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 07:04:55 - INFO - Initial Portfolio Value: 28,156,842.00
+2025-02-09 07:04:55 - INFO - Final Portfolio Value: 24,571,519.20
+2025-02-09 07:04:55 - INFO - Total Return: -12.73%
+2025-02-09 07:06:04 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 07:06:04 - INFO - Initial Portfolio Value: 38,776,078.00
+2025-02-09 07:06:04 - INFO - Final Portfolio Value: 156,932,764.41
+2025-02-09 07:06:04 - INFO - Total Return: 304.72%
+2025-02-09 07:07:11 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 07:07:11 - INFO - Initial Portfolio Value: 48,094,245.00
+2025-02-09 07:07:11 - INFO - Final Portfolio Value: 371,214,714.40
+2025-02-09 07:07:11 - INFO - Total Return: 671.85%
+2025-02-09 07:08:10 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 07:08:10 - INFO - Initial Portfolio Value: 60,847,719.00
+2025-02-09 07:08:10 - INFO - Final Portfolio Value: 74,136,493.58
+2025-02-09 07:08:10 - INFO - Total Return: 21.84%
+2025-02-09 07:09:22 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 07:09:22 - INFO - Initial Portfolio Value: 27,797,931.00
+2025-02-09 07:09:22 - INFO - Final Portfolio Value: 58,910,762.15
+2025-02-09 07:09:22 - INFO - Total Return: 111.92%
+2025-02-09 07:10:31 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 07:10:31 - INFO - Initial Portfolio Value: 44,960,800.00
+2025-02-09 07:10:31 - INFO - Final Portfolio Value: 246,958,001.39
+2025-02-09 07:10:31 - INFO - Total Return: 449.27%
+2025-02-09 07:11:40 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 07:11:40 - INFO - Initial Portfolio Value: 30,479,159.00
+2025-02-09 07:11:40 - INFO - Final Portfolio Value: 74,427,689.80
+2025-02-09 07:11:40 - INFO - Total Return: 144.19%
+2025-02-09 07:12:50 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 07:12:50 - INFO - Initial Portfolio Value: 47,730,645.00
+2025-02-09 07:12:50 - INFO - Final Portfolio Value: 72,696,086.64
+2025-02-09 07:12:50 - INFO - Total Return: 52.30%
+2025-02-09 07:14:01 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 07:14:01 - INFO - Initial Portfolio Value: 98,482,642.00
+2025-02-09 07:14:01 - INFO - Final Portfolio Value: 85,942,672.40
+2025-02-09 07:14:01 - INFO - Total Return: -12.73%
+2025-02-09 07:14:59 - INFO - 
+=== Training Metrics (Epoch 49) ===
+2025-02-09 07:14:59 - INFO - Loss: 0.535421
+2025-02-09 07:14:59 - INFO - Mean Return: 97.107723
+2025-02-09 07:15:10 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 07:15:10 - INFO - Initial Portfolio Value: 39,123,698.00
+2025-02-09 07:15:10 - INFO - Final Portfolio Value: 34,185,630.33
+2025-02-09 07:15:10 - INFO - Total Return: -12.62%
+2025-02-09 07:16:20 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 07:16:20 - INFO - Initial Portfolio Value: 12,425,315.00
+2025-02-09 07:16:20 - INFO - Final Portfolio Value: 50,229,704.93
+2025-02-09 07:16:20 - INFO - Total Return: 304.25%
+2025-02-09 07:17:27 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 07:17:27 - INFO - Initial Portfolio Value: 66,049,550.00
+2025-02-09 07:17:27 - INFO - Final Portfolio Value: 509,267,892.99
+2025-02-09 07:17:27 - INFO - Total Return: 671.04%
+2025-02-09 07:18:26 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 07:18:26 - INFO - Initial Portfolio Value: 11,096,670.00
+2025-02-09 07:18:26 - INFO - Final Portfolio Value: 13,534,505.82
+2025-02-09 07:18:26 - INFO - Total Return: 21.97%
+2025-02-09 07:19:36 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 07:19:36 - INFO - Initial Portfolio Value: 13,202,498.00
+2025-02-09 07:19:36 - INFO - Final Portfolio Value: 27,968,768.47
+2025-02-09 07:19:36 - INFO - Total Return: 111.84%
+2025-02-09 07:20:45 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 07:20:45 - INFO - Initial Portfolio Value: 92,487,670.00
+2025-02-09 07:20:45 - INFO - Final Portfolio Value: 508,288,038.94
+2025-02-09 07:20:45 - INFO - Total Return: 449.57%
+2025-02-09 07:21:53 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 07:21:53 - INFO - Initial Portfolio Value: 29,036,513.00
+2025-02-09 07:21:53 - INFO - Final Portfolio Value: 70,887,261.91
+2025-02-09 07:21:53 - INFO - Total Return: 144.13%
+2025-02-09 07:23:03 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 07:23:03 - INFO - Initial Portfolio Value: 77,938,843.00
+2025-02-09 07:23:03 - INFO - Final Portfolio Value: 118,548,471.90
+2025-02-09 07:23:03 - INFO - Total Return: 52.10%
+2025-02-09 07:24:14 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 07:24:14 - INFO - Initial Portfolio Value: 48,974,534.00
+2025-02-09 07:24:14 - INFO - Final Portfolio Value: 42,739,190.00
+2025-02-09 07:24:14 - INFO - Total Return: -12.73%
+2025-02-09 07:25:11 - INFO - 
+=== Training Metrics (Epoch 50) ===
+2025-02-09 07:25:11 - INFO - Loss: 0.542473
+2025-02-09 07:25:11 - INFO - Mean Return: 97.047646
+2025-02-09 07:25:23 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 07:25:23 - INFO - Initial Portfolio Value: 66,147,579.00
+2025-02-09 07:25:23 - INFO - Final Portfolio Value: 57,729,864.60
+2025-02-09 07:25:23 - INFO - Total Return: -12.73%
+2025-02-09 07:26:32 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 07:26:32 - INFO - Initial Portfolio Value: 33,365,776.00
+2025-02-09 07:26:32 - INFO - Final Portfolio Value: 134,992,025.74
+2025-02-09 07:26:32 - INFO - Total Return: 304.58%
+2025-02-09 07:27:40 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 07:27:40 - INFO - Initial Portfolio Value: 28,274,962.00
+2025-02-09 07:27:40 - INFO - Final Portfolio Value: 217,953,349.64
+2025-02-09 07:27:40 - INFO - Total Return: 670.84%
+2025-02-09 07:28:40 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 07:28:40 - INFO - Initial Portfolio Value: 15,864,920.00
+2025-02-09 07:28:40 - INFO - Final Portfolio Value: 19,397,341.42
+2025-02-09 07:28:40 - INFO - Total Return: 22.27%
+2025-02-09 07:29:50 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 07:29:50 - INFO - Initial Portfolio Value: 85,628,452.00
+2025-02-09 07:29:50 - INFO - Final Portfolio Value: 181,437,109.70
+2025-02-09 07:29:50 - INFO - Total Return: 111.89%
+2025-02-09 07:30:59 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 07:30:59 - INFO - Initial Portfolio Value: 26,978,399.00
+2025-02-09 07:30:59 - INFO - Final Portfolio Value: 148,205,514.87
+2025-02-09 07:30:59 - INFO - Total Return: 449.35%
+2025-02-09 07:32:08 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 07:32:08 - INFO - Initial Portfolio Value: 11,183,548.00
+2025-02-09 07:32:08 - INFO - Final Portfolio Value: 27,284,024.08
+2025-02-09 07:32:08 - INFO - Total Return: 143.97%
+2025-02-09 07:33:18 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 07:33:18 - INFO - Initial Portfolio Value: 25,241,779.00
+2025-02-09 07:33:18 - INFO - Final Portfolio Value: 38,412,648.85
+2025-02-09 07:33:18 - INFO - Total Return: 52.18%
+2025-02-09 07:34:28 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 07:34:28 - INFO - Initial Portfolio Value: 24,575,143.00
+2025-02-09 07:34:28 - INFO - Final Portfolio Value: 21,484,757.29
+2025-02-09 07:34:28 - INFO - Total Return: -12.58%
+2025-02-09 07:35:26 - INFO - 
+=== Training Metrics (Epoch 51) ===
+2025-02-09 07:35:26 - INFO - Loss: 0.660578
+2025-02-09 07:35:26 - INFO - Mean Return: 97.059001
+2025-02-09 07:35:37 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 07:35:37 - INFO - Initial Portfolio Value: 31,769,578.00
+2025-02-09 07:35:37 - INFO - Final Portfolio Value: 27,776,213.34
+2025-02-09 07:35:37 - INFO - Total Return: -12.57%
+2025-02-09 07:36:46 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 07:36:46 - INFO - Initial Portfolio Value: 50,981,146.00
+2025-02-09 07:36:46 - INFO - Final Portfolio Value: 206,367,250.63
+2025-02-09 07:36:46 - INFO - Total Return: 304.79%
+2025-02-09 07:37:53 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 07:37:53 - INFO - Initial Portfolio Value: 35,022,032.00
+2025-02-09 07:37:53 - INFO - Final Portfolio Value: 269,498,832.81
+2025-02-09 07:37:53 - INFO - Total Return: 669.51%
+2025-02-09 07:38:53 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 07:38:53 - INFO - Initial Portfolio Value: 74,551,855.00
+2025-02-09 07:38:53 - INFO - Final Portfolio Value: 90,704,674.90
+2025-02-09 07:38:53 - INFO - Total Return: 21.67%
+2025-02-09 07:40:03 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 07:40:03 - INFO - Initial Portfolio Value: 32,723,154.00
+2025-02-09 07:40:03 - INFO - Final Portfolio Value: 69,308,999.40
+2025-02-09 07:40:03 - INFO - Total Return: 111.80%
+2025-02-09 07:41:12 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 07:41:12 - INFO - Initial Portfolio Value: 24,219,558.00
+2025-02-09 07:41:12 - INFO - Final Portfolio Value: 133,064,806.93
+2025-02-09 07:41:12 - INFO - Total Return: 449.41%
+2025-02-09 07:42:23 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 07:42:23 - INFO - Initial Portfolio Value: 21,473,013.00
+2025-02-09 07:42:23 - INFO - Final Portfolio Value: 52,415,296.02
+2025-02-09 07:42:23 - INFO - Total Return: 144.10%
+2025-02-09 07:43:35 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 07:43:35 - INFO - Initial Portfolio Value: 49,629,215.00
+2025-02-09 07:43:35 - INFO - Final Portfolio Value: 75,518,485.11
+2025-02-09 07:43:35 - INFO - Total Return: 52.17%
+2025-02-09 07:44:44 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 07:44:44 - INFO - Initial Portfolio Value: 54,427,530.00
+2025-02-09 07:44:44 - INFO - Final Portfolio Value: 47,499,370.00
+2025-02-09 07:44:44 - INFO - Total Return: -12.73%
+2025-02-09 07:45:41 - INFO - 
+=== Training Metrics (Epoch 52) ===
+2025-02-09 07:45:41 - INFO - Loss: 0.498163
+2025-02-09 07:45:41 - INFO - Mean Return: 96.968404
+2025-02-09 07:45:53 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 07:45:53 - INFO - Initial Portfolio Value: 51,224,599.00
+2025-02-09 07:45:53 - INFO - Final Portfolio Value: 44,754,417.14
+2025-02-09 07:45:53 - INFO - Total Return: -12.63%
+2025-02-09 07:47:03 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 07:47:03 - INFO - Initial Portfolio Value: 98,158,412.00
+2025-02-09 07:47:03 - INFO - Final Portfolio Value: 397,287,444.13
+2025-02-09 07:47:03 - INFO - Total Return: 304.74%
+2025-02-09 07:48:11 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 07:48:11 - INFO - Initial Portfolio Value: 40,034,815.00
+2025-02-09 07:48:11 - INFO - Final Portfolio Value: 308,825,293.97
+2025-02-09 07:48:11 - INFO - Total Return: 671.39%
+2025-02-09 07:49:11 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 07:49:11 - INFO - Initial Portfolio Value: 19,732,785.00
+2025-02-09 07:49:11 - INFO - Final Portfolio Value: 24,041,326.02
+2025-02-09 07:49:11 - INFO - Total Return: 21.83%
+2025-02-09 07:50:21 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 07:50:21 - INFO - Initial Portfolio Value: 33,671,649.00
+2025-02-09 07:50:21 - INFO - Final Portfolio Value: 71,323,101.54
+2025-02-09 07:50:21 - INFO - Total Return: 111.82%
+2025-02-09 07:51:30 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 07:51:30 - INFO - Initial Portfolio Value: 71,720,079.00
+2025-02-09 07:51:30 - INFO - Final Portfolio Value: 394,080,545.08
+2025-02-09 07:51:30 - INFO - Total Return: 449.47%
+2025-02-09 07:52:40 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 07:52:40 - INFO - Initial Portfolio Value: 13,532,805.00
+2025-02-09 07:52:40 - INFO - Final Portfolio Value: 33,042,176.67
+2025-02-09 07:52:40 - INFO - Total Return: 144.16%
+2025-02-09 07:53:52 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 07:53:52 - INFO - Initial Portfolio Value: 18,259,170.00
+2025-02-09 07:53:52 - INFO - Final Portfolio Value: 27,779,376.04
+2025-02-09 07:53:52 - INFO - Total Return: 52.14%
+2025-02-09 07:55:02 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 07:55:02 - INFO - Initial Portfolio Value: 22,728,247.00
+2025-02-09 07:55:02 - INFO - Final Portfolio Value: 19,835,740.20
+2025-02-09 07:55:02 - INFO - Total Return: -12.73%
+2025-02-09 07:56:00 - INFO - 
+=== Training Metrics (Epoch 53) ===
+2025-02-09 07:56:00 - INFO - Loss: 0.480149
+2025-02-09 07:56:00 - INFO - Mean Return: 97.083585
+2025-02-09 07:56:12 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 07:56:12 - INFO - Initial Portfolio Value: 41,437,517.00
+2025-02-09 07:56:12 - INFO - Final Portfolio Value: 36,205,002.53
+2025-02-09 07:56:12 - INFO - Total Return: -12.63%
+2025-02-09 07:57:21 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 07:57:21 - INFO - Initial Portfolio Value: 90,187,761.00
+2025-02-09 07:57:21 - INFO - Final Portfolio Value: 365,024,238.38
+2025-02-09 07:57:21 - INFO - Total Return: 304.74%
+2025-02-09 07:58:31 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 07:58:31 - INFO - Initial Portfolio Value: 95,962,356.00
+2025-02-09 07:58:31 - INFO - Final Portfolio Value: 740,296,979.35
+2025-02-09 07:58:31 - INFO - Total Return: 671.45%
+2025-02-09 07:59:30 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 07:59:30 - INFO - Initial Portfolio Value: 93,436,199.00
+2025-02-09 07:59:30 - INFO - Final Portfolio Value: 113,726,185.70
+2025-02-09 07:59:30 - INFO - Total Return: 21.72%
+2025-02-09 08:00:41 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 08:00:41 - INFO - Initial Portfolio Value: 82,748,856.00
+2025-02-09 08:00:41 - INFO - Final Portfolio Value: 175,304,448.24
+2025-02-09 08:00:41 - INFO - Total Return: 111.85%
+2025-02-09 08:01:52 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 08:01:52 - INFO - Initial Portfolio Value: 80,852,415.00
+2025-02-09 08:01:52 - INFO - Final Portfolio Value: 444,245,812.23
+2025-02-09 08:01:52 - INFO - Total Return: 449.45%
+2025-02-09 08:03:04 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 08:03:04 - INFO - Initial Portfolio Value: 26,115,626.00
+2025-02-09 08:03:04 - INFO - Final Portfolio Value: 63,770,811.10
+2025-02-09 08:03:04 - INFO - Total Return: 144.19%
+2025-02-09 08:04:15 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 08:04:15 - INFO - Initial Portfolio Value: 46,742,706.00
+2025-02-09 08:04:15 - INFO - Final Portfolio Value: 71,177,094.81
+2025-02-09 08:04:15 - INFO - Total Return: 52.27%
+2025-02-09 08:05:26 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 08:05:26 - INFO - Initial Portfolio Value: 64,381,090.00
+2025-02-09 08:05:26 - INFO - Final Portfolio Value: 56,188,540.80
+2025-02-09 08:05:26 - INFO - Total Return: -12.73%
+2025-02-09 08:06:30 - INFO - 
+=== Training Metrics (Epoch 54) ===
+2025-02-09 08:06:30 - INFO - Loss: 0.558065
+2025-02-09 08:06:30 - INFO - Mean Return: 97.089654
+2025-02-09 08:06:41 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 08:06:41 - INFO - Initial Portfolio Value: 23,469,272.00
+2025-02-09 08:06:41 - INFO - Final Portfolio Value: 20,490,163.20
+2025-02-09 08:06:41 - INFO - Total Return: -12.69%
+2025-02-09 08:07:50 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 08:07:50 - INFO - Initial Portfolio Value: 70,100,172.00
+2025-02-09 08:07:50 - INFO - Final Portfolio Value: 283,702,162.26
+2025-02-09 08:07:50 - INFO - Total Return: 304.71%
+2025-02-09 08:08:59 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 08:08:59 - INFO - Initial Portfolio Value: 22,680,873.00
+2025-02-09 08:08:59 - INFO - Final Portfolio Value: 174,232,951.57
+2025-02-09 08:08:59 - INFO - Total Return: 668.19%
+2025-02-09 08:09:58 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 08:09:58 - INFO - Initial Portfolio Value: 22,669,078.00
+2025-02-09 08:09:58 - INFO - Final Portfolio Value: 27,676,478.52
+2025-02-09 08:09:58 - INFO - Total Return: 22.09%
+2025-02-09 08:11:10 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 08:11:10 - INFO - Initial Portfolio Value: 67,431,467.00
+2025-02-09 08:11:10 - INFO - Final Portfolio Value: 142,900,803.81
+2025-02-09 08:11:10 - INFO - Total Return: 111.92%
+2025-02-09 08:12:19 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 08:12:19 - INFO - Initial Portfolio Value: 70,619,608.00
+2025-02-09 08:12:19 - INFO - Final Portfolio Value: 388,084,917.38
+2025-02-09 08:12:19 - INFO - Total Return: 449.54%
+2025-02-09 08:13:30 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 08:13:30 - INFO - Initial Portfolio Value: 61,072,672.00
+2025-02-09 08:13:30 - INFO - Final Portfolio Value: 149,184,262.51
+2025-02-09 08:13:30 - INFO - Total Return: 144.27%
+2025-02-09 08:14:41 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 08:14:41 - INFO - Initial Portfolio Value: 93,431,666.00
+2025-02-09 08:14:41 - INFO - Final Portfolio Value: 142,148,345.35
+2025-02-09 08:14:41 - INFO - Total Return: 52.14%
+2025-02-09 08:15:53 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 08:15:53 - INFO - Initial Portfolio Value: 15,935,739.00
+2025-02-09 08:15:53 - INFO - Final Portfolio Value: 13,909,252.20
+2025-02-09 08:15:53 - INFO - Total Return: -12.72%
+2025-02-09 08:16:51 - INFO - 
+=== Training Metrics (Epoch 55) ===
+2025-02-09 08:16:51 - INFO - Loss: 0.568367
+2025-02-09 08:16:51 - INFO - Mean Return: 96.929670
+2025-02-09 08:17:02 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 08:17:02 - INFO - Initial Portfolio Value: 23,046,482.00
+2025-02-09 08:17:02 - INFO - Final Portfolio Value: 20,119,334.40
+2025-02-09 08:17:02 - INFO - Total Return: -12.70%
+2025-02-09 08:18:12 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 08:18:12 - INFO - Initial Portfolio Value: 57,409,979.00
+2025-02-09 08:18:12 - INFO - Final Portfolio Value: 232,345,121.77
+2025-02-09 08:18:12 - INFO - Total Return: 304.71%
+2025-02-09 08:19:20 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 08:19:20 - INFO - Initial Portfolio Value: 28,107,584.00
+2025-02-09 08:19:20 - INFO - Final Portfolio Value: 216,832,813.92
+2025-02-09 08:19:20 - INFO - Total Return: 671.44%
+2025-02-09 08:20:19 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 08:20:19 - INFO - Initial Portfolio Value: 86,339,478.00
+2025-02-09 08:20:19 - INFO - Final Portfolio Value: 105,046,530.00
+2025-02-09 08:20:19 - INFO - Total Return: 21.67%
+2025-02-09 08:21:29 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 08:21:29 - INFO - Initial Portfolio Value: 70,012,147.00
+2025-02-09 08:21:29 - INFO - Final Portfolio Value: 148,379,646.94
+2025-02-09 08:21:29 - INFO - Total Return: 111.93%
+2025-02-09 08:22:38 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 08:22:38 - INFO - Initial Portfolio Value: 36,960,292.00
+2025-02-09 08:22:38 - INFO - Final Portfolio Value: 203,107,669.34
+2025-02-09 08:22:38 - INFO - Total Return: 449.53%
+2025-02-09 08:23:50 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 08:23:50 - INFO - Initial Portfolio Value: 28,483,249.00
+2025-02-09 08:23:50 - INFO - Final Portfolio Value: 69,547,329.69
+2025-02-09 08:23:50 - INFO - Total Return: 144.17%
+2025-02-09 08:25:02 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 08:25:02 - INFO - Initial Portfolio Value: 35,772,658.00
+2025-02-09 08:25:02 - INFO - Final Portfolio Value: 54,467,629.00
+2025-02-09 08:25:02 - INFO - Total Return: 52.26%
+2025-02-09 08:26:12 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 08:26:12 - INFO - Initial Portfolio Value: 55,376,889.00
+2025-02-09 08:26:12 - INFO - Final Portfolio Value: 48,327,486.20
+2025-02-09 08:26:12 - INFO - Total Return: -12.73%
+2025-02-09 08:27:09 - INFO - 
+=== Training Metrics (Epoch 56) ===
+2025-02-09 08:27:09 - INFO - Loss: 0.529725
+2025-02-09 08:27:09 - INFO - Mean Return: 97.087940
+2025-02-09 08:27:21 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 08:27:21 - INFO - Initial Portfolio Value: 88,867,973.00
+2025-02-09 08:27:21 - INFO - Final Portfolio Value: 77,557,751.80
+2025-02-09 08:27:21 - INFO - Total Return: -12.73%
+2025-02-09 08:28:32 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 08:28:32 - INFO - Initial Portfolio Value: 98,463,239.00
+2025-02-09 08:28:32 - INFO - Final Portfolio Value: 398,600,121.87
+2025-02-09 08:28:32 - INFO - Total Return: 304.82%
+2025-02-09 08:29:41 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 08:29:41 - INFO - Initial Portfolio Value: 68,523,526.00
+2025-02-09 08:29:41 - INFO - Final Portfolio Value: 528,898,708.07
+2025-02-09 08:29:41 - INFO - Total Return: 671.85%
+2025-02-09 08:30:41 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 08:30:41 - INFO - Initial Portfolio Value: 86,159,101.00
+2025-02-09 08:30:41 - INFO - Final Portfolio Value: 104,838,679.17
+2025-02-09 08:30:41 - INFO - Total Return: 21.68%
+2025-02-09 08:31:52 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 08:31:52 - INFO - Initial Portfolio Value: 64,203,914.00
+2025-02-09 08:31:52 - INFO - Final Portfolio Value: 136,079,085.08
+2025-02-09 08:31:52 - INFO - Total Return: 111.95%
+2025-02-09 08:33:03 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 08:33:03 - INFO - Initial Portfolio Value: 42,334,967.00
+2025-02-09 08:33:03 - INFO - Final Portfolio Value: 232,526,202.24
+2025-02-09 08:33:03 - INFO - Total Return: 449.25%
+2025-02-09 08:34:14 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 08:34:14 - INFO - Initial Portfolio Value: 35,723,882.00
+2025-02-09 08:34:14 - INFO - Final Portfolio Value: 87,224,427.64
+2025-02-09 08:34:14 - INFO - Total Return: 144.16%
+2025-02-09 08:35:25 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 08:35:25 - INFO - Initial Portfolio Value: 91,539,102.00
+2025-02-09 08:35:25 - INFO - Final Portfolio Value: 139,315,327.39
+2025-02-09 08:35:25 - INFO - Total Return: 52.19%
+2025-02-09 08:36:35 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 08:36:35 - INFO - Initial Portfolio Value: 12,931,493.00
+2025-02-09 08:36:35 - INFO - Final Portfolio Value: 11,286,055.00
+2025-02-09 08:36:35 - INFO - Total Return: -12.72%
+2025-02-09 08:37:34 - INFO - 
+=== Training Metrics (Epoch 57) ===
+2025-02-09 08:37:34 - INFO - Loss: 0.358899
+2025-02-09 08:37:34 - INFO - Mean Return: 97.097845
+2025-02-09 08:37:45 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 08:37:45 - INFO - Initial Portfolio Value: 16,414,922.00
+2025-02-09 08:37:45 - INFO - Final Portfolio Value: 14,363,660.27
+2025-02-09 08:37:45 - INFO - Total Return: -12.50%
+2025-02-09 08:38:56 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 08:38:56 - INFO - Initial Portfolio Value: 93,007,004.00
+2025-02-09 08:38:56 - INFO - Final Portfolio Value: 376,468,057.03
+2025-02-09 08:38:56 - INFO - Total Return: 304.77%
+2025-02-09 08:40:04 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 08:40:04 - INFO - Initial Portfolio Value: 19,897,236.00
+2025-02-09 08:40:04 - INFO - Final Portfolio Value: 153,339,317.76
+2025-02-09 08:40:04 - INFO - Total Return: 670.66%
+2025-02-09 08:41:03 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 08:41:03 - INFO - Initial Portfolio Value: 33,073,016.00
+2025-02-09 08:41:03 - INFO - Final Portfolio Value: 40,232,060.90
+2025-02-09 08:41:03 - INFO - Total Return: 21.65%
+2025-02-09 08:42:13 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 08:42:13 - INFO - Initial Portfolio Value: 21,906,378.00
+2025-02-09 08:42:13 - INFO - Final Portfolio Value: 46,417,492.71
+2025-02-09 08:42:13 - INFO - Total Return: 111.89%
+2025-02-09 08:43:23 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 08:43:23 - INFO - Initial Portfolio Value: 35,501,366.00
+2025-02-09 08:43:23 - INFO - Final Portfolio Value: 195,025,884.28
+2025-02-09 08:43:23 - INFO - Total Return: 449.35%
+2025-02-09 08:44:34 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 08:44:34 - INFO - Initial Portfolio Value: 86,045,428.00
+2025-02-09 08:44:34 - INFO - Final Portfolio Value: 210,189,723.14
+2025-02-09 08:44:34 - INFO - Total Return: 144.28%
+2025-02-09 08:45:44 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 08:45:44 - INFO - Initial Portfolio Value: 26,951,251.00
+2025-02-09 08:45:44 - INFO - Final Portfolio Value: 41,014,640.16
+2025-02-09 08:45:44 - INFO - Total Return: 52.18%
+2025-02-09 08:46:54 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 08:46:54 - INFO - Initial Portfolio Value: 86,579,314.00
+2025-02-09 08:46:54 - INFO - Final Portfolio Value: 75,563,539.60
+2025-02-09 08:46:54 - INFO - Total Return: -12.72%
+2025-02-09 08:47:51 - INFO - 
+=== Training Metrics (Epoch 58) ===
+2025-02-09 08:47:51 - INFO - Loss: 0.557323
+2025-02-09 08:47:51 - INFO - Mean Return: 97.047146
+2025-02-09 08:48:04 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 08:48:04 - INFO - Initial Portfolio Value: 21,135,583.00
+2025-02-09 08:48:04 - INFO - Final Portfolio Value: 18,450,921.00
+2025-02-09 08:48:04 - INFO - Total Return: -12.70%
+2025-02-09 08:49:14 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 08:49:14 - INFO - Initial Portfolio Value: 34,753,628.00
+2025-02-09 08:49:14 - INFO - Final Portfolio Value: 140,693,815.81
+2025-02-09 08:49:14 - INFO - Total Return: 304.83%
+2025-02-09 08:50:21 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 08:50:21 - INFO - Initial Portfolio Value: 54,214,137.00
+2025-02-09 08:50:21 - INFO - Final Portfolio Value: 418,320,388.66
+2025-02-09 08:50:21 - INFO - Total Return: 671.61%
+2025-02-09 08:51:20 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 08:51:20 - INFO - Initial Portfolio Value: 52,729,549.00
+2025-02-09 08:51:20 - INFO - Final Portfolio Value: 64,238,141.07
+2025-02-09 08:51:20 - INFO - Total Return: 21.83%
+2025-02-09 08:52:31 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 08:52:31 - INFO - Initial Portfolio Value: 28,678,344.00
+2025-02-09 08:52:31 - INFO - Final Portfolio Value: 60,748,044.82
+2025-02-09 08:52:31 - INFO - Total Return: 111.83%
+2025-02-09 08:53:44 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 08:53:44 - INFO - Initial Portfolio Value: 94,403,650.00
+2025-02-09 08:53:44 - INFO - Final Portfolio Value: 518,698,555.56
+2025-02-09 08:53:44 - INFO - Total Return: 449.45%
+2025-02-09 08:54:55 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 08:54:55 - INFO - Initial Portfolio Value: 43,775,222.00
+2025-02-09 08:54:55 - INFO - Final Portfolio Value: 106,918,457.19
+2025-02-09 08:54:55 - INFO - Total Return: 144.24%
+2025-02-09 08:56:06 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 08:56:06 - INFO - Initial Portfolio Value: 71,966,171.00
+2025-02-09 08:56:06 - INFO - Final Portfolio Value: 109,451,982.29
+2025-02-09 08:56:06 - INFO - Total Return: 52.09%
+2025-02-09 08:57:17 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 08:57:17 - INFO - Initial Portfolio Value: 11,162,329.00
+2025-02-09 08:57:17 - INFO - Final Portfolio Value: 9,742,056.20
+2025-02-09 08:57:17 - INFO - Total Return: -12.72%
+2025-02-09 08:58:16 - INFO - 
+=== Training Metrics (Epoch 59) ===
+2025-02-09 08:58:16 - INFO - Loss: 0.592099
+2025-02-09 08:58:16 - INFO - Mean Return: 97.097180
+2025-02-09 08:58:27 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 08:58:27 - INFO - Initial Portfolio Value: 16,993,961.00
+2025-02-09 08:58:27 - INFO - Final Portfolio Value: 14,838,912.50
+2025-02-09 08:58:27 - INFO - Total Return: -12.68%
+2025-02-09 08:59:38 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 08:59:38 - INFO - Initial Portfolio Value: 76,734,725.00
+2025-02-09 08:59:38 - INFO - Final Portfolio Value: 310,604,468.04
+2025-02-09 08:59:38 - INFO - Total Return: 304.78%
+2025-02-09 09:00:45 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 09:00:45 - INFO - Initial Portfolio Value: 63,043,382.00
+2025-02-09 09:00:45 - INFO - Final Portfolio Value: 486,245,412.72
+2025-02-09 09:00:45 - INFO - Total Return: 671.29%
+2025-02-09 09:01:44 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 09:01:44 - INFO - Initial Portfolio Value: 91,521,640.00
+2025-02-09 09:01:44 - INFO - Final Portfolio Value: 111,343,920.10
+2025-02-09 09:01:44 - INFO - Total Return: 21.66%
+2025-02-09 09:02:55 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 09:02:55 - INFO - Initial Portfolio Value: 26,776,103.00
+2025-02-09 09:02:55 - INFO - Final Portfolio Value: 56,714,589.52
+2025-02-09 09:02:55 - INFO - Total Return: 111.81%
+2025-02-09 09:04:07 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 09:04:07 - INFO - Initial Portfolio Value: 35,448,681.00
+2025-02-09 09:04:07 - INFO - Final Portfolio Value: 194,685,248.88
+2025-02-09 09:04:07 - INFO - Total Return: 449.20%
+2025-02-09 09:05:18 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 09:05:18 - INFO - Initial Portfolio Value: 76,832,039.00
+2025-02-09 09:05:18 - INFO - Final Portfolio Value: 187,647,367.87
+2025-02-09 09:05:18 - INFO - Total Return: 144.23%
+2025-02-09 09:06:29 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 09:06:29 - INFO - Initial Portfolio Value: 44,320,679.00
+2025-02-09 09:06:29 - INFO - Final Portfolio Value: 67,490,665.44
+2025-02-09 09:06:29 - INFO - Total Return: 52.28%
+2025-02-09 09:07:38 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 09:07:38 - INFO - Initial Portfolio Value: 52,812,831.00
+2025-02-09 09:07:38 - INFO - Final Portfolio Value: 46,092,515.80
+2025-02-09 09:07:38 - INFO - Total Return: -12.72%
+2025-02-09 09:08:37 - INFO - 
+=== Training Metrics (Epoch 60) ===
+2025-02-09 09:08:37 - INFO - Loss: 0.500449
+2025-02-09 09:08:37 - INFO - Mean Return: 97.063171
+2025-02-09 09:08:49 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 09:08:49 - INFO - Initial Portfolio Value: 54,234,569.00
+2025-02-09 09:08:49 - INFO - Final Portfolio Value: 47,363,335.34
+2025-02-09 09:08:49 - INFO - Total Return: -12.67%
+2025-02-09 09:09:59 - INFO - 
+=== Portfolio Performance Summary (SK) ===
+2025-02-09 09:09:59 - INFO - Initial Portfolio Value: 35,403,290.00
+2025-02-09 09:09:59 - INFO - Final Portfolio Value: 143,366,880.45
+2025-02-09 09:09:59 - INFO - Total Return: 304.95%
+2025-02-09 09:11:07 - INFO - 
+=== Portfolio Performance Summary (samsung_bio) ===
+2025-02-09 09:11:07 - INFO - Initial Portfolio Value: 48,650,608.00
+2025-02-09 09:11:07 - INFO - Final Portfolio Value: 374,630,550.58
+2025-02-09 09:11:07 - INFO - Total Return: 670.04%
+2025-02-09 09:12:06 - INFO - 
+=== Portfolio Performance Summary (hyundai) ===
+2025-02-09 09:12:06 - INFO - Initial Portfolio Value: 56,882,536.00
+2025-02-09 09:12:06 - INFO - Final Portfolio Value: 69,286,004.90
+2025-02-09 09:12:06 - INFO - Total Return: 21.81%
+2025-02-09 09:13:16 - INFO - 
+=== Portfolio Performance Summary (kia) ===
+2025-02-09 09:13:16 - INFO - Initial Portfolio Value: 96,418,278.00
+2025-02-09 09:13:16 - INFO - Final Portfolio Value: 204,308,667.44
+2025-02-09 09:13:16 - INFO - Total Return: 111.90%
+2025-02-09 09:14:27 - INFO - 
+=== Portfolio Performance Summary (celltrion) ===
+2025-02-09 09:14:27 - INFO - Initial Portfolio Value: 14,098,325.00
+2025-02-09 09:14:27 - INFO - Final Portfolio Value: 77,447,411.68
+2025-02-09 09:14:27 - INFO - Total Return: 449.34%
+2025-02-09 09:15:37 - INFO - 
+=== Portfolio Performance Summary (KB) ===
+2025-02-09 09:15:37 - INFO - Initial Portfolio Value: 86,122,530.00
+2025-02-09 09:15:37 - INFO - Final Portfolio Value: 210,367,563.61
+2025-02-09 09:15:37 - INFO - Total Return: 144.27%
+2025-02-09 09:16:50 - INFO - 
+=== Portfolio Performance Summary (NAVER) ===
+2025-02-09 09:16:50 - INFO - Initial Portfolio Value: 51,586,859.00
+2025-02-09 09:16:50 - INFO - Final Portfolio Value: 78,555,361.34
+2025-02-09 09:16:50 - INFO - Total Return: 52.28%
+2025-02-09 09:18:01 - INFO - 
+=== Portfolio Performance Summary (samsungcnt) ===
+2025-02-09 09:18:01 - INFO - Initial Portfolio Value: 48,806,045.00
+2025-02-09 09:18:01 - INFO - Final Portfolio Value: 42,614,525.37
+2025-02-09 09:18:01 - INFO - Total Return: -12.69%
+2025-02-09 09:19:01 - INFO - 
+=== Training Metrics (Epoch 61) ===
+2025-02-09 09:19:01 - INFO - Loss: 0.515876
+2025-02-09 09:19:01 - INFO - Mean Return: 97.028772
+2025-02-09 09:19:13 - INFO - 
+=== Portfolio Performance Summary (samsung) ===
+2025-02-09 09:19:13 - INFO - Initial Portfolio Value: 54,572,201.00
+2025-02-09 09:19:13 - INFO - Final Portfolio Value: 47,626,720.60
+2025-02-09 09:19:13 - INFO - Total Return: -12.73%
