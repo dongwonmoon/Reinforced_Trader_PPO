@@ -1,4 +1,5 @@
 import pandas as pd
+
 from config.user_settings import setting
 
 
@@ -22,8 +23,12 @@ class Environment:
     def observe(self):
         if len(self.chart_data) - self.window >= self.idx + 1:
             self.idx += 1
-            self.observation = self.chart_data.iloc[self.idx : self.idx + self.window]
-            self.done = 0 if len(self.chart_data) - self.window >= self.idx + 1 else 1
+            self.observation = self.chart_data.iloc[
+                self.idx : self.idx + self.window
+            ]
+            self.done = (
+                0 if len(self.chart_data) - self.window > self.idx else 1
+            )
             return self.observation
         return None
 
